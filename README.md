@@ -17,3 +17,7 @@
 ## 往期文章
 
 - [2026-06-08 — Anthropic Just Confirmed AI Is Building AI — And It's Accelerating](articles/2026-06-08-anthropic-recursive-self-improvement.md)
+- [2026-06-08 — An AI Just Designed a Vaccine From Scratch — And It Passed Its First Human Trial](articles/2026-06-08-ai-designed-vaccine-first-human-trial.md)
+- [2026-06-08 — This 3D AI Lets You Talk to Physical Space — And It Runs 400× Faster Than Before](articles/2026-06-08-lightsplat-3d-spatial-ai.md)
+- [2026-06-08 — Google Just Made AI Agent Infrastructure Boring](articles/2026-06-08-gemini-managed-agents-api.md)
+- [2026-06-08 — Perplexity Just Rearchitected Search for AI Agents](articles/2026-06-08-perplexity-search-as-code.md)
