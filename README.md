@@ -16,4 +16,4 @@
 
 ## 往期文章
 
-（每日自动更新）
+- [2026-06-08 — Anthropic Just Confirmed AI Is Building AI — And It's Accelerating](articles/2026-06-08-anthropic-recursive-self-improvement.md)
