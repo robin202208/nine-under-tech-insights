@@ -25,3 +25,4 @@
 - [2026-06-08 — Perplexity Just Rearchitected Search for AI Agents](articles/2026-06-08-perplexity-search-as-code.md)
 - [2026-06-08 — Quantum Circuits Just Ran Inside a Production LLM — And It Actually Worked](articles/2026-06-08-quantum-circuits-llm-memory-breakthrough.md)
 - [2026-06-08 — MiniMax Just Open-Sourced an Agent Model That Runs 24 Hours Straight — And Beats GPT-5.5 at Coding](articles/2026-06-08-minimax-m3-open-source-agent-model.md)
+- [Google Agentic RAG: The Quality Gate Between Retrieval and Generation](articles/2026-06-08-google-agentic-rag.md)
