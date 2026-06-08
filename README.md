@@ -23,3 +23,5 @@
 - [2026-06-08 — This 3D AI Lets You Talk to Physical Space — And It Runs 400× Faster Than Before](articles/2026-06-08-lightsplat-3d-spatial-ai.md)
 - [2026-06-08 — Google Just Made AI Agent Infrastructure Boring](articles/2026-06-08-gemini-managed-agents-api.md)
 - [2026-06-08 — Perplexity Just Rearchitected Search for AI Agents](articles/2026-06-08-perplexity-search-as-code.md)
+- [2026-06-08 — Quantum Circuits Just Ran Inside a Production LLM — And It Actually Worked](articles/2026-06-08-quantum-circuits-llm-memory-breakthrough.md)
+- [2026-06-08 — MiniMax Just Open-Sourced an Agent Model That Runs 24 Hours Straight — And Beats GPT-5.5 at Coding](articles/2026-06-08-minimax-m3-open-source-agent-model.md)
