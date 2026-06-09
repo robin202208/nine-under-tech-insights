@@ -16,6 +16,8 @@
 
 ## 往期文章
 
+- [2026-06-09 — GitHub Just Turned Copilot Into a Platform — And Gave Every Developer the Same Agent Engine](articles/2026-06-09-github-copilot-sdk-platform.md)
+- [2026-06-09 — CVSS 10.0: Hackers Are Exploiting LiteLLM to Seize AI Infrastructure With Zero Credentials](articles/2026-06-09-litellm-rce-supply-chain.md)
 - [2026-06-09 — NVIDIA Just Released an Open World Model for Physical AI — And It's Not Just a Demo](articles/2026-06-09-nvidia-cosmos3-physical-ai-world-model.md)
 - [2026-06-09 — Stanford and MIT Just Fixed the Biggest Problem With AI Agent Reasoning](articles/2026-06-09-stanford-recap-agent-reasoning.md)
 - [2026-06-09 — Apple Just Rebuilt Its AI on Google Gemini — And Kept Its Privacy Promise](articles/2026-06-09-apple-gemini-ai-architecture.md)
