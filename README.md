@@ -16,6 +16,8 @@
 
 ## 往期文章
 
+- [2026-06-09 — NVIDIA Just Released an Open World Model for Physical AI — And It's Not Just a Demo](articles/2026-06-09-nvidia-cosmos3-physical-ai-world-model.md)
+- [2026-06-09 — Stanford and MIT Just Fixed the Biggest Problem With AI Agent Reasoning](articles/2026-06-09-stanford-recap-agent-reasoning.md)
 - [2026-06-09 — Apple Just Rebuilt Its AI on Google Gemini — And Kept Its Privacy Promise](articles/2026-06-09-apple-gemini-ai-architecture.md)
 - [2026-06-09 — Microsoft Lens Proves Data Quality Beats Model Size: 3.8B Outperforms 80B](articles/2026-06-09-microsoft-lens-caption-quality.md)
 - [2026-06-09 — LightningLM 0.1V: A 120B Sparse MoE Trained on a Single 8-GPU Node](articles/2026-06-09-lightninglm-120b-single-node-moe.md)
