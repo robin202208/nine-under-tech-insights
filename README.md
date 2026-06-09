@@ -18,6 +18,8 @@
 
 - [2026-06-09 — Apple Just Rebuilt Its AI on Google Gemini — And Kept Its Privacy Promise](articles/2026-06-09-apple-gemini-ai-architecture.md)
 - [2026-06-09 — Microsoft Lens Proves Data Quality Beats Model Size: 3.8B Outperforms 80B](articles/2026-06-09-microsoft-lens-caption-quality.md)
+- [2026-06-09 — LightningLM 0.1V: A 120B Sparse MoE Trained on a Single 8-GPU Node](articles/2026-06-09-lightninglm-120b-single-node-moe.md)
+- [2026-06-09 — OpenAI Dreaming V3: ChatGPT's Memory Just Became a Real Architecture](articles/2026-06-09-openai-dreaming-v3-memory-architecture.md)
 - [2026-06-08 — MIT Just Gave AI a Formal Way to Rewrite Its Own Mind](articles/2026-06-08-mit-category-theory-ai-discovery.md)
 - [2026-06-08 — NVIDIA Just Redesigned the AI Model for Agents — Not Chat](articles/2026-06-08-nemotron-3-ultra-agent-economics.md)
 - [2026-06-08 — Anthropic Just Confirmed AI Is Building AI — And It's Accelerating](articles/2026-06-08-anthropic-recursive-self-improvement.md)
