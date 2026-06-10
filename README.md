@@ -16,6 +16,8 @@
 
 ## 往期文章
 
+- [2026-06-10 — NIST Just Proved That AI Security Can Never Be "One and Done"](articles/2026-06-10-nist-godel-ai-security-impossible.md)
+- [2026-06-10 — An LLM Just Solved a 20-Year Open Problem in Algorithmic Game Theory](articles/2026-06-10-llm-nash-equilibrium-discovery.md)
 - [2026-06-09 — GitHub Just Turned Copilot Into a Platform — And Gave Every Developer the Same Agent Engine](articles/2026-06-09-github-copilot-sdk-platform.md)
 - [2026-06-09 — CVSS 10.0: Hackers Are Exploiting LiteLLM to Seize AI Infrastructure With Zero Credentials](articles/2026-06-09-litellm-rce-supply-chain.md)
 - [2026-06-09 — NVIDIA Just Released an Open World Model for Physical AI — And It's Not Just a Demo](articles/2026-06-09-nvidia-cosmos3-physical-ai-world-model.md)
