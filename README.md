@@ -16,6 +16,8 @@
 
 ## 往期文章
 
+- [2026-06-10 — A German Court Just Ruled That AI Hallucinations Are Google's Problem — Not Yours](articles/2026-06-10-german-court-google-ai-liability.md)
+- [2026-06-10 — Meta Just Showed That One Good Query Beats an Army of AI Agents](articles/2026-06-10-meta-sira-superintelligent-retrieval.md)
 - [2026-06-10 — Google Just Solved the KV Cache Bottleneck — And You Don't Need to Retrain](articles/2026-06-10-google-turboquant-kv-cache-compression.md)
 - [2026-06-10 — RoPE Just Got a Replacement — And It Learns What to Forget Per Channel](articles/2026-06-10-wall-attention-rope-replacement.md)
 - [2026-06-10 — Anthropic Just Gave the Public Its First Taste of Mythos — and It's Called Claude Payble 5](articles/2026-06-10-anthropic-claude-payble5-mythos-public.md)
