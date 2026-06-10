@@ -16,6 +16,8 @@
 
 ## 往期文章
 
+- [2026-06-10 — Anthropic Just Gave the Public Its First Taste of Mythos — and It's Called Claude Payble 5](articles/2026-06-10-anthropic-claude-payble5-mythos-public.md)
+- [2026-06-10 — Cohere Just Made Enterprise-Grade AI Coding Open Source — and It Runs on 3B Active Parameters](articles/2026-06-10-cohere-north-mini-code-moe.md)
 - [2026-06-10 — NIST Just Proved That AI Security Can Never Be "One and Done"](articles/2026-06-10-nist-godel-ai-security-impossible.md)
 - [2026-06-10 — An LLM Just Solved a 20-Year Open Problem in Algorithmic Game Theory](articles/2026-06-10-llm-nash-equilibrium-discovery.md)
 - [2026-06-09 — GitHub Just Turned Copilot Into a Platform — And Gave Every Developer the Same Agent Engine](articles/2026-06-09-github-copilot-sdk-platform.md)
