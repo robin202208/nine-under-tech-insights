@@ -16,6 +16,8 @@
 
 ## 往期文章
 
+- [2026-06-10 — Google Just Solved the KV Cache Bottleneck — And You Don't Need to Retrain](articles/2026-06-10-google-turboquant-kv-cache-compression.md)
+- [2026-06-10 — RoPE Just Got a Replacement — And It Learns What to Forget Per Channel](articles/2026-06-10-wall-attention-rope-replacement.md)
 - [2026-06-10 — Anthropic Just Gave the Public Its First Taste of Mythos — and It's Called Claude Payble 5](articles/2026-06-10-anthropic-claude-payble5-mythos-public.md)
 - [2026-06-10 — Cohere Just Made Enterprise-Grade AI Coding Open Source — and It Runs on 3B Active Parameters](articles/2026-06-10-cohere-north-mini-code-moe.md)
 - [2026-06-10 — NIST Just Proved That AI Security Can Never Be "One and Done"](articles/2026-06-10-nist-godel-ai-security-impossible.md)
