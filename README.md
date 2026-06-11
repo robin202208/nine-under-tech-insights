@@ -16,6 +16,8 @@
 
 ## 往期文章
 
+- [2026-06-11 — Visa Just Gave Every AI Agent a Credit Card — And It Changes Everything](articles/2026-06-11-visa-chatgpt-ai-agent-payments.md)
+- [2026-06-11 — A New Math Trick Just Made LLM Training Safer — Without Touching Inference](articles/2026-06-11-pc-layer-polynomial-preconditioning-llm-training.md)
 - [2026-06-11 — AI Agents Just Rebuilt Git From Scratch in Rust — And 99.3% of Tests Passed](articles/2026-06-11-grit-ai-agents-rewrite-git-rust.md)
 - [2026-06-11 — Xiaomi Just Open-Sourced a Coding Agent That Actually Remembers What It's Doing](articles/2026-06-11-xiaomi-mimo-code-persistent-agent-memory.md)
 - [2026-06-11 — Google Just Made LLMs Generate Text Like Stable Diffusion — And It's 4× Faster](articles/2026-06-11-google-diffusion-gemma-text-generation.md)
