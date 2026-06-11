@@ -16,6 +16,8 @@
 
 ## 往期文章
 
+- [2026-06-11 — AI Agents Just Rebuilt Git From Scratch in Rust — And 99.3% of Tests Passed](articles/2026-06-11-grit-ai-agents-rewrite-git-rust.md)
+- [2026-06-11 — Xiaomi Just Open-Sourced a Coding Agent That Actually Remembers What It's Doing](articles/2026-06-11-xiaomi-mimo-code-persistent-agent-memory.md)
 - [2026-06-11 — Google Just Made LLMs Generate Text Like Stable Diffusion — And It's 4× Faster](articles/2026-06-11-google-diffusion-gemma-text-generation.md)
 - [2026-06-11 — Jeff Bezos Just Bet $100M That the Brain Runs AI 30× More Efficiently Than GPUs](articles/2026-06-11-flourish-bezos-brain-inspired-cortex-ai.md)
 - [2026-06-10 — A German Court Just Ruled That AI Hallucinations Are Google's Problem — Not Yours](articles/2026-06-10-german-court-google-ai-liability.md)
