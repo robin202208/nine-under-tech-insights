@@ -16,6 +16,8 @@
 
 ## 往期文章
 
+- [2026-06-11 — Autonomous Drones Just Killed Humans Without a Human Pulling the Trigger — For the First Time](articles/2026-06-11-autonomous-drones-first-human-kill.md)
+- [2026-06-11 — Elon Musk's xAI Just Got Sued by a Whistleblower Who Refused to Ship Unsafe AI](articles/2026-06-11-xai-whistleblower-ai-safety-lawsuit.md)
 - [2026-06-11 — Visa Just Gave Every AI Agent a Credit Card — And It Changes Everything](articles/2026-06-11-visa-chatgpt-ai-agent-payments.md)
 - [2026-06-11 — A New Math Trick Just Made LLM Training Safer — Without Touching Inference](articles/2026-06-11-pc-layer-polynomial-preconditioning-llm-training.md)
 - [2026-06-11 — AI Agents Just Rebuilt Git From Scratch in Rust — And 99.3% of Tests Passed](articles/2026-06-11-grit-ai-agents-rewrite-git-rust.md)
