@@ -16,6 +16,8 @@
 
 ## 往期文章
 
+- [2026-06-11 — Google Just Made LLMs Generate Text Like Stable Diffusion — And It's 4× Faster](articles/2026-06-11-google-diffusion-gemma-text-generation.md)
+- [2026-06-11 — Jeff Bezos Just Bet $100M That the Brain Runs AI 30× More Efficiently Than GPUs](articles/2026-06-11-flourish-bezos-brain-inspired-cortex-ai.md)
 - [2026-06-10 — A German Court Just Ruled That AI Hallucinations Are Google's Problem — Not Yours](articles/2026-06-10-german-court-google-ai-liability.md)
 - [2026-06-10 — Meta Just Showed That One Good Query Beats an Army of AI Agents](articles/2026-06-10-meta-sira-superintelligent-retrieval.md)
 - [2026-06-10 — Google Just Solved the KV Cache Bottleneck — And You Don't Need to Retrain](articles/2026-06-10-google-turboquant-kv-cache-compression.md)
