@@ -16,6 +16,8 @@
 
 ## 往期文章
 
+- [2026-06-12 — Less Context, Better Answers: A Bi-Temporal Memory Engine Just Solved the Biggest LLM Agent Problem](articles/2026-06-12-engram-bi-temporal-memory-engine.md)
+- [2026-06-12 — Anthropic's CEO Just Proposed Treating AI Models Like Aircraft — With the FAA as the Model](articles/2026-06-12-amodei-ai-cold-war-policy-framework.md)
 - [2026-06-11 — Autonomous Drones Just Killed Humans Without a Human Pulling the Trigger — For the First Time](articles/2026-06-11-autonomous-drones-first-human-kill.md)
 - [2026-06-11 — Elon Musk's xAI Just Got Sued by a Whistleblower Who Refused to Ship Unsafe AI](articles/2026-06-11-xai-whistleblower-ai-safety-lawsuit.md)
 - [2026-06-11 — Visa Just Gave Every AI Agent a Credit Card — And It Changes Everything](articles/2026-06-11-visa-chatgpt-ai-agent-payments.md)
