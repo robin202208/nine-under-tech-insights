@@ -16,6 +16,8 @@
 
 ## 往期文章
 
+- [2026-06-12 — A Single 7B Model Now Understands, Generates, and Edits Images — With One Architecture](articles/2026-06-12-arm-unified-multimodal-autoregressive-model.md)
+- [2026-06-12 — Anthropic Called Fable 5 "SOTA for Vision." Independent Benchmarks Say It Ranks 10th](articles/2026-06-12-claude-fable-5-vision-benchmark-reality-check.md)
 - [2026-06-12 — Microsoft Just Made Agent Skills Trainable Like Neural Networks — Without Touching Model Weights](articles/2026-06-12-microsoft-skillopt-text-space-optimizer.md)
 - [2026-06-12 — An AI Just Beat a Two-Year Human Optimization Effort — on Three Benchmarks at Once](articles/2026-06-12-recursive-automated-ai-research-benchmarks.md)
 - [2026-06-12 — Less Context, Better Answers: A Bi-Temporal Memory Engine Just Solved the Biggest LLM Agent Problem](articles/2026-06-12-engram-bi-temporal-memory-engine.md)
