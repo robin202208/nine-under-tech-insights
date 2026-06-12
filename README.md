@@ -16,6 +16,8 @@
 
 ## 往期文章
 
+- [2026-06-12 — Microsoft Just Open-Sourced the Agent Framework It Uses in Production — And It's MIT Licensed](articles/2026-06-12-microsoft-agent-framework-production-open-source.md)
+- [2026-06-12 — The Transformer Finally Has a Serious Competitor — And It Came From State Space Models](articles/2026-06-12-mamba-3-state-space-models-beat-transformers.md)
 - [2026-06-12 — A Single 7B Model Now Understands, Generates, and Edits Images — With One Architecture](articles/2026-06-12-arm-unified-multimodal-autoregressive-model.md)
 - [2026-06-12 — Anthropic Called Fable 5 "SOTA for Vision." Independent Benchmarks Say It Ranks 10th](articles/2026-06-12-claude-fable-5-vision-benchmark-reality-check.md)
 - [2026-06-12 — Microsoft Just Made Agent Skills Trainable Like Neural Networks — Without Touching Model Weights](articles/2026-06-12-microsoft-skillopt-text-space-optimizer.md)
