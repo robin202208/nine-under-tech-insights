@@ -16,6 +16,8 @@
 
 ## 往期文章
 
+- [2026-06-13 — MiniMax Just Made 1M-Token Context 28× Cheaper — Without Losing a Single Benchmark Point](articles/2026-06-13-minimax-sparse-attention-28x-speedup.md)
+- [2026-06-13 — Scientists Found a Way to Flip a Misaligned AI Back to Safe — With Zero Retraining](articles/2026-06-13-alignment-gating-reversible-misalignment.md)
 - [2026-06-12 — Microsoft Just Open-Sourced the Agent Framework It Uses in Production — And It's MIT Licensed](articles/2026-06-12-microsoft-agent-framework-production-open-source.md)
 - [2026-06-12 — The Transformer Finally Has a Serious Competitor — And It Came From State Space Models](articles/2026-06-12-mamba-3-state-space-models-beat-transformers.md)
 - [2026-06-12 — A Single 7B Model Now Understands, Generates, and Edits Images — With One Architecture](articles/2026-06-12-arm-unified-multimodal-autoregressive-model.md)
