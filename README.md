@@ -16,6 +16,8 @@
 
 ## 往期文章
 
+- [2026-06-13 — Someone Just Fixed the KV Cache Eviction Problem — And It Makes LLM Serving 2× Faster](articles/2026-06-13-asymcache-multi-segment-attention-kv-cache.md)
+- [2026-06-13 — GRPO Just Got a 2.7× Convergence Speedup — And It Came From Smarter Exploration, Not Bigger Models](articles/2026-06-13-xrpo-grpo-exploration-exploitation-reasoning.md)
 - [2026-06-13 — Someone Just Built a Firewall for AI Agents — And It Exposes a Gap Nobody Was Talking About](articles/2026-06-13-sentinel-mcp-agent-firewall.md)
 - [2026-06-13 — Kimi K2.7 Code Just Dropped — And the Specialized Coding Model Race Just Got Crowded](articles/2026-06-13-kimi-k27-code-specialized-model.md)
 - [2026-06-13 — Bezos Just Bet $12 Billion That AI's Next Frontier Isn't Software — It's Atoms](articles/2026-06-13-bezos-prometheus-artificial-general-engineer.md)
