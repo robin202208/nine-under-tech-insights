@@ -16,6 +16,8 @@
 
 ## 往期文章
 
+- [2026-06-13 — Bezos Just Bet $12 Billion That AI's Next Frontier Isn't Software — It's Atoms](articles/2026-06-13-bezos-prometheus-artificial-general-engineer.md)
+- [2026-06-13 — Meta Drafted 6,500 Engineers Into Its AI Division. They're Calling It a Gulag.](articles/2026-06-13-meta-ai-gulag-human-cost.md)
 - [2026-06-13 — MiniMax Just Made 1M-Token Context 28× Cheaper — Without Losing a Single Benchmark Point](articles/2026-06-13-minimax-sparse-attention-28x-speedup.md)
 - [2026-06-13 — Scientists Found a Way to Flip a Misaligned AI Back to Safe — With Zero Retraining](articles/2026-06-13-alignment-gating-reversible-misalignment.md)
 - [2026-06-12 — Microsoft Just Open-Sourced the Agent Framework It Uses in Production — And It's MIT Licensed](articles/2026-06-12-microsoft-agent-framework-production-open-source.md)
