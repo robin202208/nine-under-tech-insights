@@ -16,6 +16,8 @@
 
 ## 往期文章
 
+- [2026-06-13 — Someone Just Built a Firewall for AI Agents — And It Exposes a Gap Nobody Was Talking About](articles/2026-06-13-sentinel-mcp-agent-firewall.md)
+- [2026-06-13 — Kimi K2.7 Code Just Dropped — And the Specialized Coding Model Race Just Got Crowded](articles/2026-06-13-kimi-k27-code-specialized-model.md)
 - [2026-06-13 — Bezos Just Bet $12 Billion That AI's Next Frontier Isn't Software — It's Atoms](articles/2026-06-13-bezos-prometheus-artificial-general-engineer.md)
 - [2026-06-13 — Meta Drafted 6,500 Engineers Into Its AI Division. They're Calling It a Gulag.](articles/2026-06-13-meta-ai-gulag-human-cost.md)
 - [2026-06-13 — MiniMax Just Made 1M-Token Context 28× Cheaper — Without Losing a Single Benchmark Point](articles/2026-06-13-minimax-sparse-attention-28x-speedup.md)
