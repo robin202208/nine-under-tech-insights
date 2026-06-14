@@ -16,6 +16,8 @@
 
 ## 往期文章
 
+- [2026-06-14 — Panels of Models Beat Any Single Model — OpenRouter Fusion Ships Model Synthesis as an API](articles/2026-06-14-openrouter-fusion-model-panel-synthesis.md)
+- [2026-06-14 — 50,000 Sites, One $200 VM — Shopify Quick and the AI-Era Internal Platform](articles/2026-06-14-shopify-quick-ai-internal-platform.md)
 - [2026-06-14 — OpenAI Just Bought the Missing Half of AI Agents — and It Wasn't a Model Company](articles/2026-06-14-openai-acquires-ona-agent-execution-layer.md)
 - [2026-06-14 — Someone Just Built an Agent That Deploys Vibe-Coded Apps to Production — With One Command](articles/2026-06-14-opsera-vibeshift-autonomous-devops-agent.md)
 - [2026-06-14 — AI Agents Are Now Designing Their Own Inference Optimizations — And They're Better Than Ours](articles/2026-06-14-vortex-ai-agents-sparse-attention-design.md)
