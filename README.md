@@ -16,6 +16,8 @@
 
 ## 往期文章
 
+- [2026-06-14 — OpenAI Just Bought the Missing Half of AI Agents — and It Wasn't a Model Company](articles/2026-06-14-openai-acquires-ona-agent-execution-layer.md)
+- [2026-06-14 — Someone Just Built an Agent That Deploys Vibe-Coded Apps to Production — With One Command](articles/2026-06-14-opsera-vibeshift-autonomous-devops-agent.md)
 - [2026-06-14 — AI Agents Are Now Designing Their Own Inference Optimizations — And They're Better Than Ours](articles/2026-06-14-vortex-ai-agents-sparse-attention-design.md)
 - [2026-06-14 — China's Indium Phosphide Export Controls Are Choking the AI Data Center Buildout](articles/2026-06-14-china-inp-export-ai-data-center-bottleneck.md)
 - [2026-06-14 — The US Government Just Shut Down Anthropic's Most Powerful AI — And Set a Terrifying Precedent](articles/2026-06-14-anthropic-fable5-us-government-shutdown.md)
