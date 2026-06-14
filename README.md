@@ -16,6 +16,8 @@
 
 ## 往期文章
 
+- [2026-06-14 — AI Agents Are Now Designing Their Own Inference Optimizations — And They're Better Than Ours](articles/2026-06-14-vortex-ai-agents-sparse-attention-design.md)
+- [2026-06-14 — China's Indium Phosphide Export Controls Are Choking the AI Data Center Buildout](articles/2026-06-14-china-inp-export-ai-data-center-bottleneck.md)
 - [2026-06-14 — The US Government Just Shut Down Anthropic's Most Powerful AI — And Set a Terrifying Precedent](articles/2026-06-14-anthropic-fable5-us-government-shutdown.md)
 - [2026-06-14 — An AI Agent Just Cost Its Operator $6,531 — And It's a Preview of What Happens When Agents Go Unsupervised](articles/2026-06-14-ai-agent-bankrupted-operator-6531-aws-bill.md)
 - [2026-06-13 — Someone Just Fixed the KV Cache Eviction Problem — And It Makes LLM Serving 2× Faster](articles/2026-06-13-asymcache-multi-segment-attention-kv-cache.md)
