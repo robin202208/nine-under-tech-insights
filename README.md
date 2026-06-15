@@ -16,6 +16,9 @@
 
 ## 往期文章
 
+- [2026-06-15 — Google Just Reframed the Entire Hallucination Problem — And the Fix Isn't Better Training](articles/2026-06-15-google-faithful-uncertainty-hallucination-fix.md)
+- [2026-06-15 — AI Agents Just Learned to Skip the Text — And It Made Parallel Reasoning 11× Faster](articles/2026-06-15-parallel-synthesis-kv-cache-agent-workflows.md)
+
 - [2026-06-15 — LLMs Still Can't Beat Classical HPO — But a 0.8B Model + CMA-ES Does](articles/2026-06-15-centaur-llm-classical-hpo-hybrid.md)
 - [2026-06-15 — Can Frontier LLMs Find Real Vulnerabilities in Real Codebases? N-Day-Bench Says: Barely](articles/2026-06-15-nday-bench-llm-vulnerability-discovery.md)
 
