@@ -19,6 +19,9 @@
 - [2026-06-15 — LLMs Still Can't Beat Classical HPO — But a 0.8B Model + CMA-ES Does](articles/2026-06-15-centaur-llm-classical-hpo-hybrid.md)
 - [2026-06-15 — Can Frontier LLMs Find Real Vulnerabilities in Real Codebases? N-Day-Bench Says: Barely](articles/2026-06-15-nday-bench-llm-vulnerability-discovery.md)
 
+- [2026-06-15 — The AI Agent Protocol Stack Is Missing a Layer — And Nobody Is Talking About It](articles/2026-06-15-agent-protocol-transport-layer-missing.md)
+- [2026-06-15 — Someone Just Built a Rosetta Stone for AI Benchmarks — And It Has 22,235 Models](articles/2026-06-15-every-eval-ever-unified-ai-benchmark-schema.md)
+
 - [2026-06-14 — Panels of Models Beat Any Single Model — OpenRouter Fusion Ships Model Synthesis as an API](articles/2026-06-14-openrouter-fusion-model-panel-synthesis.md)
 - [2026-06-14 — 50,000 Sites, One $200 VM — Shopify Quick and the AI-Era Internal Platform](articles/2026-06-14-shopify-quick-ai-internal-platform.md)
 - [2026-06-14 — OpenAI Just Bought the Missing Half of AI Agents — and It Wasn't a Model Company](articles/2026-06-14-openai-acquires-ona-agent-execution-layer.md)
