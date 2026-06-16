@@ -16,6 +16,9 @@
 
 ## 往期文章
 
+- [2026-06-16 — Agent Training Has a Credit Assignment Problem — And It's Not Where You Think](articles/2026-06-16-appo-agentic-credit-assignment-rl.md)
+- [2026-06-16 — The Agent Harness Is the New Model — Runtime Infrastructure Might Matter More Than Scale](articles/2026-06-16-harnessx-evolvable-agent-runtime.md)
+
 - [2026-06-16 — Everyone's Been Tuning LoRA Wrong — The Scaling Factor, Not the Learning Rate, Is What Actually Matters](articles/2026-06-16-lora-alpha-scaling-factor-optimization.md)
 - [2026-06-16 — LLMs Are Wasting Most of Their Layers on Every Input — And Researchers Just Proved It](articles/2026-06-16-polar-dynamic-layer-execution-llm.md)
 
