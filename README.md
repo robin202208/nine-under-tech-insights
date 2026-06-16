@@ -16,6 +16,9 @@
 
 ## 往期文章
 
+- [2026-06-16 — Someone Built an AI Referee That Watches Agent Conversations for Emergent Evil — And It Works](articles/2026-06-16-arbiter-agent-multi-agent-misalignment-detection.md)
+- [2026-06-16 — AI Agents Don't Need Better Retrieval — They Need to Reconstruct Memory From Scratch Every Time](articles/2026-06-16-graph-memory-reconstructed-agents.md)
+
 - [2026-06-15 — Google Just Reframed the Entire Hallucination Problem — And the Fix Isn't Better Training](articles/2026-06-15-google-faithful-uncertainty-hallucination-fix.md)
 - [2026-06-15 — AI Agents Just Learned to Skip the Text — And It Made Parallel Reasoning 11× Faster](articles/2026-06-15-parallel-synthesis-kv-cache-agent-workflows.md)
 
