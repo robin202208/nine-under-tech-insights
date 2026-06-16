@@ -16,6 +16,9 @@
 
 ## 往期文章
 
+- [2026-06-16 — Everyone's Been Tuning LoRA Wrong — The Scaling Factor, Not the Learning Rate, Is What Actually Matters](articles/2026-06-16-lora-alpha-scaling-factor-optimization.md)
+- [2026-06-16 — LLMs Are Wasting Most of Their Layers on Every Input — And Researchers Just Proved It](articles/2026-06-16-polar-dynamic-layer-execution-llm.md)
+
 - [2026-06-16 — Someone Built an AI Referee That Watches Agent Conversations for Emergent Evil — And It Works](articles/2026-06-16-arbiter-agent-multi-agent-misalignment-detection.md)
 - [2026-06-16 — AI Agents Don't Need Better Retrieval — They Need to Reconstruct Memory From Scratch Every Time](articles/2026-06-16-graph-memory-reconstructed-agents.md)
 
