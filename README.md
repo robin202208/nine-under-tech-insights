@@ -16,6 +16,9 @@
 
 ## 往期文章
 
+- [2026-06-17 — LLMs Have an Internal Compass — And You Can Turn It](articles/2026-06-17-value-axis-llm-internal-compass.md)
+- [2026-06-17 — Your AI Agent's Context Window Is a Dumpster Fire — TokenPilot Just Fixed It](articles/2026-06-17-tokenpilot-agent-context-cost-reduction.md)
+
 - [2026-06-16 — Agent Training Has a Credit Assignment Problem — And It's Not Where You Think](articles/2026-06-16-appo-agentic-credit-assignment-rl.md)
 - [2026-06-16 — AI Agents Don't Just Hack Rewards — They Get Addicted to Visible Incentive Channels](articles/2026-06-16-greed-learned-reward-hacking-visible-incentives.md)
 - [2026-06-16 — Chain-of-Thought Has a Bottleneck Nobody Talks About — And Latent Reasoning Just Solved It](articles/2026-06-16-latent-thought-flow-efficient-reasoning.md)
