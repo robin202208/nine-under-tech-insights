@@ -16,6 +16,8 @@
 
 ## 往期文章
 
+- [2026-06-17 — Local LLMs Just Crossed the Agentic Coding Threshold — And Nobody's Talking About It](articles/2026-06-17-local-llms-agentic-coding-tipping-point.md)
+- [2026-06-17 — The Rise of Sovereign AI: Why Nation-States Are Building Their Own Language Models](articles/2026-06-17-sovereign-ai-nation-state-language-models.md)
 - [2026-06-17 — Alibaba Just Gave Robots a Foundation Model — And It Changes the Embodied AI Game](articles/2026-06-17-qwen-robot-suite-embodied-foundation-model.md)
 - [2026-06-17 — SpaceX Just Bought Cursor for $60 Billion — And It's Not About the Money](articles/2026-06-17-spacex-acquires-cursor-60b-ai-coding.md)
 
