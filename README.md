@@ -16,6 +16,8 @@
 
 ## 往期文章
 
+- [2026-06-17 — NVIDIA Just Proved GPU Kernels Can Be Memory-Safe in Rust — Without Losing a Single Percentage Point of Performance](articles/2026-06-17-cutile-rust-fearless-gpu-concurrency.md)
+- [2026-06-17 — Wolfram Language 15 Just Turned Every Notebook Into an AI Pair-Programming Environment — And It Goes Both Ways](articles/2026-06-17-wolfram-language-15-ai-integration.md)
 - [2026-06-17 — Local LLMs Just Crossed the Agentic Coding Threshold — And Nobody's Talking About It](articles/2026-06-17-local-llms-agentic-coding-tipping-point.md)
 - [2026-06-17 — The Rise of Sovereign AI: Why Nation-States Are Building Their Own Language Models](articles/2026-06-17-sovereign-ai-nation-state-language-models.md)
 - [2026-06-17 — Alibaba Just Gave Robots a Foundation Model — And It Changes the Embodied AI Game](articles/2026-06-17-qwen-robot-suite-embodied-foundation-model.md)
