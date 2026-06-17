@@ -16,6 +16,10 @@
 
 ## 往期文章
 
+- [2026-06-17 — Alibaba Just Gave Robots a Foundation Model — And It Changes the Embodied AI Game](articles/2026-06-17-qwen-robot-suite-embodied-foundation-model.md)
+- [2026-06-17 — SpaceX Just Bought Cursor for $60 Billion — And It's Not About the Money](articles/2026-06-17-spacex-acquires-cursor-60b-ai-coding.md)
+
+
 - [2026-06-17 — LLMs Have an Internal Compass — And You Can Turn It](articles/2026-06-17-value-axis-llm-internal-compass.md)
 - [2026-06-17 — Your AI Agent's Context Window Is a Dumpster Fire — TokenPilot Just Fixed It](articles/2026-06-17-tokenpilot-agent-context-cost-reduction.md)
 
