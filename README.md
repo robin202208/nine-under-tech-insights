@@ -16,6 +16,9 @@
 
 ## 往期文章
 
+- [2026-06-18 — What Happens When 11 LLMs Fight to the Death — And Why the Winner Isn't the One You'd Pick](articles/2026-06-18-openrouter-llm-battle-royale.md)
+- [2026-06-18 — AI Code Review Just Learned to Run Your Code — And That Changes Everything](articles/2026-06-18-trex-execution-aware-code-review.md)
+
 - [2026-06-18 — GLM-5.2 Dethrones Every Open Weights Model — And Matches GPT-5.5 on Agentic Tasks](articles/2026-06-18-glm52-open-weights-leader.md)
 - [2026-06-18 — Browser-Use Runs Firecracker VMs Inside EC2 VMs — And Makes It Fast](articles/2026-06-18-browser-use-firecracker-nested-vms.md)
 
