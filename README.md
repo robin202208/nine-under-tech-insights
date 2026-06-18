@@ -16,6 +16,9 @@
 
 ## 往期文章
 
+- [2026-06-18 — GLM-5.2 Dethrones Every Open Weights Model — And Matches GPT-5.5 on Agentic Tasks](articles/2026-06-18-glm52-open-weights-leader.md)
+- [2026-06-18 — Browser-Use Runs Firecracker VMs Inside EC2 VMs — And Makes It Fast](articles/2026-06-18-browser-use-firecracker-nested-vms.md)
+
 - [2026-06-17 — NVIDIA Just Proved GPU Kernels Can Be Memory-Safe in Rust — Without Losing a Single Percentage Point of Performance](articles/2026-06-17-cutile-rust-fearless-gpu-concurrency.md)
 - [2026-06-17 — Wolfram Language 15 Just Turned Every Notebook Into an AI Pair-Programming Environment — And It Goes Both Ways](articles/2026-06-17-wolfram-language-15-ai-integration.md)
 - [2026-06-17 — Local LLMs Just Crossed the Agentic Coding Threshold — And Nobody's Talking About It](articles/2026-06-17-local-llms-agentic-coding-tipping-point.md)
