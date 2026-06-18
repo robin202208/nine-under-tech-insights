@@ -16,6 +16,9 @@
 
 ## 往期文章
 
+- [2026-06-18 — Local Models Crossed the Usability Threshold — And It Only Took 6 Months](articles/2026-06-18-local-models-finally-good.md)
+- [2026-06-18 — AI Demands More Engineering Discipline, Not Less — And the Skeptics Are Wrong This Time](articles/2026-06-18-ai-engineering-discipline-paradox.md)
+
 - [2026-06-18 — What Happens When 11 LLMs Fight to the Death — And Why the Winner Isn't the One You'd Pick](articles/2026-06-18-openrouter-llm-battle-royale.md)
 - [2026-06-18 — AI Code Review Just Learned to Run Your Code — And That Changes Everything](articles/2026-06-18-trex-execution-aware-code-review.md)
 
