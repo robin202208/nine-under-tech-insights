@@ -16,6 +16,9 @@
 
 ## 往期文章
 
+- [2026-06-19 — A Founder's Honest Accounting of Running a Business on Local AI](articles/2026-06-19-local-qwen-founders-reality-check.md)
+- [2026-06-19 — DeepSeek Gets a Pass, 100+ Firms Don't — The Entity List Just Reshaped the AI Supply Chain](articles/2026-06-19-entity-list-ai-supply-chain.md)
+
 - [2026-06-19 — The Token Compression Illusion: Why 63,000 Stars Don't Make RTK Production-Ready](articles/2026-06-19-rtk-token-compression-illusion.md)
 - [2026-06-19 — x86 Just Got Native AI Instructions — And That Changes the Inference Hardware Game](articles/2026-06-19-ace-x86-native-ai-instructions.md)
 
