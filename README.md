@@ -16,6 +16,9 @@
 
 ## 往期文章
 
+- [2026-06-19 — The Token Compression Illusion: Why 63,000 Stars Don't Make RTK Production-Ready](articles/2026-06-19-rtk-token-compression-illusion.md)
+- [2026-06-19 — x86 Just Got Native AI Instructions — And That Changes the Inference Hardware Game](articles/2026-06-19-ace-x86-native-ai-instructions.md)
+
 - [2026-06-19 — Text-to-CAD Is Here: Adam Just Made Mechanical Engineering As Accessible As Coding](articles/2026-06-19-adam-open-source-ai-cad.md)
 - [2026-06-19 — Agent Memory Just Got a Production-Grade Blueprint — And It Runs on Elasticsearch](articles/2026-06-19-agent-memory-elasticsearch-blueprint.md)
 
