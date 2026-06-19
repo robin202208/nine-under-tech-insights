@@ -16,6 +16,9 @@
 
 ## 往期文章
 
+- [2026-06-19 — Text-to-CAD Is Here: Adam Just Made Mechanical Engineering As Accessible As Coding](articles/2026-06-19-adam-open-source-ai-cad.md)
+- [2026-06-19 — Agent Memory Just Got a Production-Grade Blueprint — And It Runs on Elasticsearch](articles/2026-06-19-agent-memory-elasticsearch-blueprint.md)
+
 - [2026-06-19 — The Transformer Mafia Just Reunited at OpenAI — And It's Not About the IPO](articles/2026-06-19-noam-shazeer-openai-transformer-mafia.md)
 - [2026-06-19 — MCP Just Solved Enterprise Auth — And That Unlocks the Real Agent Economy](articles/2026-06-19-mcp-enterprise-auth-zero-touch.md)
 
