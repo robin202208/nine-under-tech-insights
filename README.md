@@ -16,6 +16,9 @@
 
 ## 往期文章
 
+- [2026-06-19 — The Transformer Mafia Just Reunited at OpenAI — And It's Not About the IPO](articles/2026-06-19-noam-shazeer-openai-transformer-mafia.md)
+- [2026-06-19 — MCP Just Solved Enterprise Auth — And That Unlocks the Real Agent Economy](articles/2026-06-19-mcp-enterprise-auth-zero-touch.md)
+
 - [2026-06-18 — Local Models Crossed the Usability Threshold — And It Only Took 6 Months](articles/2026-06-18-local-models-finally-good.md)
 - [2026-06-18 — AI Demands More Engineering Discipline, Not Less — And the Skeptics Are Wrong This Time](articles/2026-06-18-ai-engineering-discipline-paradox.md)
 
