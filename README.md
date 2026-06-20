@@ -16,6 +16,9 @@
 
 ## 往期文章
 
+- [2026-06-20 — How One AI Engineer Used LLMs to Crack a 3,800-Year-Old Script](articles/2026-06-20-ai-cracks-linear-a.md)
+- [2026-06-20 — The AlphaFold Nobel Laureate Just Joined Anthropic — And the AI-for-Science Race Just Got Real](articles/2026-06-20-john-jumper-anthropic.md)
+
 - [2026-06-19 — A Founder's Honest Accounting of Running a Business on Local AI](articles/2026-06-19-local-qwen-founders-reality-check.md)
 - [2026-06-19 — DeepSeek Gets a Pass, 100+ Firms Don't — The Entity List Just Reshaped the AI Supply Chain](articles/2026-06-19-entity-list-ai-supply-chain.md)
 
