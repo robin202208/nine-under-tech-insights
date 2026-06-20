@@ -16,6 +16,9 @@
 
 ## 往期文章
 
+- [2026-06-20 — GPT-5.5 Hallucinates 3x More Than GLM-5.2](articles/2026-06-20-gpt55-hallucination-paradox.md)
+- [2026-06-20 — ARD: The Discovery Layer AI Agents Have Been Missing](articles/2026-06-20-agentic-resource-discovery-spec.md)
+
 - [2026-06-20 — Norway Just Became the First Country to Ban AI in Elementary Schools](articles/2026-06-20-norway-ai-school-ban.md)
 - [2026-06-20 — The Great Enterprise AI Pullback Has Begun](articles/2026-06-20-enterprise-ai-cost-pullback.md)
 
