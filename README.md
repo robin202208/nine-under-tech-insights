@@ -16,7 +16,11 @@
 
 ## 往期文章
 
+- [2026-06-20 — Norway Just Became the First Country to Ban AI in Elementary Schools](articles/2026-06-20-norway-ai-school-ban.md)
+- [2026-06-20 — The Great Enterprise AI Pullback Has Begun](articles/2026-06-20-enterprise-ai-cost-pullback.md)
+
 - [2026-06-20 — How One AI Engineer Used LLMs to Crack a 3,800-Year-Old Script](articles/2026-06-20-ai-cracks-linear-a.md)
+
 - [2026-06-20 — The AlphaFold Nobel Laureate Just Joined Anthropic — And the AI-for-Science Race Just Got Real](articles/2026-06-20-john-jumper-anthropic.md)
 
 - [2026-06-19 — A Founder's Honest Accounting of Running a Business on Local AI](articles/2026-06-19-local-qwen-founders-reality-check.md)
