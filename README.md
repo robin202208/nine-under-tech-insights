@@ -16,6 +16,9 @@
 
 ## 往期文章
 
+- [2026-06-20 — A Viral New Tool Lets You Check If AI Models "Know" You](articles/2026-06-20-in-the-weights-training-data-provenance.md)
+- [2026-06-20 — Hyundai Just Bet the Factory on Humanoid Robots](articles/2026-06-20-hyundai-boston-dynamics-robotics-industrial.md)
+
 - [2026-06-20 — GPT-5.5 Hallucinates 3x More Than GLM-5.2](articles/2026-06-20-gpt55-hallucination-paradox.md)
 - [2026-06-20 — ARD: The Discovery Layer AI Agents Have Been Missing](articles/2026-06-20-agentic-resource-discovery-spec.md)
 
