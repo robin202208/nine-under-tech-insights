@@ -16,6 +16,9 @@
 
 ## 往期文章
 
+- [2026-06-21 — Bun Opens Real Shared-Memory Threads for JavaScript](articles/2026-06-21-bun-shared-memory-threads-js.md)
+- [2026-06-21 — Multi-LCB: AI Coding Benchmarks Finally Go Polyglot](articles/2026-06-21-multi-lcb-coding-benchmark-polyglot.md)
+
 - [2026-06-21 — Bigger Models, Bigger Lies: The Hallucination Trilemma](articles/2026-06-21-bigger-models-bigger-lies-hallucination-trilemma.md)
 - [2026-06-21 — Bayer PRINCE: Production Agentic RAG Architecture](articles/2026-06-21-bayer-prince-production-agentic-rag.md)
 
