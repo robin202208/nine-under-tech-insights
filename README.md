@@ -16,6 +16,9 @@
 
 ## 往期文章
 
+- [2026-06-21 — The Accidental Recsys-ification of LLM Architectures](articles/2026-06-21-llm-architecture-complexity.md)
+- [2026-06-21 — Cloudflare Ships Agent-First Infrastructure: No Human Required](articles/2026-06-21-cloudflare-agent-temp-accounts.md)
+
 - [2026-06-20 — A Viral New Tool Lets You Check If AI Models "Know" You](articles/2026-06-20-in-the-weights-training-data-provenance.md)
 - [2026-06-20 — Hyundai Just Bet the Factory on Humanoid Robots](articles/2026-06-20-hyundai-boston-dynamics-robotics-industrial.md)
 
