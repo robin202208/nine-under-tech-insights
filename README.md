@@ -16,6 +16,9 @@
 
 ## 往期文章
 
+- [2026-06-21 — Bigger Models, Bigger Lies: The Hallucination Trilemma](articles/2026-06-21-bigger-models-bigger-lies-hallucination-trilemma.md)
+- [2026-06-21 — Bayer PRINCE: Production Agentic RAG Architecture](articles/2026-06-21-bayer-prince-production-agentic-rag.md)
+
 - [2026-06-21 — Not Your Father's AI Safety: Cosine Built a Model That Pentests](articles/2026-06-21-argusred-ai-pentesting-model.md)
 - [2026-06-21 — The AI Code Review Bottleneck: When Rejection Is the Real Signal](articles/2026-06-21-ai-code-review-bottleneck.md)
 
