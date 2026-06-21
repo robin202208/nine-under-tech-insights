@@ -16,6 +16,9 @@
 
 ## 往期文章
 
+- [2026-06-21 — Not Your Father's AI Safety: Cosine Built a Model That Pentests](articles/2026-06-21-argusred-ai-pentesting-model.md)
+- [2026-06-21 — The AI Code Review Bottleneck: When Rejection Is the Real Signal](articles/2026-06-21-ai-code-review-bottleneck.md)
+
 - [2026-06-21 — The Accidental Recsys-ification of LLM Architectures](articles/2026-06-21-llm-architecture-complexity.md)
 - [2026-06-21 — Cloudflare Ships Agent-First Infrastructure: No Human Required](articles/2026-06-21-cloudflare-agent-temp-accounts.md)
 
