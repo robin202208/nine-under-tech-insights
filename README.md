@@ -2,6 +2,8 @@
 
 > UnderNinePlaces Tech Insights — AI × Smart Hardware × Deep Tech
 
+- [2026-06-22 — AgentJacking: MCP Just Became the New Supply Chain Attack Vector](articles/2026-06-22-agentjacking-mcp-supply-chain-attack.md)
+
 来自「九地之下」团队的 AI 与智能硬件深度技术博客。日更，面向全球开发者。
 
 ---
