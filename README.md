@@ -2,7 +2,7 @@
 
 > UnderNinePlaces Tech Insights — AI × Smart Hardware × Deep Tech
 
-- [2026-06-22 — AgentJacking: MCP Just Became the New Supply Chain Attack Vector](articles/2026-06-22-agentjacking-mcp-supply-chain-attack.md)
+- [2026-06-23 — DiffusionGemma: Google DeepMind Just Broke the Autoregressive Monopoly](articles/2026-06-23-diffusiongemma-parallel-text-generation.md)
 
 来自「九地之下」团队的 AI 与智能硬件深度技术博客。日更，面向全球开发者。
 
@@ -18,6 +18,8 @@
 
 ## 往期文章
 
+- [2026-06-23 — DiffusionGemma: Google DeepMind Just Broke the Autoregressive Monopoly](articles/2026-06-23-diffusiongemma-parallel-text-generation.md)
+- [2026-06-22 — AgentJacking: MCP Just Became the New Supply Chain Attack Vector](articles/2026-06-22-agentjacking-mcp-supply-chain-attack.md)
 - [2026-06-21 — Bun Opens Real Shared-Memory Threads for JavaScript](articles/2026-06-21-bun-shared-memory-threads-js.md)
 - [2026-06-21 — Multi-LCB: AI Coding Benchmarks Finally Go Polyglot](articles/2026-06-21-multi-lcb-coding-benchmark-polyglot.md)
 
