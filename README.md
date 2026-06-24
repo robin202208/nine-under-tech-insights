@@ -2,6 +2,8 @@
 
 > UnderNinePlaces Tech Insights — AI × Smart Hardware × Deep Tech
 
+- [2026-06-24 — Claude Tag: Anthropic Just Turned AI From a Tool Into a Teammate](articles/2026-06-24-claude-tag-ai-teammate.md)
+
 - [2026-06-23 — DiffusionGemma: Google DeepMind Just Broke the Autoregressive Monopoly](articles/2026-06-23-diffusiongemma-parallel-text-generation.md)
 
 来自「九地之下」团队的 AI 与智能硬件深度技术博客。日更，面向全球开发者。
