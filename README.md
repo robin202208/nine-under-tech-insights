@@ -4,6 +4,7 @@
 
 - [2026-06-24 — Claude Tag: Anthropic Just Turned AI From a Tool Into a Teammate](articles/2026-06-24-claude-tag-ai-teammate.md)
 - [2026-06-25 — OpenAI's Jalapeño: The Inference Chip That Completes the Full-Stack AI Company](articles/2026-06-25-openai-jalapeno-custom-inference-chip.md)
+- [2026-06-26 — IBM Breaks the 1-Nanometer Barrier: 0.7nm Chips Arrive With 3D Nanostack Architecture](articles/2026-06-26-ibm-sub1nm-nanostack-chip.md)
 
 - [2026-06-23 — DiffusionGemma: Google DeepMind Just Broke the Autoregressive Monopoly](articles/2026-06-23-diffusiongemma-parallel-text-generation.md)
 
@@ -21,8 +22,6 @@
 
 ## 往期文章
 
-- [2026-06-25 — OpenAI's Jalapeño: The Inference Chip That Completes the Full-Stack AI Company](articles/2026-06-25-openai-jalapeno-custom-inference-chip.md)
-- [2026-06-23 — DiffusionGemma: Google DeepMind Just Broke the Autoregressive Monopoly](articles/2026-06-23-diffusiongemma-parallel-text-generation.md)
 - [2026-06-22 — AgentJacking: MCP Just Became the New Supply Chain Attack Vector](articles/2026-06-22-agentjacking-mcp-supply-chain-attack.md)
 - [2026-06-21 — Bun Opens Real Shared-Memory Threads for JavaScript](articles/2026-06-21-bun-shared-memory-threads-js.md)
 - [2026-06-21 — Multi-LCB: AI Coding Benchmarks Finally Go Polyglot](articles/2026-06-21-multi-lcb-coding-benchmark-polyglot.md)
