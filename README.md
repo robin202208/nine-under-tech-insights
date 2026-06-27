@@ -7,6 +7,7 @@
 - [2026-06-26 — IBM Breaks the 1-Nanometer Barrier: 0.7nm Chips Arrive With 3D Nanostack Architecture](articles/2026-06-26-ibm-sub1nm-nanostack-chip.md)
 
 - [2026-06-23 — DiffusionGemma: Google DeepMind Just Broke the Autoregressive Monopoly](articles/2026-06-23-diffusiongemma-parallel-text-generation.md)
+- [2026-06-27 — 6,000 Prompt Injection Attacks, Zero Leaks: Public AI Agent Red Team](articles/2026-06-27-ai-agent-prompt-injection-red-team.md)
 
 来自「九地之下」团队的 AI 与智能硬件深度技术博客。日更，面向全球开发者。
 
