@@ -2,6 +2,8 @@
 
 > UnderNinePlaces Tech Insights — AI × Smart Hardware × Deep Tech
 
+- [2026-06-28 — DeepSeek Just Open-Sourced the Inference Speedup Every LLM Provider Needs](articles/2026-06-28-deepseek-dspark-speculative-decoding.md)
+
 - [2026-06-24 — Claude Tag: Anthropic Just Turned AI From a Tool Into a Teammate](articles/2026-06-24-claude-tag-ai-teammate.md)
 - [2026-06-25 — OpenAI's Jalapeño: The Inference Chip That Completes the Full-Stack AI Company](articles/2026-06-25-openai-jalapeno-custom-inference-chip.md)
 - [2026-06-26 — IBM Breaks the 1-Nanometer Barrier: 0.7nm Chips Arrive With 3D Nanostack Architecture](articles/2026-06-26-ibm-sub1nm-nanostack-chip.md)
