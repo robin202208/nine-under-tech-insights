@@ -10,6 +10,7 @@
 
 - [2026-06-23 — DiffusionGemma: Google DeepMind Just Broke the Autoregressive Monopoly](articles/2026-06-23-diffusiongemma-parallel-text-generation.md)
 - [2026-06-27 — 6,000 Prompt Injection Attacks, Zero Leaks: Public AI Agent Red Team](articles/2026-06-27-ai-agent-prompt-injection-red-team.md)
+- [2026-06-29 — Compounding Correctness: When More Tokens Mean Better Code, Not Just More Spend](articles/2026-06-29-compounding-correctness-tokenmaxxing.md)
 
 来自「九地之下」团队的 AI 与智能硬件深度技术博客。日更，面向全球开发者。
 
