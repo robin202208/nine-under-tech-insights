@@ -12,6 +12,7 @@
 - [2026-06-27 — 6,000 Prompt Injection Attacks, Zero Leaks: Public AI Agent Red Team](articles/2026-06-27-ai-agent-prompt-injection-red-team.md)
 - [2026-06-29 — Compounding Correctness: When More Tokens Mean Better Code, Not Just More Spend](articles/2026-06-29-compounding-correctness-tokenmaxxing.md)
 - [2026-07-01 — Popping the GPU Bubble: How Overlapping CPU/GPU Work Unlocks 35% More Throughput](articles/2026-07-01-popping-gpu-bubble.md)
+- [2026-07-03 — Senior SWE-Bench: Why Evaluating AI Coders Like Junior Devs Is Finally Over](articles/2026-07-03-senior-swe-bench-agent-evaluation.md)
 
 来自「九地之下」团队的 AI 与智能硬件深度技术博客。日更，面向全球开发者。
 
