@@ -2,6 +2,7 @@
 
 > UnderNinePlaces Tech Insights — AI × Smart Hardware × Deep Tech
 
+- [2026-07-07 — Anthropic Found a "Consciousness Workspace" Inside Claude](articles/2026-07-07-anthropic-j-space-global-workspace.md)
 - [2026-06-28 — DeepSeek Just Open-Sourced the Inference Speedup Every LLM Provider Needs](articles/2026-06-28-deepseek-dspark-speculative-decoding.md)
 
 - [2026-06-24 — Claude Tag: Anthropic Just Turned AI From a Tool Into a Teammate](articles/2026-06-24-claude-tag-ai-teammate.md)
