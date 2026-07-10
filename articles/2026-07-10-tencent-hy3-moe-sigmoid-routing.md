@@ -1,0 +1,25 @@
+# Tencent Hy3: The Sigmoid That Changed MoE Routing — And What 21B Active Parameters Actually Buys You
+
+**What just happened.** On July 6, Tencent open-sourced Hy3 under Apache 2.0: a 295-billion-parameter Mixture-of-Experts model that activates only 21 billion parameters per token. It ships with a 3.8B Multi-Token Prediction draft layer for speculative decoding, three reasoning modes (no_think / low / high), and a 256K context window. The weights are on HuggingFace. The OpenRouter free tier runs through July 21.
+
+That is a lot of numbers. Here is why they matter.
+
+---
+
+**The architecture is genuinely novel.** Most MoE models — Mixtral, DeepSeek-V3, Qwen — use softmax-based expert routing. Hy3 does not. It uses **sigmoid routing with a learned per-expert bias** for load balancing. Softmax forces a zero-sum competition: every expert's probability is relative to every other expert's, and load imbalance is corrected with an auxiliary loss term that fights the primary objective. Sigmoid routing decouples expert selection — each expert is independently scored, and the top-8 are activated. The bias term handles load balancing without a loss penalty. This is not a cosmetic difference. It means the routing decision is made per-expert, not per-token-distribution, which the Tencent team argues produces more stable expert specialization across long agentic trajectories.
+
+The model also uses a **dense-MoE hybrid**: the first transformer layer is a standard dense FFN; layers 2–80 are MoE with 192 experts each (top-8 activated), plus one shared expert per MoE layer that processes every token. That shared expert functions as common knowledge — grammar, formatting, basic world facts — while the routed experts specialize. The result is that Hy3's tool-call format stability across agent harnesses (CodeBuddy, Cline, KiloCode) varies by less than 4%, a number that suggests the architecture genuinely separates "how to respond" from "what to respond with."
+
+**The inference economics are the real story.** 295B total parameters sounds expensive. But with only 21B active, Hy3's per-token compute is comparable to a 21B dense model — roughly the cost of running a Qwen-2.5-32B or a DeepSeek-V2-Lite. The catch is memory: all 295B parameters must reside in GPU VRAM (598GB in BF16, 300GB in FP8). That means 8× H20 GPUs minimum for self-hosting. But once loaded, the marginal cost per token is dramatically lower than any dense model at comparable capability.
+
+The Multi-Token Prediction layer is the multiplier. It functions as a 3.8B draft model that proposes multiple next tokens simultaneously; the 21B-active main model verifies them in a single parallel forward pass. When draft acceptance rates hit 70–80% — which they do for deterministic agent workflows like tool calls and structured output — the model generates 1.5× to 1.8× more tokens per step. For sequential agent loops (think → act → observe → think), the speedup is most pronounced precisely where latency matters most: low-batch, single-user agent sessions.
+
+OpenRouter pricing: $0.14/M input, $0.58/M output. Tencent Cloud TokenHub: ¥1/M input, ¥4/M output, ¥0.25/M cache hits. At those rates, a typical SWE-bench agent run — roughly 200K input tokens and 50K output tokens — costs about $0.06. The same run on GPT-5.5 costs roughly $3–5. That is a 50× cost difference for a model that scores within 6 points on SWE-bench Verified (Hy3: 78.0, GPT-5.5: mid-80s).
+
+**The rebuild story is equally instructive.** Tencent tore down its entire pre-training and RL infrastructure in January 2026 and rebuilt from scratch. Training began six weeks later. The preview launched April 23 under a restricted license. The Apache 2.0 production release — July 6 — came after feedback from 50+ internal product teams, including WeChat, Yuanbao, CodeBuddy, and WorkBuddy. Total cycle: under six months from cold start to Apache-licensed frontier model.
+
+That velocity signals something structural. The infrastructure that took OpenAI and Anthropic years to build during the scaling era can now be rebuilt by a well-resourced team in months. The moat is not the training stack. The moat is distribution, product integration, and the feedback loops that come from deploying models to hundreds of millions of users through products like WeChat.
+
+**Why this matters for the open-source AI landscape.** Hy3 is not the best coding model — GLM-5.2 beats it on every coding benchmark. It is not the best reasoning model — GPT-5.5 scores 85.4 on MathArena Apex against Hy3's 38.7. But it is the first model to ship frontier-scale agent capabilities under Apache 2.0 at genuinely low inference cost, with architectural innovations (sigmoid routing, shared experts, MTP speculative decoding) that the community can study, fork, and improve.
+
+The open-source AI race now has three credible Chinese contenders: DeepSeek (V3/R1), Zhipu (GLM-5.2), and Tencent (Hy3). Each ships under permissive licenses. Each targets different capability/cost tradeoffs. The frontier is no longer exclusively American — and the architecture papers are now being written in Shenzhen.
