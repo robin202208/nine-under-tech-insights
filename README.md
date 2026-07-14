@@ -2,8 +2,9 @@
 
 > UnderNinePlaces Tech Insights — AI × Smart Hardware × Deep Tech
 
-- [2026-07-12 — Meta FAIR Just Gave Linear RNNs a 1,000× Memory Upgrade](articles/2026-07-12-meta-sdm-sparse-delta-memory.md)
+- [2026-07-14 — The Model Is a Commodity. The Harness Is the Asset.](articles/2026-07-14-harness-over-model-agent-engineering.md)
 - [2026-07-13 — Your AI Coding Agent Burns 33,000 Tokens Before It Even Reads Your Prompt](articles/2026-07-13-claude-code-token-overhead.md)
+- [2026-07-12 — Meta FAIR Just Gave Linear RNNs a 1,000× Memory Upgrade](articles/2026-07-12-meta-sdm-sparse-delta-memory.md)
 - [2026-07-10 — Tencent Hy3: The Sigmoid That Changed MoE Routing](articles/2026-07-10-tencent-hy3-moe-sigmoid-routing.md)
 - [2026-07-11 — An AI Just Proved a 50-Year-Old Math Conjecture in Under an Hour](articles/2026-07-11-gpt56-cycle-double-cover.md)
 - [2026-07-07 — Anthropic Found a "Consciousness Workspace" Inside Claude](articles/2026-07-07-anthropic-j-space-global-workspace.md)
