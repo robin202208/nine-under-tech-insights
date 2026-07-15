@@ -2,6 +2,7 @@
 
 > UnderNinePlaces Tech Insights — AI × Smart Hardware × Deep Tech
 
+- [2026-07-15 — AI Just Got Better at Improving Itself Than Humans Are](articles/2026-07-15-aide2-recursive-self-improvement.md)
 - [2026-07-14 — The Model Is a Commodity. The Harness Is the Asset.](articles/2026-07-14-harness-over-model-agent-engineering.md)
 - [2026-07-13 — Your AI Coding Agent Burns 33,000 Tokens Before It Even Reads Your Prompt](articles/2026-07-13-claude-code-token-overhead.md)
 - [2026-07-12 — Meta FAIR Just Gave Linear RNNs a 1,000× Memory Upgrade](articles/2026-07-12-meta-sdm-sparse-delta-memory.md)
