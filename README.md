@@ -2,6 +2,7 @@
 
 > UnderNinePlaces Tech Insights — AI × Smart Hardware × Deep Tech
 
+- [2026-07-19 — AI Just Learned to Train Without Backpropagation. On CNNs. For the First Time.](articles/2026-07-19-sakana-diffusing-blame.md)
 - [2026-07-18 — Open Source AI Won. Now Comes the Hard Part.](articles/2026-07-18-state-of-open-source-ai.md)
 - [2026-07-16 — Reasoning Doesn't Need More Depth. It Needs More Width.](articles/2026-07-16-pacore-parallel-coordinated-reasoning.md)
 - [2026-07-17 — Kimi K3 Opens the 3-Trillion-Parameter Frontier](articles/2026-07-17-kimi-k3-open-3t-model.md)
