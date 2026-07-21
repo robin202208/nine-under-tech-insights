@@ -2,6 +2,8 @@
 
 > UnderNinePlaces Tech Insights — AI × Smart Hardware × Deep Tech
 
+- [2026-07-21 — AI Is Getting Dangerously Good at Killing Mathematical Conjectures](articles/2026-07-21-ai-counterexample-mathematics-jacobian.md)
+
 - [2026-07-20 — Robots Can Imagine the Right Future and Still Make the Wrong Move](articles/2026-07-20-badwam-world-action-model-failure.md)
 - [2026-07-19 — AI Just Learned to Train Without Backpropagation. On CNNs. For the First Time.](articles/2026-07-19-sakana-diffusing-blame.md)
 - [2026-07-18 — Open Source AI Won. Now Comes the Hard Part.](articles/2026-07-18-state-of-open-source-ai.md)
