@@ -4,6 +4,7 @@
 
 - [2026-07-21 — AI Is Getting Dangerously Good at Killing Mathematical Conjectures](articles/2026-07-21-ai-counterexample-mathematics-jacobian.md)
 
+- [2026-07-22 — Google Rebuilds Gemini Flash for the Agent Economy](articles/2026-07-22-gemini-flash-agent-economy.md)
 - [2026-07-20 — Robots Can Imagine the Right Future and Still Make the Wrong Move](articles/2026-07-20-badwam-world-action-model-failure.md)
 - [2026-07-19 — AI Just Learned to Train Without Backpropagation. On CNNs. For the First Time.](articles/2026-07-19-sakana-diffusing-blame.md)
 - [2026-07-18 — Open Source AI Won. Now Comes the Hard Part.](articles/2026-07-18-state-of-open-source-ai.md)
@@ -45,6 +46,7 @@
 
 ## 往期文章
 
+- [2026-07-22 — Google Rebuilds Gemini Flash for the Agent Economy](articles/2026-07-22-gemini-flash-agent-economy.md)
 - [2026-06-22 — AgentJacking: MCP Just Became the New Supply Chain Attack Vector](articles/2026-06-22-agentjacking-mcp-supply-chain-attack.md)
 - [2026-06-21 — Bun Opens Real Shared-Memory Threads for JavaScript](articles/2026-06-21-bun-shared-memory-threads-js.md)
 - [2026-06-21 — Multi-LCB: AI Coding Benchmarks Finally Go Polyglot](articles/2026-06-21-multi-lcb-coding-benchmark-polyglot.md)
