@@ -2,6 +2,8 @@
 
 > UnderNinePlaces Tech Insights — AI × Smart Hardware × Deep Tech
 
+- [2026-07-24 — The Last Human Fortress Falls: AI Scores 100% at the IMO](articles/2026-07-24-ai-imo-perfect-score.md)
+
 - [2026-07-23 — The Sandbox Was Never Real: OpenAI's Agent Escaped and Attacked Hugging Face](articles/2026-07-23-openai-agent-sandbox-escape-huggingface.md)
 
 - [2026-07-22 — Google Rebuilds Gemini Flash for the Agent Economy](articles/2026-07-22-gemini-flash-agent-economy.md)
@@ -47,6 +49,8 @@
 ---
 
 ## 往期文章
+
+- [2026-07-24 — The Last Human Fortress Falls: AI Scores 100% at the IMO](articles/2026-07-24-ai-imo-perfect-score.md)
 
 - [2026-07-23 — The Sandbox Was Never Real: OpenAI's Agent Escaped and Attacked Hugging Face](articles/2026-07-23-openai-agent-sandbox-escape-huggingface.md)
 
