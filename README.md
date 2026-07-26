@@ -2,6 +2,8 @@
 
 > UnderNinePlaces Tech Insights — AI × Smart Hardware × Deep Tech
 
+- [2026-07-26 — Transformer MLPs Are Hebbian Memories: Building Fact-Storing AI With Zero Training](articles/2026-07-26-mlps-are-hebbian-memories.md)
+
 - [2026-07-25 — Anthropic Just Taught Frontier Models to Fly Surveillance Drones](articles/2026-07-25-anthropic-project-pilot-drone-bench.md)
 
 - [2026-07-24 — The Last Human Fortress Falls: AI Scores 100% at the IMO](articles/2026-07-24-ai-imo-perfect-score.md)
@@ -51,6 +53,8 @@
 ---
 
 ## 往期文章
+
+- [2026-07-26 — Transformer MLPs Are Hebbian Memories: Building Fact-Storing AI With Zero Training](articles/2026-07-26-mlps-are-hebbian-memories.md)
 
 - [2026-07-25 — Anthropic Just Taught Frontier Models to Fly Surveillance Drones](articles/2026-07-25-anthropic-project-pilot-drone-bench.md)
 
