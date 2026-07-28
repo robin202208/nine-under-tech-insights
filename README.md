@@ -2,6 +2,8 @@
 
 > UnderNinePlaces Tech Insights — AI × Smart Hardware × Deep Tech
 
+- [2026-07-28 — Vercel Eve: The Filesystem Is Now the Agent Framework](articles/2026-07-28-vercel-eve-filesystem-agent-framework.md)
+
 - [2026-07-27 — Claude Opus 5 Nearly Quadruples ARC-AGI-3 Reasoning Record](articles/2026-07-27-claude-opus5-arc-agi3.md)
 
 - [2026-07-26 — Transformer MLPs Are Hebbian Memories: Building Fact-Storing AI With Zero Training](articles/2026-07-26-mlps-are-hebbian-memories.md)
@@ -55,6 +57,8 @@
 ---
 
 ## 往期文章
+
+- [2026-07-28 — Vercel Eve: The Filesystem Is Now the Agent Framework](articles/2026-07-28-vercel-eve-filesystem-agent-framework.md)
 
 - [2026-07-27 — Claude Opus 5 Nearly Quadruples ARC-AGI-3 Reasoning Record](articles/2026-07-27-claude-opus5-arc-agi3.md)
 
