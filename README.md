@@ -2,6 +2,8 @@
 
 > UnderNinePlaces Tech Insights — AI × Smart Hardware × Deep Tech
 
+- [2026-07-29 — A $500 RL Fine-Tune: How a 9B Open Model Beat Every Frontier API](articles/2026-07-29-rl-fine-tune-beats-frontier.md)
+
 - [2026-07-28 — Vercel Eve: The Filesystem Is Now the Agent Framework](articles/2026-07-28-vercel-eve-filesystem-agent-framework.md)
 
 - [2026-07-27 — Claude Opus 5 Nearly Quadruples ARC-AGI-3 Reasoning Record](articles/2026-07-27-claude-opus5-arc-agi3.md)
@@ -57,6 +59,8 @@
 ---
 
 ## 往期文章
+
+- [2026-07-29 — A $500 RL Fine-Tune: How a 9B Open Model Beat Every Frontier API](articles/2026-07-29-rl-fine-tune-beats-frontier.md)
 
 - [2026-07-28 — Vercel Eve: The Filesystem Is Now the Agent Framework](articles/2026-07-28-vercel-eve-filesystem-agent-framework.md)
 
