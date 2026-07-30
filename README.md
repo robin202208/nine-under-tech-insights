@@ -2,6 +2,8 @@
 
 > UnderNinePlaces Tech Insights — AI × Smart Hardware × Deep Tech
 
+- [2026-07-30 — A 26B Model Just Ran in 2GB RAM on an 8GB Mac — And It's Open Source](articles/2026-07-30-turbofieldfare-26b-2gb-mac.md)
+
 - [2026-07-29 — A $500 RL Fine-Tune: How a 9B Open Model Beat Every Frontier API](articles/2026-07-29-rl-fine-tune-beats-frontier.md)
 
 - [2026-07-28 — Vercel Eve: The Filesystem Is Now the Agent Framework](articles/2026-07-28-vercel-eve-filesystem-agent-framework.md)
@@ -59,6 +61,8 @@
 ---
 
 ## 往期文章
+
+- [2026-07-30 — A 26B Model Just Ran in 2GB RAM on an 8GB Mac — And It's Open Source](articles/2026-07-30-turbofieldfare-26b-2gb-mac.md)
 
 - [2026-07-29 — A $500 RL Fine-Tune: How a 9B Open Model Beat Every Frontier API](articles/2026-07-29-rl-fine-tune-beats-frontier.md)
 
