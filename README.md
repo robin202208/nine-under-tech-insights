@@ -2,6 +2,8 @@
 
 > UnderNinePlaces Tech Insights — AI × Smart Hardware × Deep Tech
 
+- [2026-08-01 — DeepSeek Just Joined the Silicon Wars — And That Changes Everything](articles/2026-08-01-deepseek-custom-inference-chip.md)
+
 - [2026-07-31 — TurboVLA: Robotics AI Just Broke Free of the LLM Bottleneck](articles/2026-07-31-turbovla-llm-free-robotics.md)
 
 - [2026-07-30 — A 26B Model Just Ran in 2GB RAM on an 8GB Mac — And It's Open Source](articles/2026-07-30-turbofieldfare-26b-2gb-mac.md)
@@ -63,6 +65,8 @@
 ---
 
 ## 往期文章
+
+- [2026-08-01 — DeepSeek Just Joined the Silicon Wars — And That Changes Everything](articles/2026-08-01-deepseek-custom-inference-chip.md)
 
 - [2026-07-31 — TurboVLA: Robotics AI Just Broke Free of the LLM Bottleneck](articles/2026-07-31-turbovla-llm-free-robotics.md)
 
