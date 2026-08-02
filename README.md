@@ -2,6 +2,8 @@
 
 > UnderNinePlaces Tech Insights — AI × Smart Hardware × Deep Tech
 
+- [2026-08-02 — DeepSeek's 13B-Active Flash Just Beat Its Own Pro Model at Agent Work — Post-Training, Not Scale, Is the New Frontier](articles/2026-08-02-deepseek-v4-flash-0731-post-training.md)
+
 - [2026-08-01 — DeepSeek Just Joined the Silicon Wars — And That Changes Everything](articles/2026-08-01-deepseek-custom-inference-chip.md)
 
 - [2026-07-31 — TurboVLA: Robotics AI Just Broke Free of the LLM Bottleneck](articles/2026-07-31-turbovla-llm-free-robotics.md)
@@ -65,6 +67,8 @@
 ---
 
 ## 往期文章
+
+- [2026-08-02 — DeepSeek's 13B-Active Flash Just Beat Its Own Pro Model at Agent Work — Post-Training, Not Scale, Is the New Frontier](articles/2026-08-02-deepseek-v4-flash-0731-post-training.md)
 
 - [2026-08-01 — DeepSeek Just Joined the Silicon Wars — And That Changes Everything](articles/2026-08-01-deepseek-custom-inference-chip.md)
 
