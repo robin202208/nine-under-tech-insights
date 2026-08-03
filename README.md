@@ -2,6 +2,8 @@
 
 > UnderNinePlaces Tech Insights — AI × Smart Hardware × Deep Tech
 
+- [2026-08-03 — AI Math Just Got a Verifiable Scoreboard: OpenAI's Astra Solves 10 Open Problems with Lean-Checked Proofs](articles/2026-08-03-astra-ten-lean-proofs.md)
+
 - [2026-08-02 — DeepSeek's 13B-Active Flash Just Beat Its Own Pro Model at Agent Work — Post-Training, Not Scale, Is the New Frontier](articles/2026-08-02-deepseek-v4-flash-0731-post-training.md)
 
 - [2026-08-01 — DeepSeek Just Joined the Silicon Wars — And That Changes Everything](articles/2026-08-01-deepseek-custom-inference-chip.md)
@@ -67,6 +69,8 @@
 ---
 
 ## 往期文章
+
+- [2026-08-03 — AI Math Just Got a Verifiable Scoreboard: OpenAI's Astra Solves 10 Open Problems with Lean-Checked Proofs](articles/2026-08-03-astra-ten-lean-proofs.md)
 
 - [2026-08-02 — DeepSeek's 13B-Active Flash Just Beat Its Own Pro Model at Agent Work — Post-Training, Not Scale, Is the New Frontier](articles/2026-08-02-deepseek-v4-flash-0731-post-training.md)
 

@@ -1,0 +1,27 @@
+# AI Math Just Got a Verifiable Scoreboard: OpenAI's Astra Solves 10 Open Problems with Lean-Checked Proofs
+
+> An unreleased OpenAI model solved ten long-standing open problems in mathematics — and for the first time, every proof ships with a machine-checkable certificate anyone can verify on a laptop.
+
+## What Happened
+
+On August 1, OpenAI published ten genuine solutions to open problems in mathematics and theoretical computer science, produced by Astra — its unreleased "next major model family." Astra is a multi-agent system: a root agent spawns subagents, distributes parts of a problem, collects results, and synthesizes a final answer — an architecture built for long-horizon tasks that can run for hours or days on a single objective. The results span six domains: group theory, von Neumann algebras, high-dimensional geometry, quantum complexity, lattice cryptography, and extremal combinatorics, accompanied by a 249-page technical manuscript and a 62-page account of how the arguments came together.
+
+The headline results are substantial. Astra constructed the first known non-sofic group, answering a question open since Mikhail Gromov introduced soficity in 1999 — a 27-year-old central problem in group theory. It disproved the Connes Rigidity Conjecture, posed by Fields Medalist Alain Connes in 1980, showing that certain von Neumann algebras do not "remember" the groups that generated them. It resolved three problems from Erdős's famous catalogue, produced the first improvement to the general upper bound on high-dimensional sphere-packing density since 1978, and delivered new lower bounds on the circuit complexity of computing the permanent.
+
+What changes the game is not the results alone — it's the format. Every proof ships with a **Lean 4 certificate**, publicly available on OpenAI's GitHub under Apache 2.0. Lean 4's trusted kernel gives a binary verdict: the proof either compiles or it doesn't. No PhD required, no months-long peer review backlog. Anyone can run the check. The total compute cost for all ten solutions was approximately **$2,000** at current API rates — and as Noam Brown noted, "We didn't spend a lot on each problem. It's possible to push test-time compute much further."
+
+## Why It Matters
+
+This is the structural break from every prior AI-mathematics milestone. When OpenAI's model disproved the Erdős unit distance conjecture in May 2026, validation required nine external mathematicians to read and co-sign the argument — a social signal, strong but not reproducible without expert availability. A Lean certificate replaces social validation with mechanical validation. Thomas Bloom, the University of Manchester mathematician who curates the Erdős problems catalogue — and the same researcher who publicly dismantled OpenAI's October 2025 false math claim — called the Astra results "big news," rating them more significant than the May counterexample.
+
+The contrast with October 2025 is the sharpest measure of the shift. Then-OpenAI VP Kevin Weil announced GPT-5 had solved ten Erdős problems; Bloom showed the model had merely retrieved existing solutions from the literature, calling it "a dramatic misrepresentation." Astra is, in a structural sense, the actual delivery of that false claim — ten problems, Lean-verified, with the same critic now endorsing it. The field has also converged on a single backend: DeepMind's AlphaProof Nexus solved nine Erdős problems with Lean-verified proofs in May, and both labs now use Lean 4 as their standard verification infrastructure. AI mathematics has settled on a machine-checkable scoreboard where results can be compared without trusting any lab's word.
+
+## Impact
+
+The verification bottleneck that made AI math claims hard to trust is dissolving. Any researcher or developer can now independently check whether an AI-generated proof is valid — the trusted kernel decides, not the reputation of the lab. This directly addresses two of the five risks named in the June 2026 Leiden Declaration (signed by over 3,000 mathematicians including Terence Tao): unreliable results and exaggerated claims. The caveat experts name is real: a Lean build confirms the proof is valid for the theorem as formally stated — whether the formal statement captures the open problem as the community understood it remains a human judgment.
+
+The economics matter as much as the epistemology. A $2,000 run that solves problems open for decades implies the cost of mathematical discovery is collapsing, and test-time compute scaling is far from exhausted. Astra failed to crack any Millennium Prize Problem — "Sadly, no Millennium Prize Problems (yet)" — which calibrates expectations honestly: these are genuine open problems, but not the hardest known. With OpenAI targeting research-intern-level scientific capability by September 2026 and a fully autonomous AI researcher by early 2028, this release is the evidence trail for that roadmap. Machine-verifiable mathematics just became the standard of proof for AI — and the standards themselves are open source.
+
+---
+
+*Published by [九地之下 Tech Insights](https://github.com/robin202208/nine-under-tech-insights) | Source: [OpenAI — Ten Advances in Mathematics](https://openai.com/index/ten-advances-in-mathematics/) & [TechTimes](https://www.techtimes.com/articles/322710/20260802/openais-astra-solves-ten-decade-old-math-problems-machine-checkable-lean-proofs.htm) | HN Discussion: [451 points, 322 comments](https://news.ycombinator.com/item?id=49132058)*
