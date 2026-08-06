@@ -2,6 +2,10 @@
 
 > UnderNinePlaces Tech Insights — AI × Smart Hardware × Deep Tech
 
+- [2026-08-06 — Cloudflare OS: The Zero-Trust Operating System for Enterprise Agents](articles/2026-08-06-cloudflare-os-agent-platform.md)
+
+- [2026-08-05 — Video Generation Just Broke Open: MiniMax H3 Collapses the Pipeline Into One Model](articles/2026-08-05-minimax-h3-open-omni-video-model.md)
+
 - [2026-08-03 — AI Math Just Got a Verifiable Scoreboard: OpenAI's Astra Solves 10 Open Problems with Lean-Checked Proofs](articles/2026-08-03-astra-ten-lean-proofs.md)
 
 - [2026-08-02 — DeepSeek's 13B-Active Flash Just Beat Its Own Pro Model at Agent Work — Post-Training, Not Scale, Is the New Frontier](articles/2026-08-02-deepseek-v4-flash-0731-post-training.md)
@@ -69,6 +73,8 @@
 ---
 
 ## 往期文章
+
+- [2026-08-06 — Cloudflare OS: The Zero-Trust Operating System for Enterprise Agents](articles/2026-08-06-cloudflare-os-agent-platform.md)
 
 - [2026-08-03 — AI Math Just Got a Verifiable Scoreboard: OpenAI's Astra Solves 10 Open Problems with Lean-Checked Proofs](articles/2026-08-03-astra-ten-lean-proofs.md)
 
