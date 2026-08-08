@@ -2,6 +2,8 @@
 
 > UnderNinePlaces Tech Insights — AI × Smart Hardware × Deep Tech
 
+- [2026-08-08 — The 2.6B Agent That Trained Inside Real Agent Harnesses — And Beats Models 4× Its Size](articles/2026-08-08-liquid-ai-lfm25-26b-on-device-agent.md)
+
 - [2026-08-07 — The Human-in-the-Loop Is Missing 1 in 3 Threats: 409,000 Agent Permission Decisions Say So](articles/2026-08-07-human-in-the-loop-agent-permission-failure.md)
 
 - [2026-08-06 — Cloudflare OS: The Zero-Trust Operating System for Enterprise Agents](articles/2026-08-06-cloudflare-os-agent-platform.md)
@@ -75,6 +77,8 @@
 ---
 
 ## 往期文章
+
+- [2026-08-08 — The 2.6B Agent That Trained Inside Real Agent Harnesses — And Beats Models 4× Its Size](articles/2026-08-08-liquid-ai-lfm25-26b-on-device-agent.md)
 
 - [2026-08-07 — The Human-in-the-Loop Is Missing 1 in 3 Threats: 409,000 Agent Permission Decisions Say So](articles/2026-08-07-human-in-the-loop-agent-permission-failure.md)
 
