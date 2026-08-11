@@ -2,6 +2,8 @@
 
 > UnderNinePlaces Tech Insights — AI × Smart Hardware × Deep Tech
 
+- [2026-08-11 — Muse Glimmer: Meta's 30B Open-Weight Model Pushes Agents Onto Consumer Hardware](articles/2026-08-11-muse-glimmer-local-agent-model.md)
+
 - [2026-08-09 — An Extra Day of Warning: DeepMind's WeatherNext Just Collapsed a Decade of Cyclone Forecasting Progress](articles/2026-08-09-weathernext-cyclone-forecast.md)
 
 - [2026-08-08 — The 2.6B Agent That Trained Inside Real Agent Harnesses — And Beats Models 4× Its Size](articles/2026-08-08-liquid-ai-lfm25-26b-on-device-agent.md)
@@ -79,6 +81,8 @@
 ---
 
 ## 往期文章
+
+- [2026-08-11 — Muse Glimmer: Meta's 30B Open-Weight Model Pushes Agents Onto Consumer Hardware](articles/2026-08-11-muse-glimmer-local-agent-model.md)
 
 - [2026-08-09 — An Extra Day of Warning: DeepMind's WeatherNext Just Collapsed a Decade of Cyclone Forecasting Progress](articles/2026-08-09-weathernext-cyclone-forecast.md)
 
