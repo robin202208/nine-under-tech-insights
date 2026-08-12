@@ -2,6 +2,8 @@
 
 > UnderNinePlaces Tech Insights — AI × Smart Hardware × Deep Tech
 
+- [2026-08-12 — The "Encrypted" Chain-of-Thought Is a Lie: Decoding Reasoning Traces from Proprietary APIs](articles/2026-08-12-stealing-reasoning-traces.md)
+
 - [2026-08-11 — Muse Glimmer: Meta's 30B Open-Weight Model Pushes Agents Onto Consumer Hardware](articles/2026-08-11-muse-glimmer-local-agent-model.md)
 
 - [2026-08-09 — An Extra Day of Warning: DeepMind's WeatherNext Just Collapsed a Decade of Cyclone Forecasting Progress](articles/2026-08-09-weathernext-cyclone-forecast.md)
@@ -81,6 +83,8 @@
 ---
 
 ## 往期文章
+
+- [2026-08-12 — The "Encrypted" Chain-of-Thought Is a Lie: Decoding Reasoning Traces from Proprietary APIs](articles/2026-08-12-stealing-reasoning-traces.md)
 
 - [2026-08-11 — Muse Glimmer: Meta's 30B Open-Weight Model Pushes Agents Onto Consumer Hardware](articles/2026-08-11-muse-glimmer-local-agent-model.md)
 
