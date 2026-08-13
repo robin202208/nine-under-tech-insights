@@ -2,6 +2,7 @@
 
 > UnderNinePlaces Tech Insights — AI × Smart Hardware × Deep Tech
 
+- [2026-08-13 — Grok 4.6 Rejoins the Frontier at a Fraction of the Price — And It Wins on Turns, Not Just Scores](articles/2026-08-13-grok-46-frontier-agent-economics.md)
 - [2026-08-12 — The "Encrypted" Chain-of-Thought Is a Lie: Decoding Reasoning Traces from Proprietary APIs](articles/2026-08-12-stealing-reasoning-traces.md)
 
 - [2026-08-11 — Muse Glimmer: Meta's 30B Open-Weight Model Pushes Agents Onto Consumer Hardware](articles/2026-08-11-muse-glimmer-local-agent-model.md)
@@ -84,6 +85,7 @@
 
 ## 往期文章
 
+- [2026-08-13 — Grok 4.6 Rejoins the Frontier at a Fraction of the Price — And It Wins on Turns, Not Just Scores](articles/2026-08-13-grok-46-frontier-agent-economics.md)
 - [2026-08-12 — The "Encrypted" Chain-of-Thought Is a Lie: Decoding Reasoning Traces from Proprietary APIs](articles/2026-08-12-stealing-reasoning-traces.md)
 
 - [2026-08-11 — Muse Glimmer: Meta's 30B Open-Weight Model Pushes Agents Onto Consumer Hardware](articles/2026-08-11-muse-glimmer-local-agent-model.md)
