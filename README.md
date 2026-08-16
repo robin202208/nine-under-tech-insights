@@ -2,6 +2,8 @@
 
 > UnderNinePlaces Tech Insights — AI × Smart Hardware × Deep Tech
 
+- [2026-08-16 — The 232× Kernel That No Human Wrote: What a 14-Day Codex Autonomy Run Teaches About AI Research Loops](articles/2026-08-16-codex-autoresearch-232x-kernel.md)
+
 - [2026-08-15 — The 44GB Wafer That Broke the Speed-Intelligence Tradeoff: Cerebras Runs GPT-5.6 Sol at 750 Tokens/s](articles/2026-08-15-cerebras-gpt56-sol-ultrafast.md)
 
 - [2026-08-13 — Grok 4.6 Rejoins the Frontier at a Fraction of the Price — And It Wins on Turns, Not Just Scores](articles/2026-08-13-grok-46-frontier-agent-economics.md)
@@ -86,6 +88,8 @@
 ---
 
 ## 往期文章
+
+- [2026-08-16 — The 232× Kernel That No Human Wrote: What a 14-Day Codex Autonomy Run Teaches About AI Research Loops](articles/2026-08-16-codex-autoresearch-232x-kernel.md)
 
 - [2026-08-15 — The 44GB Wafer That Broke the Speed-Intelligence Tradeoff: Cerebras Runs GPT-5.6 Sol at 750 Tokens/s](articles/2026-08-15-cerebras-gpt56-sol-ultrafast.md)
 
