@@ -2,6 +2,8 @@
 
 > UnderNinePlaces Tech Insights — AI × Smart Hardware × Deep Tech
 
+- [2026-08-17 — The Deliberate Trade: Why Frontier Labs Are Making Models Dumber on Purpose](articles/2026-08-17-models-getting-dumber-on-purpose.md)
+
 - [2026-08-16 — The 232× Kernel That No Human Wrote: What a 14-Day Codex Autonomy Run Teaches About AI Research Loops](articles/2026-08-16-codex-autoresearch-232x-kernel.md)
 
 - [2026-08-15 — The 44GB Wafer That Broke the Speed-Intelligence Tradeoff: Cerebras Runs GPT-5.6 Sol at 750 Tokens/s](articles/2026-08-15-cerebras-gpt56-sol-ultrafast.md)
@@ -88,6 +90,8 @@
 ---
 
 ## 往期文章
+
+- [2026-08-17 — The Deliberate Trade: Why Frontier Labs Are Making Models Dumber on Purpose](articles/2026-08-17-models-getting-dumber-on-purpose.md)
 
 - [2026-08-16 — The 232× Kernel That No Human Wrote: What a 14-Day Codex Autonomy Run Teaches About AI Research Loops](articles/2026-08-16-codex-autoresearch-232x-kernel.md)
 
