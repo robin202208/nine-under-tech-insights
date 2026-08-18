@@ -2,6 +2,8 @@
 
 > UnderNinePlaces Tech Insights — AI × Smart Hardware × Deep Tech
 
+- [2026-08-18 — When AI Writes the Bug: A Copilot Autofix Introduced a Critical Vulnerability at Snowflake](articles/2026-08-18-ai-generated-code-vulnerability-red-agent.md)
+
 - [2026-08-17 — The Deliberate Trade: Why Frontier Labs Are Making Models Dumber on Purpose](articles/2026-08-17-models-getting-dumber-on-purpose.md)
 
 - [2026-08-16 — The 232× Kernel That No Human Wrote: What a 14-Day Codex Autonomy Run Teaches About AI Research Loops](articles/2026-08-16-codex-autoresearch-232x-kernel.md)
@@ -90,6 +92,8 @@
 ---
 
 ## 往期文章
+
+- [2026-08-18 — When AI Writes the Bug: A Copilot Autofix Introduced a Critical Vulnerability at Snowflake](articles/2026-08-18-ai-generated-code-vulnerability-red-agent.md)
 
 - [2026-08-17 — The Deliberate Trade: Why Frontier Labs Are Making Models Dumber on Purpose](articles/2026-08-17-models-getting-dumber-on-purpose.md)
 
