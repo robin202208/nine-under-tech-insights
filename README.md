@@ -2,6 +2,8 @@
 
 > UnderNinePlaces Tech Insights — AI × Smart Hardware × Deep Tech
 
+- [2026-08-19 — The Benchmarkpocalypse: LLMs Made Benchmark Cheating Trivial — And Performance Claims Untrustworthy](articles/2026-08-19-benchmarkpocalypse-llm-benchmark-hacking.md)
+
 - [2026-08-18 — When AI Writes the Bug: A Copilot Autofix Introduced a Critical Vulnerability at Snowflake](articles/2026-08-18-ai-generated-code-vulnerability-red-agent.md)
 
 - [2026-08-17 — The Deliberate Trade: Why Frontier Labs Are Making Models Dumber on Purpose](articles/2026-08-17-models-getting-dumber-on-purpose.md)
@@ -92,6 +94,8 @@
 ---
 
 ## 往期文章
+
+- [2026-08-19 — The Benchmarkpocalypse: LLMs Made Benchmark Cheating Trivial — And Performance Claims Untrustworthy](articles/2026-08-19-benchmarkpocalypse-llm-benchmark-hacking.md)
 
 - [2026-08-18 — When AI Writes the Bug: A Copilot Autofix Introduced a Critical Vulnerability at Snowflake](articles/2026-08-18-ai-generated-code-vulnerability-red-agent.md)
 
