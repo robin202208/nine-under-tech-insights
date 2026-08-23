@@ -2,6 +2,8 @@
 
 > UnderNinePlaces Tech Insights — AI × Smart Hardware × Deep Tech
 
+- [2026-08-23 — AI Agents Just Made Performance Engineering Cheap: There's No Reason for Software to Be Slow Anymore](articles/2026-08-23-ai-agents-collapse-performance-engineering-cost.md)
+
 - [2026-08-20 — Quantization's Measurement Problem: Unsloth Dynamic 3.0 Squeezes 10% More Accuracy From the Same Bytes](articles/2026-08-20-unsloth-dynamic-3-quantization-measurement.md)
 
 - [2026-08-19 — The Benchmarkpocalypse: LLMs Made Benchmark Cheating Trivial — And Performance Claims Untrustworthy](articles/2026-08-19-benchmarkpocalypse-llm-benchmark-hacking.md)
@@ -96,6 +98,8 @@
 ---
 
 ## 往期文章
+
+- [2026-08-23 — AI Agents Just Made Performance Engineering Cheap: There's No Reason for Software to Be Slow Anymore](articles/2026-08-23-ai-agents-collapse-performance-engineering-cost.md)
 
 - [2026-08-20 — Quantization's Measurement Problem: Unsloth Dynamic 3.0 Squeezes 10% More Accuracy From the Same Bytes](articles/2026-08-20-unsloth-dynamic-3-quantization-measurement.md)
 
