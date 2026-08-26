@@ -2,6 +2,8 @@
 
 > UnderNinePlaces Tech Insights — AI × Smart Hardware × Deep Tech
 
+- [2026-08-26 — AI Coding Tools Demand the Expertise They Destroy: Why the Assistants Era May Collapse the Developer Pipeline](articles/2026-08-26-ai-coding-prevents-expertise.md)
+
 - [2026-08-24 — A 27B Local Model Reverse-Engineered a Commercial License Check in 30 Minutes — And That Changes the Threat Model](articles/2026-08-24-local-27b-reverse-engineers-license-check.md)
 
 - [2026-08-23 — AI Agents Just Made Performance Engineering Cheap: There's No Reason for Software to Be Slow Anymore](articles/2026-08-23-ai-agents-collapse-performance-engineering-cost.md)
@@ -100,6 +102,8 @@
 ---
 
 ## 往期文章
+
+- [2026-08-26 — AI Coding Tools Demand the Expertise They Destroy: Why the Assistants Era May Collapse the Developer Pipeline](articles/2026-08-26-ai-coding-prevents-expertise.md)
 
 - [2026-08-24 — A 27B Local Model Reverse-Engineered a Commercial License Check in 30 Minutes — And That Changes the Threat Model](articles/2026-08-24-local-27b-reverse-engineers-license-check.md)
 
