@@ -2,6 +2,8 @@
 
 > UnderNinePlaces Tech Insights — AI × Smart Hardware × Deep Tech
 
+- [2026-08-29 — A Rumour Is Enough: How AI Agents Killed the Security Embargo](articles/2026-08-29-rumour-is-the-exploit.md)
+
 - [2026-08-28 — OpenExecutive: The Open-Source AI "C-Suite" That Turned a Layoff Story Into an Architecture Lesson](articles/2026-08-28-openexecutive-open-source-ai-c-suite.md)
 
 - [2026-08-27 — KVM Sandboxes Can't Contain Cyber-Capable AI Agents Anymore](articles/2026-08-27-vms-cannot-contain-cyber-capable-agents.md)
@@ -106,6 +108,8 @@
 ---
 
 ## 往期文章
+
+- [2026-08-29 — A Rumour Is Enough: How AI Agents Killed the Security Embargo](articles/2026-08-29-rumour-is-the-exploit.md)
 
 - [2026-08-28 — OpenExecutive: The Open-Source AI "C-Suite" That Turned a Layoff Story Into an Architecture Lesson](articles/2026-08-28-openexecutive-open-source-ai-c-suite.md)
 
