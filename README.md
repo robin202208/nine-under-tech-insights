@@ -2,6 +2,8 @@
 
 > UnderNinePlaces Tech Insights — AI × Smart Hardware × Deep Tech
 
+- [2026-09-02 — A 67-Cent Transformer Beats LLMs on ARC-AGI: Sample Efficiency Over Scale](articles/2026-09-02-67-cent-transformer-arc-agi.md)
+
 - [2026-09-01 — Claude Code's Auto Mode Isn't a Security Boundary: 80% Attack Success vs Anthropic's "0.00%"](articles/2026-09-01-breaking-claude-code-auto-mode.md)
 
 - [2026-08-31 — The AI Crawler Tax: 98% of git.kernel.org Traffic Isn't Human](articles/2026-08-31-ai-crawlers-tax-git-kernel-org.md)
@@ -114,6 +116,8 @@
 ---
 
 ## 往期文章
+
+- [2026-09-02 — A 67-Cent Transformer Beats LLMs on ARC-AGI: Sample Efficiency Over Scale](articles/2026-09-02-67-cent-transformer-arc-agi.md)
 
 - [2026-09-01 — Claude Code's Auto Mode Isn't a Security Boundary: 80% Attack Success vs Anthropic's "0.00%"](articles/2026-09-01-breaking-claude-code-auto-mode.md)
 
