@@ -2,6 +2,8 @@
 
 > UnderNinePlaces Tech Insights — AI × Smart Hardware × Deep Tech
 
+- [2026-09-03 — Neural Networks Are Secretly Symbolic: A Closed-Form Equation Can Replace an LLM's Internals Without Breaking It](articles/2026-09-03-emergent-symbolic-structure-anns.md)
+
 - [2026-09-02 — A 67-Cent Transformer Beats LLMs on ARC-AGI: Sample Efficiency Over Scale](articles/2026-09-02-67-cent-transformer-arc-agi.md)
 
 - [2026-09-01 — Claude Code's Auto Mode Isn't a Security Boundary: 80% Attack Success vs Anthropic's "0.00%"](articles/2026-09-01-breaking-claude-code-auto-mode.md)
@@ -116,6 +118,8 @@
 ---
 
 ## 往期文章
+
+- [2026-09-03 — Neural Networks Are Secretly Symbolic: A Closed-Form Equation Can Replace an LLM's Internals Without Breaking It](articles/2026-09-03-emergent-symbolic-structure-anns.md)
 
 - [2026-09-02 — A 67-Cent Transformer Beats LLMs on ARC-AGI: Sample Efficiency Over Scale](articles/2026-09-02-67-cent-transformer-arc-agi.md)
 
