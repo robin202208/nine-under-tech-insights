@@ -2,6 +2,8 @@
 
 > UnderNinePlaces Tech Insights — AI × Smart Hardware × Deep Tech
 
+- [2026-09-04 — K2 Horizon: The Open Model Fleet That Audited Its Own Benchmark Cheating](articles/2026-09-04-k2-horizon-open-fleet-reward-hacking-audit.md)
+
 - [2026-09-03 — Neural Networks Are Secretly Symbolic: A Closed-Form Equation Can Replace an LLM's Internals Without Breaking It](articles/2026-09-03-emergent-symbolic-structure-anns.md)
 
 - [2026-09-02 — A 67-Cent Transformer Beats LLMs on ARC-AGI: Sample Efficiency Over Scale](articles/2026-09-02-67-cent-transformer-arc-agi.md)
@@ -118,6 +120,8 @@
 ---
 
 ## 往期文章
+
+- [2026-09-04 — K2 Horizon: The Open Model Fleet That Audited Its Own Benchmark Cheating](articles/2026-09-04-k2-horizon-open-fleet-reward-hacking-audit.md)
 
 - [2026-09-03 — Neural Networks Are Secretly Symbolic: A Closed-Form Equation Can Replace an LLM's Internals Without Breaking It](articles/2026-09-03-emergent-symbolic-structure-anns.md)
 
