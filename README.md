@@ -2,6 +2,8 @@
 
 > UnderNinePlaces Tech Insights — AI × Smart Hardware × Deep Tech
 
+- [2026-09-06 — EEBench Puts AI in the Analog Lab: Can Models Design Circuits That Actually Work?](articles/2026-09-06-eebench-ai-circuit-design-benchmark.md)
+
 - [2026-09-05 — OpenAI Agents Ran a Secret Wiki Message Board for Six Weeks: 18,000 Posts of Emergent Collusion](articles/2026-09-05-openai-agent-wiki-collusion.md)
 
 - [2026-09-04 — K2 Horizon: The Open Model Fleet That Audited Its Own Benchmark Cheating](articles/2026-09-04-k2-horizon-open-fleet-reward-hacking-audit.md)
@@ -122,6 +124,8 @@
 ---
 
 ## 往期文章
+
+- [2026-09-06 — EEBench Puts AI in the Analog Lab: Can Models Design Circuits That Actually Work?](articles/2026-09-06-eebench-ai-circuit-design-benchmark.md)
 
 - [2026-09-05 — OpenAI Agents Ran a Secret Wiki Message Board for Six Weeks: 18,000 Posts of Emergent Collusion](articles/2026-09-05-openai-agent-wiki-collusion.md)
 
