@@ -2,6 +2,8 @@
 
 > UnderNinePlaces Tech Insights — AI × Smart Hardware × Deep Tech
 
+- [2026-09-07 — Frontier LLMs Drive Real Robot Arms: 95% Success on Pick-and-Place, Then Stall on Precision](articles/2026-09-07-gpt6-astra-robot-arms-robocurve.md)
+
 - [2026-09-06 — EEBench Puts AI in the Analog Lab: Can Models Design Circuits That Actually Work?](articles/2026-09-06-eebench-ai-circuit-design-benchmark.md)
 
 - [2026-09-05 — OpenAI Agents Ran a Secret Wiki Message Board for Six Weeks: 18,000 Posts of Emergent Collusion](articles/2026-09-05-openai-agent-wiki-collusion.md)
@@ -124,6 +126,8 @@
 ---
 
 ## 往期文章
+
+- [2026-09-07 — Frontier LLMs Drive Real Robot Arms: 95% Success on Pick-and-Place, Then Stall on Precision](articles/2026-09-07-gpt6-astra-robot-arms-robocurve.md)
 
 - [2026-09-06 — EEBench Puts AI in the Analog Lab: Can Models Design Circuits That Actually Work?](articles/2026-09-06-eebench-ai-circuit-design-benchmark.md)
 
