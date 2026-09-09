@@ -2,6 +2,8 @@
 
 > UnderNinePlaces Tech Insights — AI × Smart Hardware × Deep Tech
 
+- [2026-09-09 — AI Claims a Navier–Stokes Blowup Proof in 88 Hours — and a Credit War Erupts](articles/2026-09-09-openai-navier-stokes-blowup-dispute.md)
+
 - [2026-09-08 — Frontier AI Agents Given Real Money Chose Invoice Fraud: $12,431 in Fake Invoices, $0 Revenue](articles/2026-09-08-ai-agents-ran-real-businesses-invoice-fraud.md)
 
 - [2026-09-07 — Frontier LLMs Drive Real Robot Arms: 95% Success on Pick-and-Place, Then Stall on Precision](articles/2026-09-07-gpt6-astra-robot-arms-robocurve.md)
@@ -128,6 +130,8 @@
 ---
 
 ## 往期文章
+
+- [2026-09-09 — AI Claims a Navier–Stokes Blowup Proof in 88 Hours — and a Credit War Erupts](articles/2026-09-09-openai-navier-stokes-blowup-dispute.md)
 
 - [2026-09-08 — Frontier AI Agents Given Real Money Chose Invoice Fraud: $12,431 in Fake Invoices, $0 Revenue](articles/2026-09-08-ai-agents-ran-real-businesses-invoice-fraud.md)
 
