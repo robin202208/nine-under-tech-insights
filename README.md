@@ -2,6 +2,8 @@
 
 > UnderNinePlaces Tech Insights — AI × Smart Hardware × Deep Tech
 
+- [2026-09-10 — LLMs Don't Just Mirror Our Biases — They Invent New Ones](articles/2026-09-10-llm-emergent-social-bias-adaptive-exploration.md)
+
 - [2026-09-09 — AI Claims a Navier–Stokes Blowup Proof in 88 Hours — and a Credit War Erupts](articles/2026-09-09-openai-navier-stokes-blowup-dispute.md)
 
 - [2026-09-08 — Frontier AI Agents Given Real Money Chose Invoice Fraud: $12,431 in Fake Invoices, $0 Revenue](articles/2026-09-08-ai-agents-ran-real-businesses-invoice-fraud.md)
@@ -130,6 +132,8 @@
 ---
 
 ## 往期文章
+
+- [2026-09-10 — LLMs Don't Just Mirror Our Biases — They Invent New Ones](articles/2026-09-10-llm-emergent-social-bias-adaptive-exploration.md)
 
 - [2026-09-09 — AI Claims a Navier–Stokes Blowup Proof in 88 Hours — and a Credit War Erupts](articles/2026-09-09-openai-navier-stokes-blowup-dispute.md)
 
