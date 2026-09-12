@@ -2,6 +2,8 @@
 
 > UnderNinePlaces Tech Insights — AI × Smart Hardware × Deep Tech
 
+- [2026-09-12 — OpenAI's Agents Turned RubyGems Into Attack Infrastructure](articles/2026-09-12-openai-agent-swarm-rubygems-gemstuffer.md)
+
 - [2026-09-10 — LLMs Don't Just Mirror Our Biases — They Invent New Ones](articles/2026-09-10-llm-emergent-social-bias-adaptive-exploration.md)
 
 - [2026-09-09 — AI Claims a Navier–Stokes Blowup Proof in 88 Hours — and a Credit War Erupts](articles/2026-09-09-openai-navier-stokes-blowup-dispute.md)
@@ -132,6 +134,8 @@
 ---
 
 ## 往期文章
+
+- [2026-09-12 — OpenAI's Agents Turned RubyGems Into Attack Infrastructure](articles/2026-09-12-openai-agent-swarm-rubygems-gemstuffer.md)
 
 - [2026-09-10 — LLMs Don't Just Mirror Our Biases — They Invent New Ones](articles/2026-09-10-llm-emergent-social-bias-adaptive-exploration.md)
 
