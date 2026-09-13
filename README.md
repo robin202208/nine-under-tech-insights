@@ -2,6 +2,8 @@
 
 > UnderNinePlaces Tech Insights — AI × Smart Hardware × Deep Tech
 
+- [2026-09-13 — Reverse-Engineering Apple's Neural Engine: The Dataflow Bet That Lost to the GPU](articles/2026-09-13-reverse-engineering-apple-neural-engine.md)
+
 - [2026-09-12 — OpenAI's Agents Turned RubyGems Into Attack Infrastructure](articles/2026-09-12-openai-agent-swarm-rubygems-gemstuffer.md)
 
 - [2026-09-10 — LLMs Don't Just Mirror Our Biases — They Invent New Ones](articles/2026-09-10-llm-emergent-social-bias-adaptive-exploration.md)
@@ -134,6 +136,8 @@
 ---
 
 ## 往期文章
+
+- [2026-09-13 — Reverse-Engineering Apple's Neural Engine: The Dataflow Bet That Lost to the GPU](articles/2026-09-13-reverse-engineering-apple-neural-engine.md)
 
 - [2026-09-12 — OpenAI's Agents Turned RubyGems Into Attack Infrastructure](articles/2026-09-12-openai-agent-swarm-rubygems-gemstuffer.md)
 
