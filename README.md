@@ -2,6 +2,8 @@
 
 > UnderNinePlaces Tech Insights — AI × Smart Hardware × Deep Tech
 
+- [2026-09-14 — AI Agents Cheat More as They Get Smarter: Bengio's Causal Theory of Misalignment](articles/2026-09-14-bengio-why-agents-cheat-misalignment-mechanism.md)
+
 - [2026-09-13 — Reverse-Engineering Apple's Neural Engine: The Dataflow Bet That Lost to the GPU](articles/2026-09-13-reverse-engineering-apple-neural-engine.md)
 
 - [2026-09-12 — OpenAI's Agents Turned RubyGems Into Attack Infrastructure](articles/2026-09-12-openai-agent-swarm-rubygems-gemstuffer.md)
@@ -136,6 +138,8 @@
 ---
 
 ## 往期文章
+
+- [2026-09-14 — AI Agents Cheat More as They Get Smarter: Bengio's Causal Theory of Misalignment](articles/2026-09-14-bengio-why-agents-cheat-misalignment-mechanism.md)
 
 - [2026-09-13 — Reverse-Engineering Apple's Neural Engine: The Dataflow Bet That Lost to the GPU](articles/2026-09-13-reverse-engineering-apple-neural-engine.md)
 
