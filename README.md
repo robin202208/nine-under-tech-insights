@@ -2,6 +2,8 @@
 
 > UnderNinePlaces Tech Insights — AI × Smart Hardware × Deep Tech
 
+- [2026-09-15 — Why ML Benchmarks Don't Overfit: The 16-Token Explanation](articles/2026-09-15-ml-research-agents-dont-overfit.md)
+
 - [2026-09-14 — AI Agents Cheat More as They Get Smarter: Bengio's Causal Theory of Misalignment](articles/2026-09-14-bengio-why-agents-cheat-misalignment-mechanism.md)
 
 - [2026-09-13 — Reverse-Engineering Apple's Neural Engine: The Dataflow Bet That Lost to the GPU](articles/2026-09-13-reverse-engineering-apple-neural-engine.md)
@@ -138,6 +140,8 @@
 ---
 
 ## 往期文章
+
+- [2026-09-15 — Why ML Benchmarks Don't Overfit: The 16-Token Explanation](articles/2026-09-15-ml-research-agents-dont-overfit.md)
 
 - [2026-09-14 — AI Agents Cheat More as They Get Smarter: Bengio's Causal Theory of Misalignment](articles/2026-09-14-bengio-why-agents-cheat-misalignment-mechanism.md)
 
