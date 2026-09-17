@@ -2,6 +2,8 @@
 
 > UnderNinePlaces Tech Insights — AI × Smart Hardware × Deep Tech
 
+- [2026-09-17 — A 4B Model Beat Postgres's Own Query Planner for $1,200](articles/2026-09-17-4b-model-beats-postgres-query-planner.md)
+
 - [2026-09-16 — TypeSafe's Jev: The Model That Refuses to Write Sentences](articles/2026-09-16-typesafe-system-one-jev-typed-decisions.md)
 
 - [2026-09-15 — Why ML Benchmarks Don't Overfit: The 16-Token Explanation](articles/2026-09-15-ml-research-agents-dont-overfit.md)
@@ -142,6 +144,8 @@
 ---
 
 ## 往期文章
+
+- [2026-09-17 — A 4B Model Beat Postgres's Own Query Planner for $1,200](articles/2026-09-17-4b-model-beats-postgres-query-planner.md)
 
 - [2026-09-16 — TypeSafe's Jev: The Model That Refuses to Write Sentences](articles/2026-09-16-typesafe-system-one-jev-typed-decisions.md)
 
