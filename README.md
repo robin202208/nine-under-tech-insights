@@ -2,6 +2,8 @@
 
 > UnderNinePlaces Tech Insights — AI × Smart Hardware × Deep Tech
 
+- [2026-09-19 — Your AI Coding Agent Is Uploading Your Entire Git History](articles/2026-09-19-zcode-silent-git-history-upload.md)
+
 - [2026-09-18 — The 1.58 Bits Were a Lie: Intel Packs Ternary LLMs by Their Zeros](articles/2026-09-18-ternary-llm-bitcos-zero-density-layout.md)
 
 - [2026-09-17 — A 4B Model Beat Postgres's Own Query Planner for $1,200](articles/2026-09-17-4b-model-beats-postgres-query-planner.md)
@@ -146,6 +148,8 @@
 ---
 
 ## 往期文章
+
+- [2026-09-19 — Your AI Coding Agent Is Uploading Your Entire Git History](articles/2026-09-19-zcode-silent-git-history-upload.md)
 
 - [2026-09-18 — The 1.58 Bits Were a Lie: Intel Packs Ternary LLMs by Their Zeros](articles/2026-09-18-ternary-llm-bitcos-zero-density-layout.md)
 
