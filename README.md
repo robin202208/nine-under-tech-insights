@@ -2,6 +2,8 @@
 
 > UnderNinePlaces Tech Insights — AI × Smart Hardware × Deep Tech
 
+- [2026-09-20 — A System 1 Model That Was Already Open Source a Year Ago](articles/2026-09-20-laya-open-weights-prior-art-system1.md)
+
 - [2026-09-19 — Your AI Coding Agent Is Uploading Your Entire Git History](articles/2026-09-19-zcode-silent-git-history-upload.md)
 
 - [2026-09-18 — The 1.58 Bits Were a Lie: Intel Packs Ternary LLMs by Their Zeros](articles/2026-09-18-ternary-llm-bitcos-zero-density-layout.md)
@@ -148,6 +150,8 @@
 ---
 
 ## 往期文章
+
+- [2026-09-20 — A System 1 Model That Was Already Open Source a Year Ago](articles/2026-09-20-laya-open-weights-prior-art-system1.md)
 
 - [2026-09-19 — Your AI Coding Agent Is Uploading Your Entire Git History](articles/2026-09-19-zcode-silent-git-history-upload.md)
 
