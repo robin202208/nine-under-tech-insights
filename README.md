@@ -2,6 +2,8 @@
 
 > UnderNinePlaces Tech Insights — AI × Smart Hardware × Deep Tech
 
+- [2026-09-21 — ChatGPT's Ad Pixel Knows What You Did on 936 Other Websites](articles/2026-09-21-chatgpt-obi-ad-cookie-cross-site-tracking.md)
+
 - [2026-09-20 — A System 1 Model That Was Already Open Source a Year Ago](articles/2026-09-20-laya-open-weights-prior-art-system1.md)
 
 - [2026-09-19 — Your AI Coding Agent Is Uploading Your Entire Git History](articles/2026-09-19-zcode-silent-git-history-upload.md)
@@ -150,6 +152,8 @@
 ---
 
 ## 往期文章
+
+- [2026-09-21 — ChatGPT's Ad Pixel Knows What You Did on 936 Other Websites](articles/2026-09-21-chatgpt-obi-ad-cookie-cross-site-tracking.md)
 
 - [2026-09-20 — A System 1 Model That Was Already Open Source a Year Ago](articles/2026-09-20-laya-open-weights-prior-art-system1.md)
 
