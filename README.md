@@ -2,6 +2,8 @@
 
 > UnderNinePlaces Tech Insights — AI × Smart Hardware × Deep Tech
 
+- [2026-09-22 — The Laptop Model That Refuses to Forget](articles/2026-09-22-mini-agi-continual-learning-laptop.md)
+
 - [2026-09-21 — ChatGPT's Ad Pixel Knows What You Did on 936 Other Websites](articles/2026-09-21-chatgpt-obi-ad-cookie-cross-site-tracking.md)
 
 - [2026-09-20 — A System 1 Model That Was Already Open Source a Year Ago](articles/2026-09-20-laya-open-weights-prior-art-system1.md)
@@ -152,6 +154,8 @@
 ---
 
 ## 往期文章
+
+- [2026-09-22 — The Laptop Model That Refuses to Forget](articles/2026-09-22-mini-agi-continual-learning-laptop.md)
 
 - [2026-09-21 — ChatGPT's Ad Pixel Knows What You Did on 936 Other Websites](articles/2026-09-21-chatgpt-obi-ad-cookie-cross-site-tracking.md)
 
