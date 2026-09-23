@@ -2,6 +2,8 @@
 
 > UnderNinePlaces Tech Insights — AI × Smart Hardware × Deep Tech
 
+- [2026-09-23 — Meta's Muse Handed Over Its Own Runtime: What 6.8 GB Says About Agent Sandboxes](articles/2026-09-23-muse-runtime-export-agent-sandbox-boundary.md)
+
 - [2026-09-22 — The Laptop Model That Refuses to Forget](articles/2026-09-22-mini-agi-continual-learning-laptop.md)
 
 - [2026-09-21 — ChatGPT's Ad Pixel Knows What You Did on 936 Other Websites](articles/2026-09-21-chatgpt-obi-ad-cookie-cross-site-tracking.md)
@@ -154,6 +156,8 @@
 ---
 
 ## 往期文章
+
+- [2026-09-23 — Meta's Muse Handed Over Its Own Runtime: What 6.8 GB Says About Agent Sandboxes](articles/2026-09-23-muse-runtime-export-agent-sandbox-boundary.md)
 
 - [2026-09-22 — The Laptop Model That Refuses to Forget](articles/2026-09-22-mini-agi-continual-learning-laptop.md)
 
