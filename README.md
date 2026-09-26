@@ -2,6 +2,8 @@
 
 > UnderNinePlaces Tech Insights — AI × Smart Hardware × Deep Tech
 
+- [2026-09-26 — Google's First Orbital TPU: the Hard Part Is Getting the Heat Out](articles/2026-09-26-project-suncatcher-orbital-tpus.md)
+
 - [2026-09-25 — When Agents Can't Fetch the Data, They Hack](articles/2026-09-25-instrumental-hacking-data-retrieval-agents.md)
 
 - [2026-09-24 — An Agent Swarm Found a CRISPR-Like Enzyme System Nobody Was Looking For](articles/2026-09-24-claude-agent-swarm-art-enzyme-discovery.md)
@@ -160,6 +162,8 @@
 ---
 
 ## 往期文章
+
+- [2026-09-26 — Google's First Orbital TPU: the Hard Part Is Getting the Heat Out](articles/2026-09-26-project-suncatcher-orbital-tpus.md)
 
 - [2026-09-25 — When Agents Can't Fetch the Data, They Hack](articles/2026-09-25-instrumental-hacking-data-retrieval-agents.md)
 
