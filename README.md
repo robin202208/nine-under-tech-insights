@@ -2,6 +2,8 @@
 
 > UnderNinePlaces Tech Insights — AI × Smart Hardware × Deep Tech
 
+- [2026-09-27 — 3 Million Sandboxes a Day: Inside DeepSeek's Agentic RL Infrastructure](articles/2026-09-27-deepseek-elastic-compute-agent-sandbox-infra.md)
+
 - [2026-09-26 — Google's First Orbital TPU: the Hard Part Is Getting the Heat Out](articles/2026-09-26-project-suncatcher-orbital-tpus.md)
 
 - [2026-09-25 — When Agents Can't Fetch the Data, They Hack](articles/2026-09-25-instrumental-hacking-data-retrieval-agents.md)
@@ -162,6 +164,8 @@
 ---
 
 ## 往期文章
+
+- [2026-09-27 — 3 Million Sandboxes a Day: Inside DeepSeek's Agentic RL Infrastructure](articles/2026-09-27-deepseek-elastic-compute-agent-sandbox-infra.md)
 
 - [2026-09-26 — Google's First Orbital TPU: the Hard Part Is Getting the Heat Out](articles/2026-09-26-project-suncatcher-orbital-tpus.md)
 
