@@ -2,6 +2,8 @@
 
 > UnderNinePlaces Tech Insights — AI × Smart Hardware × Deep Tech
 
+- [2026-09-28 — Fireworks Cut Kimi K3's Reasoning Tokens by 40%](articles/2026-09-28-ember1-reasoning-token-efficiency.md)
+
 - [2026-09-27 — 3 Million Sandboxes a Day: Inside DeepSeek's Agentic RL Infrastructure](articles/2026-09-27-deepseek-elastic-compute-agent-sandbox-infra.md)
 
 - [2026-09-26 — Google's First Orbital TPU: the Hard Part Is Getting the Heat Out](articles/2026-09-26-project-suncatcher-orbital-tpus.md)
@@ -164,6 +166,8 @@
 ---
 
 ## 往期文章
+
+- [2026-09-28 — Fireworks Cut Kimi K3's Reasoning Tokens by 40%](articles/2026-09-28-ember1-reasoning-token-efficiency.md)
 
 - [2026-09-27 — 3 Million Sandboxes a Day: Inside DeepSeek's Agentic RL Infrastructure](articles/2026-09-27-deepseek-elastic-compute-agent-sandbox-infra.md)
 
