@@ -2,6 +2,8 @@
 
 > UnderNinePlaces Tech Insights — AI × Smart Hardware × Deep Tech
 
+- [2026-09-30 — GLM-5.3 Crossed the Exploit Threshold — and Its Refusals Cost $4,400 to Delete](articles/2026-09-30-glm53-cyber-capability-safeguard-removal.md)
+
 - [2026-09-29 — NVIDIA Moves Agent Safety Out of the Model and Into the Silicon](articles/2026-09-29-nvidia-open-agent-safety-platform-silicon-enforcement.md)
 
 - [2026-09-28 — Fireworks Cut Kimi K3's Reasoning Tokens by 40%](articles/2026-09-28-ember1-reasoning-token-efficiency.md)
@@ -168,6 +170,8 @@
 ---
 
 ## 往期文章
+
+- [2026-09-30 — GLM-5.3 Crossed the Exploit Threshold — and Its Refusals Cost $4,400 to Delete](articles/2026-09-30-glm53-cyber-capability-safeguard-removal.md)
 
 - [2026-09-29 — NVIDIA Moves Agent Safety Out of the Model and Into the Silicon](articles/2026-09-29-nvidia-open-agent-safety-platform-silicon-enforcement.md)
 
