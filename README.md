@@ -2,6 +2,8 @@
 
 > UnderNinePlaces Tech Insights — AI × Smart Hardware × Deep Tech
 
+- [2026-10-02 — The Model Owns Its Context: Inside Context Language Models](articles/2026-10-02-context-language-models.md)
+
 - [2026-10-01 — Post-Training Leaves a Behavioral Shadow That Can Be Read One Word at a Time](articles/2026-10-01-behavioral-shadows-post-training-distillation.md)
 
 - [2026-09-30 — GLM-5.3 Crossed the Exploit Threshold — and Its Refusals Cost $4,400 to Delete](articles/2026-09-30-glm53-cyber-capability-safeguard-removal.md)
@@ -172,6 +174,8 @@
 ---
 
 ## 往期文章
+
+- [2026-10-02 — The Model Owns Its Context: Inside Context Language Models](articles/2026-10-02-context-language-models.md)
 
 - [2026-10-01 — Post-Training Leaves a Behavioral Shadow That Can Be Read One Word at a Time](articles/2026-10-01-behavioral-shadows-post-training-distillation.md)
 
