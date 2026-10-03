@@ -2,6 +2,8 @@
 
 > UnderNinePlaces Tech Insights — AI × Smart Hardware × Deep Tech
 
+- [2026-10-03 — Ataraxos: The AI That Cracked Stratego for a Few Thousand Dollars](articles/2026-10-03-ataraxos-stratego-imperfect-information.md)
+
 - [2026-10-02 — The Model Owns Its Context: Inside Context Language Models](articles/2026-10-02-context-language-models.md)
 
 - [2026-10-01 — Post-Training Leaves a Behavioral Shadow That Can Be Read One Word at a Time](articles/2026-10-01-behavioral-shadows-post-training-distillation.md)
@@ -174,6 +176,8 @@
 ---
 
 ## 往期文章
+
+- [2026-10-03 — Ataraxos: The AI That Cracked Stratego for a Few Thousand Dollars](articles/2026-10-03-ataraxos-stratego-imperfect-information.md)
 
 - [2026-10-02 — The Model Owns Its Context: Inside Context Language Models](articles/2026-10-02-context-language-models.md)
 
