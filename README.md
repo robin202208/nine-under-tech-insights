@@ -2,6 +2,8 @@
 
 > UnderNinePlaces Tech Insights — AI × Smart Hardware × Deep Tech
 
+- [2026-10-04 — Germany's Kolibri Is a Sovereign LLM Whose Hardest Problem Was German](articles/2026-10-04-kolibri-sovereign-german-moe.md)
+
 - [2026-10-03 — Ataraxos: The AI That Cracked Stratego for a Few Thousand Dollars](articles/2026-10-03-ataraxos-stratego-imperfect-information.md)
 
 - [2026-10-02 — The Model Owns Its Context: Inside Context Language Models](articles/2026-10-02-context-language-models.md)
@@ -176,6 +178,8 @@
 ---
 
 ## 往期文章
+
+- [2026-10-04 — Germany's Kolibri Is a Sovereign LLM Whose Hardest Problem Was German](articles/2026-10-04-kolibri-sovereign-german-moe.md)
 
 - [2026-10-03 — Ataraxos: The AI That Cracked Stratego for a Few Thousand Dollars](articles/2026-10-03-ataraxos-stratego-imperfect-information.md)
 
