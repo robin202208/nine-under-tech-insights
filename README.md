@@ -2,6 +2,8 @@
 
 > UnderNinePlaces Tech Insights — AI × Smart Hardware × Deep Tech
 
+- [2026-10-05 — A 125B Model on a 12 GB Gaming PC: Inside Strata's Three-Tier Offload Engine](articles/2026-10-05-strata-125b-moe-consumer-pc-offload.md)
+
 - [2026-10-04 — Germany's Kolibri Is a Sovereign LLM Whose Hardest Problem Was German](articles/2026-10-04-kolibri-sovereign-german-moe.md)
 
 - [2026-10-03 — Ataraxos: The AI That Cracked Stratego for a Few Thousand Dollars](articles/2026-10-03-ataraxos-stratego-imperfect-information.md)
@@ -178,6 +180,8 @@
 ---
 
 ## 往期文章
+
+- [2026-10-05 — A 125B Model on a 12 GB Gaming PC: Inside Strata's Three-Tier Offload Engine](articles/2026-10-05-strata-125b-moe-consumer-pc-offload.md)
 
 - [2026-10-04 — Germany's Kolibri Is a Sovereign LLM Whose Hardest Problem Was German](articles/2026-10-04-kolibri-sovereign-german-moe.md)
 
