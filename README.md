@@ -2,6 +2,8 @@
 
 > UnderNinePlaces Tech Insights — AI × Smart Hardware × Deep Tech
 
+- [2026-10-07 — Can Agents Build the Chip That Runs Their Own Inference?](articles/2026-10-07-opentpu-ai-designed-accelerator-verifier.md)
+
 - [2026-10-06 — Dust Trained Transformers Without Backprop — and Nearly Matched](articles/2026-10-06-dust-backprop-free-transformer-pretraining.md)
 
 - [2026-10-05 — A 125B Model on a 12 GB Gaming PC: Inside Strata's Three-Tier Offload Engine](articles/2026-10-05-strata-125b-moe-consumer-pc-offload.md)
@@ -182,6 +184,8 @@
 ---
 
 ## 往期文章
+
+- [2026-10-07 — Can Agents Build the Chip That Runs Their Own Inference?](articles/2026-10-07-opentpu-ai-designed-accelerator-verifier.md)
 
 - [2026-10-06 — Dust Trained Transformers Without Backprop — and Nearly Matched](articles/2026-10-06-dust-backprop-free-transformer-pretraining.md)
 
