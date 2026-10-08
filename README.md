@@ -2,6 +2,8 @@
 
 > UnderNinePlaces Tech Insights — AI × Smart Hardware × Deep Tech
 
+- [2026-10-08 — Navier–Stokes Lost in Translation: When a Lean Proof Is Not the Proof](articles/2026-10-08-navier-stokes-lost-in-translation-lean-fidelity.md)
+
 - [2026-10-07 — Can Agents Build the Chip That Runs Their Own Inference?](articles/2026-10-07-opentpu-ai-designed-accelerator-verifier.md)
 
 - [2026-10-06 — Dust Trained Transformers Without Backprop — and Nearly Matched](articles/2026-10-06-dust-backprop-free-transformer-pretraining.md)
@@ -184,6 +186,8 @@
 ---
 
 ## 往期文章
+
+- [2026-10-08 — Navier–Stokes Lost in Translation: When a Lean Proof Is Not the Proof](articles/2026-10-08-navier-stokes-lost-in-translation-lean-fidelity.md)
 
 - [2026-10-07 — Can Agents Build the Chip That Runs Their Own Inference?](articles/2026-10-07-opentpu-ai-designed-accelerator-verifier.md)
 
