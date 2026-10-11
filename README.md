@@ -2,6 +2,8 @@
 
 > UnderNinePlaces Tech Insights — AI × Smart Hardware × Deep Tech
 
+- [2026-10-11 — Your Agent, Your Cloud: Talorys Runs Inside Your Own Cloudflare Account](articles/2026-10-11-talorys-self-hosted-agent-cloudflare-free-tier.md)
+
 - [2026-10-10 — Dropping the VAE: Text-to-Image in Pixel Space with Pyramid-JiT](articles/2026-10-10-pyramid-jit-vae-free-pixel-space-diffusion.md)
 
 - [2026-10-09 — Speech Recognition in 16.9 MB: Whistle Fits in Your CPU Cache](articles/2026-10-09-whistle-16-9mb-on-device-speech-recognition.md)
@@ -190,6 +192,8 @@
 ---
 
 ## 往期文章
+
+- [2026-10-11 — Your Agent, Your Cloud: Talorys Runs Inside Your Own Cloudflare Account](articles/2026-10-11-talorys-self-hosted-agent-cloudflare-free-tier.md)
 
 - [2026-10-10 — Dropping the VAE: Text-to-Image in Pixel Space with Pyramid-JiT](articles/2026-10-10-pyramid-jit-vae-free-pixel-space-diffusion.md)
 
