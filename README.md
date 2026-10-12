@@ -2,6 +2,8 @@
 
 > UnderNinePlaces Tech Insights — AI × Smart Hardware × Deep Tech
 
+- [2026-10-12 — Three Months and 600 Billion Tokens: What It Takes to Let AI Agents Decompile a Game](articles/2026-10-12-agent-swarm-decompilation-oracle.md)
+
 - [2026-10-11 — Your Agent, Your Cloud: Talorys Runs Inside Your Own Cloudflare Account](articles/2026-10-11-talorys-self-hosted-agent-cloudflare-free-tier.md)
 
 - [2026-10-10 — Dropping the VAE: Text-to-Image in Pixel Space with Pyramid-JiT](articles/2026-10-10-pyramid-jit-vae-free-pixel-space-diffusion.md)
@@ -192,6 +194,8 @@
 ---
 
 ## 往期文章
+
+- [2026-10-12 — Three Months and 600 Billion Tokens: What It Takes to Let AI Agents Decompile a Game](articles/2026-10-12-agent-swarm-decompilation-oracle.md)
 
 - [2026-10-11 — Your Agent, Your Cloud: Talorys Runs Inside Your Own Cloudflare Account](articles/2026-10-11-talorys-self-hosted-agent-cloudflare-free-tier.md)
 
