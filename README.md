@@ -2,6 +2,8 @@
 
 > UnderNinePlaces Tech Insights — AI × Smart Hardware × Deep Tech
 
+- [2026-10-16 — The Cat-and-Car Neuron Was a V: Why Neural Networks May Already Be Clean](articles/2026-10-16-neural-networks-already-clean-superposition.md)
+
 - [2026-10-14 — When 30,000 Merges a Day Broke Git: Inside Anthropic's Scion](articles/2026-10-14-anthropic-scion-agent-scale-source-control.md)
 
 - [2026-10-13 — QGIS Banned AI Contributions — and the Reason Isn't Code Quality](articles/2026-10-13-qgis-ai-contribution-ban-maintainer-throughput.md)
@@ -198,6 +200,8 @@
 ---
 
 ## 往期文章
+
+- [2026-10-16 — The Cat-and-Car Neuron Was a V: Why Neural Networks May Already Be Clean](articles/2026-10-16-neural-networks-already-clean-superposition.md)
 
 - [2026-10-14 — When 30,000 Merges a Day Broke Git: Inside Anthropic's Scion](articles/2026-10-14-anthropic-scion-agent-scale-source-control.md)
 
