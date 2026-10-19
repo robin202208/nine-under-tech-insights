@@ -2,6 +2,8 @@
 
 > UnderNinePlaces Tech Insights — AI × Smart Hardware × Deep Tech
 
+- [2026-10-19 — The Agent That Thinks in Vectors and Only Speaks to Use a Tool](articles/2026-10-19-hybrid-agent-latent-thinking-tool-use.md)
+
 - [2026-10-18 — Four Mac Studios, One 816B Model: Apple Made the Interconnect the Product](articles/2026-10-18-mlx-rdma-thunderbolt-mac-studio-cluster.md)
 
 - [2026-10-17 — The Seeds Were Just Timestamps: How Claude Ended a 25-Year Cryptography Mystery](articles/2026-10-17-claude-ecdsa-curve-seed-origins.md)
@@ -204,6 +206,8 @@
 ---
 
 ## 往期文章
+
+- [2026-10-19 — The Agent That Thinks in Vectors and Only Speaks to Use a Tool](articles/2026-10-19-hybrid-agent-latent-thinking-tool-use.md)
 
 - [2026-10-18 — Four Mac Studios, One 816B Model: Apple Made the Interconnect the Product](articles/2026-10-18-mlx-rdma-thunderbolt-mac-studio-cluster.md)
 
