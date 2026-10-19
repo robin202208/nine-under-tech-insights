@@ -22,4 +22,4 @@ But there's a genuinely positive flip side. The same experiment shows the cost o
 
 ---
 
-*Published by [九地之下 Tech Insights](https://github.com/robin202208/nine-under-tech-insights) | Source: [The Benchmarkpocalypse — danluu.com](https://danluu.com/benchpocalypse/) | HN Discussion: [170 points, 61 comments](https://news.ycombinator.com/item?id=49340299)*
+*Published by [9D量子 Tech Insights](https://github.com/robin202208/nine-under-tech-insights) | Source: [The Benchmarkpocalypse — danluu.com](https://danluu.com/benchpocalypse/) | HN Discussion: [170 points, 61 comments](https://news.ycombinator.com/item?id=49340299)*

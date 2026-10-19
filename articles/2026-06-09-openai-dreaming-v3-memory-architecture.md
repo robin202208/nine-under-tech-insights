@@ -42,10 +42,10 @@ The privacy trade-off is real and under-discussed. The old system stored every m
 
 ## Our Take
 
-Dreaming V3 matters for 九地之下 because memory architecture is a direct input to agent quality. Our AI agent systems operate across multi-session workflows — international Chinese education spans weeks of learner progress, smart hardware interactions accumulate context across device sessions. Persistent, relationship-aware memory isn't a nice-to-have; it's what separates an agent that feels like a tool from one that feels like a collaborator.
+Dreaming V3 matters for 9D量子 because memory architecture is a direct input to agent quality. Our AI agent systems operate across multi-session workflows — international Chinese education spans weeks of learner progress, smart hardware interactions accumulate context across device sessions. Persistent, relationship-aware memory isn't a nice-to-have; it's what separates an agent that feels like a tool from one that feels like a collaborator.
 
 The architectural lesson is worth extracting: OpenAI separated memory synthesis from inference and made it asynchronous. The agent doesn't stop to think about what it remembers — the memory system pre-computes relevance during idle time. For any multi-session AI product, this pattern — background synthesis, proactive surfacing, temporal awareness — is now proven at 900M-user scale. That's a design pattern worth borrowing, not just a product announcement worth tracking.
 
 ---
 
-*Published by [九地之下 Tech Insights](https://github.com/robin202208/nine-under-tech-insights)*
+*Published by [9D量子 Tech Insights](https://github.com/robin202208/nine-under-tech-insights)*

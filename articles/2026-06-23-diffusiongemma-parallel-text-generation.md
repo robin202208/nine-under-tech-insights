@@ -1,6 +1,6 @@
 # DiffusionGemma: Google DeepMind Just Broke the Autoregressive Monopoly
 
-> June 23, 2026 · 九地之下 Tech Insights
+> June 23, 2026 · 9D量子 Tech Insights
 
 ---
 
@@ -42,4 +42,4 @@ The parallel text generation race has started. And for the first time since GPT-
 
 ---
 
-*九地之下 is a Shanghai-based AI application company building agent systems and smart wearable devices. Follow us for daily deep-tech insights.*
+*9D量子 is a Shanghai-based AI application company building agent systems and smart wearable devices. Follow us for daily deep-tech insights.*

@@ -30,4 +30,4 @@ The caveat is real: with Context-IR and 2K regeneration still proprietary, the o
 
 ---
 
-*Published by [九地之下 Tech Insights](https://github.com/robin202208/nine-under-tech-insights) | Source: [MiniMax H3 Model Card](https://huggingface.co/MiniMaxAI/MiniMax-H3) & [ComfyUI Blog](https://blog.comfy.org/p/minimax-h3-day-0-support-in-comfyui) & [MiniMax Blog](https://www.minimax.io/blog/minimax-h3) | HN Discussion: [323 points, 91 comments](https://news.ycombinator.com/item?id=49155629)*
+*Published by [9D量子 Tech Insights](https://github.com/robin202208/nine-under-tech-insights) | Source: [MiniMax H3 Model Card](https://huggingface.co/MiniMaxAI/MiniMax-H3) & [ComfyUI Blog](https://blog.comfy.org/p/minimax-h3-day-0-support-in-comfyui) & [MiniMax Blog](https://www.minimax.io/blog/minimax-h3) | HN Discussion: [323 points, 91 comments](https://news.ycombinator.com/item?id=49155629)*

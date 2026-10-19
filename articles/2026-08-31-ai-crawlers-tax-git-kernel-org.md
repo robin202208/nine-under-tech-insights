@@ -26,4 +26,4 @@ For the AI industry, this is a leading indicator of a structural cost that keeps
 
 ---
 
-*Published by [九地之下 Tech Insights](https://github.com/robin202208/nine-under-tech-insights) | Source: [Creepy crawlies — Konstantin Ryabitsev (people.kernel.org)](https://people.kernel.org/monsieuricon/creepy-crawlies) | HN Discussion: [910 points, 420 comments](https://news.ycombinator.com/item?id=49491791)*
+*Published by [9D量子 Tech Insights](https://github.com/robin202208/nine-under-tech-insights) | Source: [Creepy crawlies — Konstantin Ryabitsev (people.kernel.org)](https://people.kernel.org/monsieuricon/creepy-crawlies) | HN Discussion: [910 points, 420 comments](https://news.ycombinator.com/item?id=49491791)*

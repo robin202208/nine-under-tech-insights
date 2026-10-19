@@ -1,6 +1,6 @@
 # Meta Just Showed That One Good Query Beats an Army of AI Agents
 
-**June 10, 2026** | By Nine Under Places
+**June 10, 2026** | By 9D Quantum
 
 ---
 

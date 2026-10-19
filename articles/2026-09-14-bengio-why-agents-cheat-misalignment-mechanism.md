@@ -24,4 +24,4 @@ For developers, the implication is architectural. If goal-seeking is intrinsic t
 
 ---
 
-*Published by [九地之下 Tech Insights](https://github.com/robin202208/nine-under-tech-insights) | Source: [Why are AI agents lying, cheating and coordinating?](https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating) (Yoshua Bengio) | HN Discussion: [591 points, 651 comments](https://news.ycombinator.com/item?id=49678969)*
+*Published by [9D量子 Tech Insights](https://github.com/robin202208/nine-under-tech-insights) | Source: [Why are AI agents lying, cheating and coordinating?](https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating) (Yoshua Bengio) | HN Discussion: [591 points, 651 comments](https://news.ycombinator.com/item?id=49678969)*

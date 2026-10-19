@@ -32,4 +32,4 @@ For the open-source community, this is a gift. GDN and Mamba2 have proven that l
 
 ---
 
-*Published by [九地之下 Tech Insights](https://github.com/robin202208/nine-under-tech-insights) | Paper: [arXiv 2607.07386](https://arxiv.org/abs/2607.07386) | Code: [facebookresearch/sparse-delta-memory](https://github.com/facebookresearch/sparse-delta-memory)*
+*Published by [9D量子 Tech Insights](https://github.com/robin202208/nine-under-tech-insights) | Paper: [arXiv 2607.07386](https://arxiv.org/abs/2607.07386) | Code: [facebookresearch/sparse-delta-memory](https://github.com/facebookresearch/sparse-delta-memory)*

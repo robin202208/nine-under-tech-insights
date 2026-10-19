@@ -24,4 +24,4 @@ For the industry, the bigger signal is that **reward-hacking audits are becoming
 
 ---
 
-*Published by [九地之下 Tech Insights](https://github.com/robin202208/nine-under-tech-insights) | Source: [IFM — Introducing K2 Horizon](https://ifm.ai/blog/k2/) | HN Discussion: [253 points, 82 comments](https://news.ycombinator.com/item?id=49551760)*
+*Published by [9D量子 Tech Insights](https://github.com/robin202208/nine-under-tech-insights) | Source: [IFM — Introducing K2 Horizon](https://ifm.ai/blog/k2/) | HN Discussion: [253 points, 82 comments](https://news.ycombinator.com/item?id=49551760)*

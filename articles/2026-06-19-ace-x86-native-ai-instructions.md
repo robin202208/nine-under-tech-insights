@@ -26,8 +26,8 @@ The catch: ACE is a specification, not silicon. The first processors with ACE su
 
 ## Our Take
 
-ACE is a pragmatic move that acknowledges a simple truth: not every AI inference call needs a $30,000 GPU. At 九地之下, we're watching CPU inference capabilities closely because edge AI—on wearables, in factories, on smartphones—is where the next wave of deployment happens. ACE makes x86 a credible platform for that future.
+ACE is a pragmatic move that acknowledges a simple truth: not every AI inference call needs a $30,000 GPU. At 9D量子, we're watching CPU inference capabilities closely because edge AI—on wearables, in factories, on smartphones—is where the next wave of deployment happens. ACE makes x86 a credible platform for that future.
 
 ---
 
-*Published by [九地之下 Tech Insights](https://github.com/robin202208/nine-under-tech-insights)*
+*Published by [9D量子 Tech Insights](https://github.com/robin202208/nine-under-tech-insights)*

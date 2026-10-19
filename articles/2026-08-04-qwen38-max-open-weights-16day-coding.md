@@ -30,4 +30,4 @@ The deeper signal is that the center of gravity in agentic AI is shifting from "
 
 ---
 
-*Published by [九地之下 Tech Insights](https://github.com/robin202208/nine-under-tech-insights) | Source: [Qwen Official Blog](https://qwen.ai/blog?id=qwen3.8) & [Alibaba Cloud Community](https://www.alibabacloud.com/blog/alibaba-unveils-qwen3-8-max-its-largest-and-most-capable-flagship-model-to-date_603420) | HN Discussion: [1051 points, 565 comments](https://news.ycombinator.com/item?id=49150470)*
+*Published by [9D量子 Tech Insights](https://github.com/robin202208/nine-under-tech-insights) | Source: [Qwen Official Blog](https://qwen.ai/blog?id=qwen3.8) & [Alibaba Cloud Community](https://www.alibabacloud.com/blog/alibaba-unveils-qwen3-8-max-its-largest-and-most-capable-flagship-model-to-date_603420) | HN Discussion: [1051 points, 565 comments](https://news.ycombinator.com/item?id=49150470)*

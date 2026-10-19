@@ -28,4 +28,4 @@ Karpathy's joke turns out to be the most practical AI engineering advice anyone 
 
 ---
 
-*Published by [九地之下 Tech Insights](https://github.com/robin202208/nine-under-tech-insights) | Source: [Automating AI Away — replicated.live](https://replicated.live/blog/away) | HN Discussion: [101 points, 49 comments](https://news.ycombinator.com/item?id=48818937)*
+*Published by [9D量子 Tech Insights](https://github.com/robin202208/nine-under-tech-insights) | Source: [Automating AI Away — replicated.live](https://replicated.live/blog/away) | HN Discussion: [101 points, 49 comments](https://news.ycombinator.com/item?id=48818937)*

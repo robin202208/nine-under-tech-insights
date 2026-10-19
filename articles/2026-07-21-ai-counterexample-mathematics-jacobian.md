@@ -26,4 +26,4 @@ For PhD students and research institutions, the economics are shifting rapidly. 
 
 ---
 
-*Published by [九地之下 Tech Insights](https://github.com/robin202208/nine-under-tech-insights) | Source: [Xena Project](https://xenaproject.wordpress.com/2026/07/20/human-mathematicians-are-being-outcounterexampled/) | HN Discussion: [661 points, 428 comments](https://news.ycombinator.com/item?id=48973869)*
+*Published by [9D量子 Tech Insights](https://github.com/robin202208/nine-under-tech-insights) | Source: [Xena Project](https://xenaproject.wordpress.com/2026/07/20/human-mathematicians-are-being-outcounterexampled/) | HN Discussion: [661 points, 428 comments](https://news.ycombinator.com/item?id=48973869)*

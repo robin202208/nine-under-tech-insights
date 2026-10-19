@@ -32,10 +32,10 @@ AsymCache is implemented directly in vLLM, meaning deployment is straightforward
 
 The algorithmic insight is portable: expected-latency-aware eviction with logarithmic-time balanced trees is a pattern that could be adopted by any serving engine (SGLang, TensorRT-LLM, TGI). The piecewise exponential frequency function with online lifespan adjustment is a particularly elegant solution to a problem that has forced systems into linear-time overhead or brittle heuristics.
 
-For teams building agent systems with long-running contexts — the exact use case we target at 九地之下 with Aurora Ring's AI agent infrastructure — this paper is infrastructure gold. Reducing TTFT by 2× while preserving exact outputs directly translates to faster agent response times and lower GPU bills. The fact that AsymCache can be dropped into existing vLLM deployments without model changes or accuracy trade-offs makes this one of the most immediately actionable inference optimization papers of 2026.
+For teams building agent systems with long-running contexts — the exact use case we target at 9D量子 with Aurora Ring's AI agent infrastructure — this paper is infrastructure gold. Reducing TTFT by 2× while preserving exact outputs directly translates to faster agent response times and lower GPU bills. The fact that AsymCache can be dropped into existing vLLM deployments without model changes or accuracy trade-offs makes this one of the most immediately actionable inference optimization papers of 2026.
 
 The open question: how well does this generalize to the newest attention variants like MLA (DeepSeek) and MSA (MiniMax)? The MSA kernel is designed for standard attention — extending it to latent-space attention mechanisms is the obvious next frontier.
 
 ---
 
-*Published by [九地之下 Tech Insights](https://github.com/robin202208/nine-under-tech-insights)*
+*Published by [9D量子 Tech Insights](https://github.com/robin202208/nine-under-tech-insights)*

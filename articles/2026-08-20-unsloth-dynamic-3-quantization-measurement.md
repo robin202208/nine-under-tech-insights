@@ -22,4 +22,4 @@ For developers, this means the frontier of "what runs on my machine" keeps movin
 
 ---
 
-*Published by [九地之下 Tech Insights](https://github.com/robin202208/nine-under-tech-insights) | Source: [Unsloth Dynamic 3.0 GGUF Docs](https://unsloth.ai/docs/basics/dynamic-3.0-ggufs) | HN Discussion: [182 points, 66 comments](https://news.ycombinator.com/item?id=49365443)*
+*Published by [9D量子 Tech Insights](https://github.com/robin202208/nine-under-tech-insights) | Source: [Unsloth Dynamic 3.0 GGUF Docs](https://unsloth.ai/docs/basics/dynamic-3.0-ggufs) | HN Discussion: [182 points, 66 comments](https://news.ycombinator.com/item?id=49365443)*

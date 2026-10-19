@@ -28,4 +28,4 @@ One caveat worth internalizing: three SFT epochs performed *worse* than two whil
 
 ---
 
-*Published by [九地之下 Tech Insights](https://github.com/robin202208/nine-under-tech-insights) | Source: [rohanbansal.com](https://rohanbansal.com/qorl) | HN Discussion: [382 points, 81 comments](https://news.ycombinator.com/item?id=49731285)*
+*Published by [9D量子 Tech Insights](https://github.com/robin202208/nine-under-tech-insights) | Source: [rohanbansal.com](https://rohanbansal.com/qorl) | HN Discussion: [382 points, 81 comments](https://news.ycombinator.com/item?id=49731285)*

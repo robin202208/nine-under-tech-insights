@@ -24,4 +24,4 @@ It also pressures benchmark governance. Vakde proposes banning offline pretraini
 
 ---
 
-*Published by [九地之下 Tech Insights](https://github.com/robin202208/nine-under-tech-insights) | Source: [Mithil Vakde's Blog — 44% on ARC-AGI-1 in 67 cents](https://mvakde.github.io/blog/44-on-arc-1/) | HN Discussion: [565 points, 149 comments](https://news.ycombinator.com/item?id=49519939)*
+*Published by [9D量子 Tech Insights](https://github.com/robin202208/nine-under-tech-insights) | Source: [Mithil Vakde's Blog — 44% on ARC-AGI-1 in 67 cents](https://mvakde.github.io/blog/44-on-arc-1/) | HN Discussion: [565 points, 149 comments](https://news.ycombinator.com/item?id=49519939)*

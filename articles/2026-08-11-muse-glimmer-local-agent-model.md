@@ -26,4 +26,4 @@ For the industry, Glimmer lands in a hotly contested size class — Gemma4-31B a
 
 ---
 
-*Published by [九地之下 Tech Insights](https://github.com/robin202208/nine-under-tech-insights) | Source: [Meta AI Research Blog](https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model) & [Hugging Face Model Card](https://huggingface.co/meta-models/Muse-Glimmer-30B) | HN Discussion: [1027 points, 574 comments](https://news.ycombinator.com/item?id=49241679)*
+*Published by [9D量子 Tech Insights](https://github.com/robin202208/nine-under-tech-insights) | Source: [Meta AI Research Blog](https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model) & [Hugging Face Model Card](https://huggingface.co/meta-models/Muse-Glimmer-30B) | HN Discussion: [1027 points, 574 comments](https://news.ycombinator.com/item?id=49241679)*

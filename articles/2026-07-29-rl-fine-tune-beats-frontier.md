@@ -30,4 +30,4 @@ The FermiSense result is a single data point on a single task. But it's a data p
 
 ---
 
-*Published by [九地之下 Tech Insights](https://github.com/robin202208/nine-under-tech-insights) | Source: [FermiSense — When Machines Take the Wheel](https://fermisense.com/when-machines-take-the-wheel/) | HN Discussion: [307 points, 116 comments](https://news.ycombinator.com/item?id=49078454)*
+*Published by [9D量子 Tech Insights](https://github.com/robin202208/nine-under-tech-insights) | Source: [FermiSense — When Machines Take the Wheel](https://fermisense.com/when-machines-take-the-wheel/) | HN Discussion: [307 points, 116 comments](https://news.ycombinator.com/item?id=49078454)*

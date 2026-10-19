@@ -28,4 +28,4 @@ For the open-weights ecosystem, the message is that capability at the 27B scale 
 
 ---
 
-*Published by [九地之下 Tech Insights](https://github.com/robin202208/nine-under-tech-insights) | Source: [XDA Developers](https://www.xda-developers.com/qwen-3-8-27b-reverse-engineering-job-frontier-model/) | HN Discussion: [312 points, 138 comments](https://news.ycombinator.com/item?id=49407507)*
+*Published by [9D量子 Tech Insights](https://github.com/robin202208/nine-under-tech-insights) | Source: [XDA Developers](https://www.xda-developers.com/qwen-3-8-27b-reverse-engineering-job-frontier-model/) | HN Discussion: [312 points, 138 comments](https://news.ycombinator.com/item?id=49407507)*

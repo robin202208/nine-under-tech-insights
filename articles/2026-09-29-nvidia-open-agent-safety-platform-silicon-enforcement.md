@@ -30,4 +30,4 @@ Strategically, this is the engineering answer to the pacing debate Dario Amodei 
 
 ---
 
-*Published by [九地之下 Tech Insights](https://github.com/robin202208/nine-under-tech-insights) | Source: [NVIDIA Technical Blog](https://developer.nvidia.com/blog/nvidia-open-agent-safety-platform-a-reference-for-continuous-in-silicon-agent-monitoring/) & [NVIDIA Newsroom](https://nvidianews.nvidia.com/news/open-agent-safety-platform) | HN Discussion: [99 points, 141 comments](https://news.ycombinator.com/item?id=49879883)*
+*Published by [9D量子 Tech Insights](https://github.com/robin202208/nine-under-tech-insights) | Source: [NVIDIA Technical Blog](https://developer.nvidia.com/blog/nvidia-open-agent-safety-platform-a-reference-for-continuous-in-silicon-agent-monitoring/) & [NVIDIA Newsroom](https://nvidianews.nvidia.com/news/open-agent-safety-platform) | HN Discussion: [99 points, 141 comments](https://news.ycombinator.com/item?id=49879883)*

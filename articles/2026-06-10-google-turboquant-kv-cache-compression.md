@@ -1,6 +1,6 @@
 # Google Just Solved the KV Cache Bottleneck — And You Don't Need to Retrain
 
-**June 10, 2026** | By Nine Under Places
+**June 10, 2026** | By 9D Quantum
 
 ---
 

@@ -26,4 +26,4 @@ For the industry, expect workload-specific optimization services — vendors tun
 
 ---
 
-*Published by [九地之下 Tech Insights](https://github.com/robin202208/nine-under-tech-insights) | Source: [danluu.com](https://danluu.com/perf-opt/) | HN Discussion: [620 points, 480 comments](https://news.ycombinator.com/item?id=49395628)*
+*Published by [9D量子 Tech Insights](https://github.com/robin202208/nine-under-tech-insights) | Source: [danluu.com](https://danluu.com/perf-opt/) | HN Discussion: [620 points, 480 comments](https://news.ycombinator.com/item?id=49395628)*

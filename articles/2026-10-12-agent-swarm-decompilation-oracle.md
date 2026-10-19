@@ -32,4 +32,4 @@ Two caveats. Byte matching converges slowly and fails on non-deterministic code 
 
 ---
 
-*Published by [九地之下 Tech Insights](https://github.com/robin202208/nine-under-tech-insights) | Source: [Maurice's Blog](https://momo5502.com/posts/2026-10-09-game-decompilation/) | HN Discussion: [157 points, 112 comments](https://news.ycombinator.com/item?id=50039092)*
+*Published by [9D量子 Tech Insights](https://github.com/robin202208/nine-under-tech-insights) | Source: [Maurice's Blog](https://momo5502.com/posts/2026-10-09-game-decompilation/) | HN Discussion: [157 points, 112 comments](https://news.ycombinator.com/item?id=50039092)*

@@ -34,4 +34,4 @@ Watch the 2027 laser-link demonstration, not this launch. Close-proximity format
 
 ---
 
-*Published by [九地之下 Tech Insights](https://github.com/robin202208/nine-under-tech-insights) | Sources: [Google Research — Project Suncatcher](https://blog.google/innovation-and-ai/models-and-research/google-research/google-project-suncatcher-facts/), [arXiv 2511.19468](https://arxiv.org/abs/2511.19468), [arXiv 2603.28829](https://arxiv.org/abs/2603.28829) | HN Discussion: [225 points, 512 comments](https://news.ycombinator.com/item?id=49830606)*
+*Published by [9D量子 Tech Insights](https://github.com/robin202208/nine-under-tech-insights) | Sources: [Google Research — Project Suncatcher](https://blog.google/innovation-and-ai/models-and-research/google-research/google-project-suncatcher-facts/), [arXiv 2511.19468](https://arxiv.org/abs/2511.19468), [arXiv 2603.28829](https://arxiv.org/abs/2603.28829) | HN Discussion: [225 points, 512 comments](https://news.ycombinator.com/item?id=49830606)*

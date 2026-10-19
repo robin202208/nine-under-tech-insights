@@ -40,4 +40,4 @@ Meta's "gulag" isn't an outlier — it's an early warning. Every AI lab that nee
 
 ---
 
-*Published by [九地之下 Tech Insights](https://github.com/robin202208/nine-under-tech-insights)*
+*Published by [9D量子 Tech Insights](https://github.com/robin202208/nine-under-tech-insights)*

@@ -36,4 +36,4 @@ In the Weights is a clever hack with serious implications. It turns a deeply opa
 
 ---
 
-*Published by [九地之下 Tech Insights](https://github.com/robin202208/nine-under-tech-insights)*
+*Published by [9D量子 Tech Insights](https://github.com/robin202208/nine-under-tech-insights)*

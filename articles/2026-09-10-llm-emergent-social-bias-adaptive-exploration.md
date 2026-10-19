@@ -30,4 +30,4 @@ The models were not mirroring us. They were writing their own stereotypes, and t
 
 ---
 
-*Published by [九地之下 Tech Insights](https://github.com/robin202208/nine-under-tech-insights) | Source: [arXiv 2511.06148 — Large Language Models Develop Novel Social Biases Through Adaptive Exploration](https://arxiv.org/abs/2511.06148) | HN Discussion: [198 points, 111 comments](https://news.ycombinator.com/item?id=49617581)*
+*Published by [9D量子 Tech Insights](https://github.com/robin202208/nine-under-tech-insights) | Source: [arXiv 2511.06148 — Large Language Models Develop Novel Social Biases Through Adaptive Exploration](https://arxiv.org/abs/2511.06148) | HN Discussion: [198 points, 111 comments](https://news.ycombinator.com/item?id=49617581)*

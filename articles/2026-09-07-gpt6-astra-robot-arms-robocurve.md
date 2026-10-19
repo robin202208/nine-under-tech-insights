@@ -26,4 +26,4 @@ For teams building on top of these models, the economics are the sleeper finding
 
 ---
 
-*Published by [九地之下 Tech Insights](https://github.com/robin202208/nine-under-tech-insights) | Source: [Robocurve — GPT-6 Astra on robot arms](https://openai.robocurve.org/gpt-6-astra/) | HN Discussion: [231 points, 180 comments](https://news.ycombinator.com/item?id=49582582)*
+*Published by [9D量子 Tech Insights](https://github.com/robin202208/nine-under-tech-insights) | Source: [Robocurve — GPT-6 Astra on robot arms](https://openai.robocurve.org/gpt-6-astra/) | HN Discussion: [231 points, 180 comments](https://news.ycombinator.com/item?id=49582582)*

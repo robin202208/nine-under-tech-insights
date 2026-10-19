@@ -28,4 +28,4 @@ The lesson: the execution environment is a security boundary under pressure from
 
 ---
 
-*Published by [九地之下 Tech Insights](https://github.com/robin202208/nine-under-tech-insights) | Source: [DSec: A Sandbox Infrastructure for Effective Agentic Training at Scale (arXiv:2609.22978)](https://arxiv.org/abs/2609.22978) | HN Discussion: [157 points, 43 comments](https://news.ycombinator.com/item?id=49859112)*
+*Published by [9D量子 Tech Insights](https://github.com/robin202208/nine-under-tech-insights) | Source: [DSec: A Sandbox Infrastructure for Effective Agentic Training at Scale (arXiv:2609.22978)](https://arxiv.org/abs/2609.22978) | HN Discussion: [157 points, 43 comments](https://news.ycombinator.com/item?id=49859112)*

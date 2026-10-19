@@ -32,4 +32,4 @@ If peer review validates even half of Di Mino's claims, this won't just be the b
 
 ---
 
-*Published by [九地之下 Tech Insights](https://github.com/robin202208/nine-under-tech-insights)*
+*Published by [9D量子 Tech Insights](https://github.com/robin202208/nine-under-tech-insights)*

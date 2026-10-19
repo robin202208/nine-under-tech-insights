@@ -1,6 +1,6 @@
 # DeepSeek Just Joined the Silicon Wars — And That Changes Everything
 
-**August 1, 2026** · 九地之下 Tech Insights
+**August 1, 2026** · 9D量子 Tech Insights
 
 ---
 

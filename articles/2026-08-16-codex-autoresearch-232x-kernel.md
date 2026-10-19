@@ -26,4 +26,4 @@ For the industry, the implications reach past kernels. QR-style decompositions u
 
 ---
 
-*Published by [九地之下 Tech Insights](https://github.com/robin202208/nine-under-tech-insights) | Source: [Auto-research with codex: How I achieved a 232x Faster Kernel](https://sankalp.bearblog.dev/autoresearch/) | HN Discussion: [391 points, 86 comments](https://news.ycombinator.com/item?id=49309549)*
+*Published by [9D量子 Tech Insights](https://github.com/robin202208/nine-under-tech-insights) | Source: [Auto-research with codex: How I achieved a 232x Faster Kernel](https://sankalp.bearblog.dev/autoresearch/) | HN Discussion: [391 points, 86 comments](https://news.ycombinator.com/item?id=49309549)*

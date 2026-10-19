@@ -46,8 +46,8 @@ Code and weights are on [GitHub](https://github.com/microsoft/Lens) and [Hugging
 
 ## Our Take
 
-At 九地之下, the caption quality finding is directly applicable to our work. For Aurora Ring's health insights, the quality of sensor data annotation determines whether the model learns meaningful patterns or noise. The principle is the same: invest in labeling quality, not labeling volume. Lens proves that a small, well-trained model with good data beats a large, poorly-trained one every time. That is an engineering truth that transcends image generation.
+At 9D量子, the caption quality finding is directly applicable to our work. For Aurora Ring's health insights, the quality of sensor data annotation determines whether the model learns meaningful patterns or noise. The principle is the same: invest in labeling quality, not labeling volume. Lens proves that a small, well-trained model with good data beats a large, poorly-trained one every time. That is an engineering truth that transcends image generation.
 
 ---
 
-*Published by [九地之下 Tech Insights](https://github.com/robin202208/nine-under-tech-insights)*
+*Published by [9D量子 Tech Insights](https://github.com/robin202208/nine-under-tech-insights)*

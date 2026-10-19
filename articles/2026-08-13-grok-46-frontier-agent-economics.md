@@ -28,4 +28,4 @@ Expect pricing pressure on the top tier as a result. When a frontier-scoring mod
 
 ---
 
-*Published by [九地之下 Tech Insights](https://github.com/robin202208/nine-under-tech-insights) | Source: [SpaceXAI Blog](https://x.ai/news/grok-4-6) & [Artificial Analysis](https://artificialanalysis.ai/articles/grok-4-6-benchmarks-and-analysis) | HN Discussion: [398 points, 396 comments](https://news.ycombinator.com/item?id=49274027)*
+*Published by [9D量子 Tech Insights](https://github.com/robin202208/nine-under-tech-insights) | Source: [SpaceXAI Blog](https://x.ai/news/grok-4-6) & [Artificial Analysis](https://artificialanalysis.ai/articles/grok-4-6-benchmarks-and-analysis) | HN Discussion: [398 points, 396 comments](https://news.ycombinator.com/item?id=49274027)*

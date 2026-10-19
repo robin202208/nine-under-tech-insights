@@ -28,4 +28,4 @@ The most valuable output here may be negative: a precise statement of what forma
 
 ---
 
-*Published by [九地之下 Tech Insights](https://github.com/robin202208/nine-under-tech-insights) | Source: [arXiv:2610.08144](https://arxiv.org/abs/2610.08144) | HN Discussion: [248 points, 156 comments](https://news.ycombinator.com/item?id=49994145)*
+*Published by [9D量子 Tech Insights](https://github.com/robin202208/nine-under-tech-insights) | Source: [arXiv:2610.08144](https://arxiv.org/abs/2610.08144) | HN Discussion: [248 points, 156 comments](https://news.ycombinator.com/item?id=49994145)*

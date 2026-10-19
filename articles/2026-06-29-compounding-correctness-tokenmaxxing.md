@@ -26,4 +26,4 @@ For individual developers, the message is clear: if you haven't experimented wit
 
 ---
 
-*Published by [九地之下 Tech Insights](https://github.com/robin202208/nine-under-tech-insights) | Source: [Agentics / Tech Things](https://12gramsofcarbon.com/p/agentics-tech-things-tokenmaxxing) | HN Discussion: [108 points, 135 comments](https://news.ycombinator.com/item?id=48708795)*
+*Published by [9D量子 Tech Insights](https://github.com/robin202208/nine-under-tech-insights) | Source: [Agentics / Tech Things](https://12gramsofcarbon.com/p/agentics-tech-things-tokenmaxxing) | HN Discussion: [108 points, 135 comments](https://news.ycombinator.com/item?id=48708795)*

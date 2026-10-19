@@ -24,4 +24,4 @@ The second-order effect is how we verify AI claims. The bounty went unpaid becau
 
 ---
 
-*Published by [九地之下 Tech Insights](https://github.com/robin202208/nine-under-tech-insights) | Source: [Anthropic — Claude reveals ECDSA curve origins](https://www.anthropic.com/research/ecdsa-curve-origins) | HN Discussion: [675 points, 272 comments](https://news.ycombinator.com/item?id=50122800)*
+*Published by [9D量子 Tech Insights](https://github.com/robin202208/nine-under-tech-insights) | Source: [Anthropic — Claude reveals ECDSA curve origins](https://www.anthropic.com/research/ecdsa-curve-origins) | HN Discussion: [675 points, 272 comments](https://news.ycombinator.com/item?id=50122800)*

@@ -22,4 +22,4 @@ Two consequences follow. First, the frontier moves onto consumer hardware: strip
 
 ---
 
-*Published by [九地之下 Tech Insights](https://github.com/robin202208/nine-under-tech-insights) | Source: [w4g1.dev — Models Are Getting Dumber on Purpose](https://w4g1.dev/blog/models-are-getting-dumber-on-purpose) | HN Discussion: [264 points, 148 comments](https://news.ycombinator.com/item?id=49322695)*
+*Published by [9D量子 Tech Insights](https://github.com/robin202208/nine-under-tech-insights) | Source: [w4g1.dev — Models Are Getting Dumber on Purpose](https://w4g1.dev/blog/models-are-getting-dumber-on-purpose) | HN Discussion: [264 points, 148 comments](https://news.ycombinator.com/item?id=49322695)*

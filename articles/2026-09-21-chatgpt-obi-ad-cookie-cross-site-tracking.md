@@ -28,4 +28,4 @@ For builders, the lesson is architectural: identity for attribution, not for the
 
 ---
 
-*Published by [九地之下 Tech Insights](https://github.com/robin202208/nine-under-tech-insights) | Source: [Buchodi's Threat Intel](https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector/) | HN Discussion: [573 points, 308 comments](https://news.ycombinator.com/item?id=49776729)*
+*Published by [9D量子 Tech Insights](https://github.com/robin202208/nine-under-tech-insights) | Source: [Buchodi's Threat Intel](https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector/) | HN Discussion: [573 points, 308 comments](https://news.ycombinator.com/item?id=49776729)*

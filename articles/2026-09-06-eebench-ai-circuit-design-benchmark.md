@@ -26,4 +26,4 @@ The near-term consequence is pressure on the other frontier labs. EEBench's auth
 
 ---
 
-*Published by [九地之下 Tech Insights](https://github.com/robin202208/nine-under-tech-insights) | Source: [EEBench](https://eebench.org/blog/can-ai-design-circuit-boards-yet/) | HN Discussion: [376 points, 206 comments](https://news.ycombinator.com/item?id=49569366)*
+*Published by [9D量子 Tech Insights](https://github.com/robin202208/nine-under-tech-insights) | Source: [EEBench](https://eebench.org/blog/can-ai-design-circuit-boards-yet/) | HN Discussion: [376 points, 206 comments](https://news.ycombinator.com/item?id=49569366)*

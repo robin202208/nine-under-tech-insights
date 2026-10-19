@@ -30,4 +30,4 @@ Forget the IPO chatter. Forget the valuation arms race. The real story of June 2
 
 ---
 
-*Published by [九地之下 Tech Insights](https://github.com/robin202208/nine-under-tech-insights)*
+*Published by [9D量子 Tech Insights](https://github.com/robin202208/nine-under-tech-insights)*

@@ -34,7 +34,7 @@ The result is visible in the benchmarks: M3 doesn't just code well or see well �
 
 The open-source AI landscape has been dominated by Western models: Llama, Mistral, Qwen, DeepSeek. M3 represents something different: a model designed from first principles for agent workloads rather than chat, and released fully open-source with no usage restrictions.
 
-For AI application developers — the kind of company that 九地之下 represents — this changes the build-vs-buy calculus. A model that can autonomously execute multi-hour agent tasks, beats GPT-5.5 at coding, and runs efficiently at massive context lengths means you can build agent systems on your own infrastructure without paying per-token to closed-source APIs.
+For AI application developers — the kind of company that 9D量子 represents — this changes the build-vs-buy calculus. A model that can autonomously execute multi-hour agent tasks, beats GPT-5.5 at coding, and runs efficiently at massive context lengths means you can build agent systems on your own infrastructure without paying per-token to closed-source APIs.
 
 The 24-hour autonomous run with 2,000+ tool calls is particularly significant. Most agent demonstrations are carefully scripted — a few steps, a clean environment, a narrow task. M3's demo is messy, extended, and real. The model didn't just complete a task; it sustained coherent, goal-directed behavior across an entire day of work with no degradation.
 
@@ -42,4 +42,4 @@ That's not a benchmark number. That's a capability signal.
 
 ---
 
-*Published by [九地之下 Tech Insights](https://github.com/robin202208/nine-under-tech-insights)*
+*Published by [9D量子 Tech Insights](https://github.com/robin202208/nine-under-tech-insights)*

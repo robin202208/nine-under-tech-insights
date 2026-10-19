@@ -38,4 +38,4 @@ The technique itself is not proprietary. Post-training a model to think more bri
 
 ---
 
-*Published by [九地之下 Tech Insights](https://github.com/robin202208/nine-under-tech-insights) | Source: [Fireworks AI — Introducing Ember-1](https://fireworks.ai/blog/ember-1) | HN Discussion: [352 points, 180 comments](https://news.ycombinator.com/item?id=49868830)*
+*Published by [9D量子 Tech Insights](https://github.com/robin202208/nine-under-tech-insights) | Source: [Fireworks AI — Introducing Ember-1](https://fireworks.ai/blog/ember-1) | HN Discussion: [352 points, 180 comments](https://news.ycombinator.com/item?id=49868830)*

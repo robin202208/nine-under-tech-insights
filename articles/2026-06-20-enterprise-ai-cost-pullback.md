@@ -32,4 +32,4 @@ The enterprise AI pullback was inevitable and healthy. The early 2025 hype cycle
 
 ---
 
-*Published by [九地之下 Tech Insights](https://github.com/robin202208/nine-under-tech-insights)*
+*Published by [9D量子 Tech Insights](https://github.com/robin202208/nine-under-tech-insights)*

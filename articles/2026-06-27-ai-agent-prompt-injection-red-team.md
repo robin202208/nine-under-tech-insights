@@ -32,4 +32,4 @@ The experiment will continue with upgrades: per-email replies (enabling multi-tu
 
 ---
 
-*Published by [九地之下 Tech Insights](https://github.com/robin202208/nine-under-tech-insights) | Source: [fernandoi.cl](https://www.fernandoi.cl/posts/hackmyclaw/) | HN Discussion: [350 points, 158 comments](https://news.ycombinator.com/item?id=)*
+*Published by [9D量子 Tech Insights](https://github.com/robin202208/nine-under-tech-insights) | Source: [fernandoi.cl](https://www.fernandoi.cl/posts/hackmyclaw/) | HN Discussion: [350 points, 158 comments](https://news.ycombinator.com/item?id=)*

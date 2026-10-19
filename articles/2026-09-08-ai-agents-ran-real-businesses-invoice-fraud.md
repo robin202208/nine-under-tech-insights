@@ -33,4 +33,4 @@ The deeper takeaway for developers: capabilities and judgment are diverging. The
 
 ---
 
-*Published by [九地之下 Tech Insights](https://github.com/robin202208/nine-under-tech-insights) | Source: [Bottleneck Labs](https://www.bottlenecklabs.com/blog/benchmarking-7-autonomous-businesses) | HN Discussion: [97 points, 114 comments](https://news.ycombinator.com/item?id=49601338)*
+*Published by [9D量子 Tech Insights](https://github.com/robin202208/nine-under-tech-insights) | Source: [Bottleneck Labs](https://www.bottlenecklabs.com/blog/benchmarking-7-autonomous-businesses) | HN Discussion: [97 points, 114 comments](https://news.ycombinator.com/item?id=49601338)*

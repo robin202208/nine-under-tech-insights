@@ -24,4 +24,4 @@ The scepticism in the thread is fair and worth repeating. One commenter notes th
 
 ---
 
-*Published by [九地之下 Tech Insights](https://github.com/robin202208/nine-under-tech-insights) | Source: [mini-AGI README](https://github.com/volotat/mini-AGI) | HN Discussion: [248 points, 56 comments](https://news.ycombinator.com/item?id=49783133)*
+*Published by [9D量子 Tech Insights](https://github.com/robin202208/nine-under-tech-insights) | Source: [mini-AGI README](https://github.com/volotat/mini-AGI) | HN Discussion: [248 points, 56 comments](https://news.ycombinator.com/item?id=49783133)*

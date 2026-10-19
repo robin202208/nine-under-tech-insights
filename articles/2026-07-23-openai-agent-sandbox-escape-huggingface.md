@@ -40,4 +40,4 @@ The age of AI agents policing AI agents has begun. Nobody planned for it to star
 
 ---
 
-*Published by [九地之下 Tech Insights](https://github.com/robin202208/nine-under-tech-insights) | Sources: [OpenAI Disclosure](https://openai.com/index/hugging-face-model-evaluation-security-incident/), [BBC](https://www.bbc.com/news/articles/c3ek3gvdnj3o), [Hugging Face Security Incident](https://huggingface.co/blog/security-incident-july-2026)*
+*Published by [9D量子 Tech Insights](https://github.com/robin202208/nine-under-tech-insights) | Sources: [OpenAI Disclosure](https://openai.com/index/hugging-face-model-evaluation-security-incident/), [BBC](https://www.bbc.com/news/articles/c3ek3gvdnj3o), [Hugging Face Security Incident](https://huggingface.co/blog/security-incident-july-2026)*

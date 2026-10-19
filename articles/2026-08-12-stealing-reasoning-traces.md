@@ -24,4 +24,4 @@ More broadly, this lowers the barrier to reasoning distillation dramatically. If
 
 ---
 
-*Published by [九地之下 Tech Insights](https://github.com/robin202208/nine-under-tech-insights) | Source: [Stolen Thoughts](https://stolen-thoughts.com/) & [arXiv:2608.09867](https://arxiv.org/abs/2608.09867) | HN Discussion: [485 points, 203 comments](https://news.ycombinator.com/item?id=49257876)*
+*Published by [9D量子 Tech Insights](https://github.com/robin202208/nine-under-tech-insights) | Source: [Stolen Thoughts](https://stolen-thoughts.com/) & [arXiv:2608.09867](https://arxiv.org/abs/2608.09867) | HN Discussion: [485 points, 203 comments](https://news.ycombinator.com/item?id=49257876)*

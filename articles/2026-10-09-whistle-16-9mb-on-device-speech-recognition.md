@@ -26,4 +26,4 @@ The more interesting signal came from one commenter who wired Whistle into an Ec
 
 ---
 
-*Published by [九地之下 Tech Insights](https://github.com/robin202208/nine-under-tech-insights) | Source: [Cactus — Whistle: Speech to Text in 16.9 MB](https://cactuscompute.com/blog/whistle) | HN Discussion: [529 points, 119 comments](https://news.ycombinator.com/item?id=50008427)*
+*Published by [9D量子 Tech Insights](https://github.com/robin202208/nine-under-tech-insights) | Source: [Cactus — Whistle: Speech to Text in 16.9 MB](https://cactuscompute.com/blog/whistle) | HN Discussion: [529 points, 119 comments](https://news.ycombinator.com/item?id=50008427)*

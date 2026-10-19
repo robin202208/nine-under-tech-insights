@@ -30,4 +30,4 @@ For the open-source inference ecosystem, Photon's design documents serve as a bl
 
 ---
 
-*Published by [九地之下 Tech Insights](https://github.com/robin202208/nine-under-tech-insights) | Source: [Moondream Blog](https://moondream.ai/blog/popping-the-gpu-bubble) | HN Discussion: [188 points, 47 comments](https://news.ycombinator.com/item?id=48728729)*
+*Published by [9D量子 Tech Insights](https://github.com/robin202208/nine-under-tech-insights) | Source: [Moondream Blog](https://moondream.ai/blog/popping-the-gpu-bubble) | HN Discussion: [188 points, 47 comments](https://news.ycombinator.com/item?id=48728729)*

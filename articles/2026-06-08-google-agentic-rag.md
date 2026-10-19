@@ -48,8 +48,8 @@ The framework is available now as `cross-corpus-retrieval` in Gemini Enterprise 
 
 ## Our Take
 
-At 九地之下, we see immediate applications in two domains: international Chinese education (cross-corpus retrieval across classical texts, modern articles, and pedagogical materials) and health data analysis for Aurora Ring (cross-referencing heart rate, blood oxygen, and activity data). The Sufficient Context pattern is the missing piece between "the LLM guessed wrong" and "the system found the right answer."
+At 9D量子, we see immediate applications in two domains: international Chinese education (cross-corpus retrieval across classical texts, modern articles, and pedagogical materials) and health data analysis for Aurora Ring (cross-referencing heart rate, blood oxygen, and activity data). The Sufficient Context pattern is the missing piece between "the LLM guessed wrong" and "the system found the right answer."
 
 ---
 
-*Published by [九地之下 Tech Insights](https://github.com/robin202208/nine-under-tech-insights)*
+*Published by [9D量子 Tech Insights](https://github.com/robin202208/nine-under-tech-insights)*

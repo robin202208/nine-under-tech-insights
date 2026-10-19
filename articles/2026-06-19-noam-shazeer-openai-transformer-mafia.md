@@ -33,4 +33,4 @@ Also worth watching: Dean Ball's Strategic Futures team will likely influence wh
 The "Transformer Mafia" reassembling at OpenAI is more significant than any single funding round or product launch. Architectural expertise is becoming the scarcest resource in AI, and OpenAI just secured one of the few people on Earth who can credibly claim to have invented the technology everyone else is racing to scale. For the rest of the industry, the message is clear: the era of architectural convergence is over before it began.
 
 ---
-*Published by [九地之下 Tech Insights](https://github.com/robin202208/nine-under-tech-insights)*
+*Published by [9D量子 Tech Insights](https://github.com/robin202208/nine-under-tech-insights)*

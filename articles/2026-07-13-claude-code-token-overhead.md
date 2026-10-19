@@ -32,4 +32,4 @@ For the industry, this benchmark exposes an uncomfortable asymmetry: AI labs tha
 
 --- 
 
-*Published by [九地之下 Tech Insights](https://github.com/robin202208/nine-under-tech-insights) | Source: [Systima AI](https://systima.ai/blog/claude-code-vs-opencode-token-overhead) | HN Discussion: [454 points, 254 comments](https://news.ycombinator.com/item?id=48883275)*
+*Published by [9D量子 Tech Insights](https://github.com/robin202208/nine-under-tech-insights) | Source: [Systima AI](https://systima.ai/blog/claude-code-vs-opencode-token-overhead) | HN Discussion: [454 points, 254 comments](https://news.ycombinator.com/item?id=48883275)*

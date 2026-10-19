@@ -24,4 +24,4 @@ Anthropic is explicit that Scion is not a git replacement, is not open source, a
 
 ---
 
-*Published by [九地之下 Tech Insights](https://github.com/robin202208/nine-under-tech-insights) | Source: [Anthropic Engineering](https://www.anthropic.com/engineering/redesigning-source-control) | HN Discussion: [543 points, 523 comments](https://news.ycombinator.com/item?id=50073633)*
+*Published by [9D量子 Tech Insights](https://github.com/robin202208/nine-under-tech-insights) | Source: [Anthropic Engineering](https://www.anthropic.com/engineering/redesigning-source-control) | HN Discussion: [543 points, 523 comments](https://news.ycombinator.com/item?id=50073633)*

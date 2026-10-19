@@ -1,6 +1,6 @@
 # OpenAI's Jalapeño Chip: The Inference Silicon That Completes the Full-Stack AI Company
 
-**2026-06-25** · 九地之下 Tech Insights
+**2026-06-25** · 9D量子 Tech Insights
 
 ---
 
@@ -36,4 +36,4 @@ The inference chip is the first shoe. Training silicon will drop next. When it d
 
 ---
 
-*九地之下 is a Shanghai-based AI application company building Aurora Ring — an AI-powered smart health ring — and shipping deep tech insights daily for the global developer community.*
+*9D量子 is a Shanghai-based AI application company building Aurora Ring — an AI-powered smart health ring — and shipping deep tech insights daily for the global developer community.*

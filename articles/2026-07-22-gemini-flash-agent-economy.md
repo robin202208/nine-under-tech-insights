@@ -34,4 +34,4 @@ One underappreciated signal: 3.5 Flash-Lite is rolling out in Google Search. Whe
 
 ---
 
-*Published by [九地之下 Tech Insights](https://github.com/robin202208/nine-under-tech-insights) | Source: [Google AI Blog](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-6-flash-3-5-flash-lite-3-5-flash-cyber/) | HN Discussion: [604 points, 478 comments](https://news.ycombinator.com/item?id=48993414)*
+*Published by [9D量子 Tech Insights](https://github.com/robin202208/nine-under-tech-insights) | Source: [Google AI Blog](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-6-flash-3-5-flash-lite-3-5-flash-cyber/) | HN Discussion: [604 points, 478 comments](https://news.ycombinator.com/item?id=48993414)*

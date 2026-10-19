@@ -26,4 +26,4 @@ Ultrafast is currently in limited preview with access expanding as capacity grow
 
 ---
 
-*Published by [九地之下 Tech Insights](https://github.com/robin202208/nine-under-tech-insights) | Source: [Cerebras Blog](https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai) & [OpenAI Ultrafast Preview](https://openai.com/index/previewing-ultrafast/) | HN Discussion: [698 points, 272 comments](https://news.ycombinator.com/item?id=49289844)*
+*Published by [9D量子 Tech Insights](https://github.com/robin202208/nine-under-tech-insights) | Source: [Cerebras Blog](https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai) & [OpenAI Ultrafast Preview](https://openai.com/index/previewing-ultrafast/) | HN Discussion: [698 points, 272 comments](https://news.ycombinator.com/item?id=49289844)*

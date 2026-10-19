@@ -34,4 +34,4 @@ Two design choices make MSA particularly deployment-friendly. First, the block-g
 
 The paper signals a broader industry pattern: sparse attention is winning as the path to long-context efficiency. DeepSeek's NSA, MoBA from Moonshot/Kimi, and now MSA from MiniMax all converge on learned, adaptive sparsity over fixed patterns. The question is no longer whether sparse attention works, but whose kernel implementation ships first in production.
 
-*Published by [九地之下 Tech Insights](https://github.com/robin202208/nine-under-tech-insights)*
+*Published by [9D量子 Tech Insights](https://github.com/robin202208/nine-under-tech-insights)*

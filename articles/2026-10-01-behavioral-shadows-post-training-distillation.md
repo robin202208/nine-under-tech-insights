@@ -30,4 +30,4 @@ None of this is a universal theft vector. ATD assumes a known public ancestor an
 
 ---
 
-*Published by [九地之下 Tech Insights](https://github.com/robin202208/nine-under-tech-insights) | Source: [Post-Training Leaves Behavioral Shadows on Unrelated Decisions (arXiv:2609.29233)](https://arxiv.org/abs/2609.29233) & [HuggingFace Daily Papers](https://huggingface.co/papers/2609.29233)*
+*Published by [9D量子 Tech Insights](https://github.com/robin202208/nine-under-tech-insights) | Source: [Post-Training Leaves Behavioral Shadows on Unrelated Decisions (arXiv:2609.29233)](https://arxiv.org/abs/2609.29233) & [HuggingFace Daily Papers](https://huggingface.co/papers/2609.29233)*

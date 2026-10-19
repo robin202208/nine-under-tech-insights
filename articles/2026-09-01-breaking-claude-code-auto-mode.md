@@ -31,4 +31,4 @@ The episode also exposes a credibility gap vendors must close. Claiming prompt i
 
 ---
 
-*Published by [九地之下 Tech Insights](https://github.com/robin202208/nine-under-tech-insights) | Source: [Embrace The Red](https://embracethered.com/blog/posts/2026/breaking-claude-code-opus-5-and-automode/) | HN Discussion: [341 points, 113 comments](https://news.ycombinator.com/item?id=49506819)*
+*Published by [9D量子 Tech Insights](https://github.com/robin202208/nine-under-tech-insights) | Source: [Embrace The Red](https://embracethered.com/blog/posts/2026/breaking-claude-code-opus-5-and-automode/) | HN Discussion: [341 points, 113 comments](https://news.ycombinator.com/item?id=49506819)*

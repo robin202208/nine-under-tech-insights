@@ -33,4 +33,4 @@ The game is a toy; the numbers are a warning. As agents gain command authority o
 
 ---
 
-*Published by [九地之下 Tech Insights](https://github.com/robin202208/nine-under-tech-insights) | Source: [Scale X — AI agent permissions stats](https://scalex.dev/blog/ai-agent-permissions-stats/) | HN Discussion: [251 points, 190 comments](https://news.ycombinator.com/item?id=49195468)*
+*Published by [9D量子 Tech Insights](https://github.com/robin202208/nine-under-tech-insights) | Source: [Scale X — AI agent permissions stats](https://scalex.dev/blog/ai-agent-permissions-stats/) | HN Discussion: [251 points, 190 comments](https://news.ycombinator.com/item?id=49195468)*

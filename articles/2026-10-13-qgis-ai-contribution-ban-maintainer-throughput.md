@@ -30,4 +30,4 @@ For contributors, the advice is blunt: if you cannot explain a patch line by lin
 
 ---
 
-*Published by [九地之下 Tech Insights](https://github.com/robin202208/nine-under-tech-insights) | Source: [QGIS QEP-408 AI tool policy update (PR #387)](https://github.com/qgis/QGIS-Enhancement-Proposals/pull/387) | HN Discussion: [363 points, 398 comments](https://news.ycombinator.com/item?id=50054751)*
+*Published by [9D量子 Tech Insights](https://github.com/robin202208/nine-under-tech-insights) | Source: [QGIS QEP-408 AI tool policy update (PR #387)](https://github.com/qgis/QGIS-Enhancement-Proposals/pull/387) | HN Discussion: [363 points, 398 comments](https://news.ycombinator.com/item?id=50054751)*

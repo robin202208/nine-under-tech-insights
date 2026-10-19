@@ -22,4 +22,4 @@ For companies mandating AI-first workflows, the message is a risk warning: forci
 
 ---
 
-*Published by [九地之下 Tech Insights](https://github.com/robin202208/nine-under-tech-insights) | Source: [Coding expertise is going to collapse from AI reliance (Lars Faye)](https://larsfaye.com/articles/ai-coding-will-prevent-expertise) | HN Discussion: [539 points, 535 comments](https://news.ycombinator.com/item?id=49421554)*
+*Published by [9D量子 Tech Insights](https://github.com/robin202208/nine-under-tech-insights) | Source: [Coding expertise is going to collapse from AI reliance (Lars Faye)](https://larsfaye.com/articles/ai-coding-will-prevent-expertise) | HN Discussion: [539 points, 535 comments](https://news.ycombinator.com/item?id=49421554)*

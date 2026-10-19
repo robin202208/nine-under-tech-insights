@@ -32,4 +32,4 @@ The strategic read is sharper: as open weights commoditize general capability, d
 
 ---
 
-*Published by [九地之下 Tech Insights](https://github.com/robin202208/nine-under-tech-insights) | Source: [Aleph Alpha — Kolibri Has Landed](https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/) & [Tech Report](https://aleph-alpha.com/downloads/tech-report.pdf) & [Tejas Kumar analysis](https://tej.as/blog/aleph-alpha-kolibri) | HN Discussion: [510 points, 298 comments](https://news.ycombinator.com/item?id=49942706)*
+*Published by [9D量子 Tech Insights](https://github.com/robin202208/nine-under-tech-insights) | Source: [Aleph Alpha — Kolibri Has Landed](https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/) & [Tech Report](https://aleph-alpha.com/downloads/tech-report.pdf) & [Tejas Kumar analysis](https://tej.as/blog/aleph-alpha-kolibri) | HN Discussion: [510 points, 298 comments](https://news.ycombinator.com/item?id=49942706)*

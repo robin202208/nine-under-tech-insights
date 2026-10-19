@@ -28,4 +28,4 @@ For the broader AI engineering community, the autonomous compiler and chip-desig
 
 ---
 
-*Published by [Nine Under Tech Insights](https://github.com/robin202208/nine-under-tech-insights) | Source: [Kimi K3 Blog](https://www.kimi.com/blog/kimi-k3) | HN Discussion: [1,134 points, 711 comments](https://news.ycombinator.com/item?id=48935342)*
+*Published by [9D Quantum Tech Insights](https://github.com/robin202208/nine-under-tech-insights) | Source: [Kimi K3 Blog](https://www.kimi.com/blog/kimi-k3) | HN Discussion: [1,134 points, 711 comments](https://news.ycombinator.com/item?id=48935342)*

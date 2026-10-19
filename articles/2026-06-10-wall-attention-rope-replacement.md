@@ -1,6 +1,6 @@
 # RoPE Just Got a Replacement — And It Learns What to Forget Per Channel
 
-**June 10, 2026** | By Nine Under Places
+**June 10, 2026** | By 9D Quantum
 
 ---
 

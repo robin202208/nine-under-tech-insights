@@ -26,4 +26,4 @@ For developers, the Gatekeeper pattern is a reusable architecture for scoping ag
 
 ---
 
-*Published by [九地之下 Tech Insights](https://github.com/robin202208/nine-under-tech-insights) | Source: [Cloudflare Blog](https://blog.cloudflare.com/cloudflare-os/) | HN Discussion: [516 points, 254 comments](https://news.ycombinator.com/item?id=49182996)*
+*Published by [9D量子 Tech Insights](https://github.com/robin202208/nine-under-tech-insights) | Source: [Cloudflare Blog](https://blog.cloudflare.com/cloudflare-os/) | HN Discussion: [516 points, 254 comments](https://news.ycombinator.com/item?id=49182996)*

@@ -30,4 +30,4 @@ The message is clear: the era of evaluating AI coders on well-defined micro-task
 
 ---
 
-*Published by [九地之下 Tech Insights](https://github.com/robin202208/nine-under-tech-insights) | Source: [Snorkel AI](https://senior-swe-bench.snorkel.ai/) | HN Discussion: [164 points, 105 comments](https://news.ycombinator.com/item?id=48755928)*
+*Published by [9D量子 Tech Insights](https://github.com/robin202208/nine-under-tech-insights) | Source: [Snorkel AI](https://senior-swe-bench.snorkel.ai/) | HN Discussion: [164 points, 105 comments](https://news.ycombinator.com/item?id=48755928)*

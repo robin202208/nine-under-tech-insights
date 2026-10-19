@@ -32,4 +32,4 @@ The broader signal is that LM safety mechanisms are becoming more mechanistic an
 
 The open question is whether alignment gating generalizes beyond LoRA-based fine-tuning to full-weight training regimes, and whether the inverted gate remains stable under adversarial optimization. The code is available at github.com/stay1to0/Sycophancy_Emergent_Misalignment_and_Gated_attention_FT.
 
-*Published by [九地之下 Tech Insights](https://github.com/robin202208/nine-under-tech-insights)*
+*Published by [9D量子 Tech Insights](https://github.com/robin202208/nine-under-tech-insights)*

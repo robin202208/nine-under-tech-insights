@@ -26,4 +26,4 @@ For developers, Lemmalog is a reminder that the hard part of agent memory is not
 
 ---
 
-*Published by [九地之下 Tech Insights](https://github.com/robin202208/nine-under-tech-insights) | Source: [pwning.systems](https://pwning.systems/posts/llm-memory-program-analysis/) & [Lemmalog on GitHub](https://github.com/JordyZomer/lemmalog) | HN Discussion: [277 points, 73 comments](https://news.ycombinator.com/item?id=49485416)*
+*Published by [9D量子 Tech Insights](https://github.com/robin202208/nine-under-tech-insights) | Source: [pwning.systems](https://pwning.systems/posts/llm-memory-program-analysis/) & [Lemmalog on GitHub](https://github.com/JordyZomer/lemmalog) | HN Discussion: [277 points, 73 comments](https://news.ycombinator.com/item?id=49485416)*

@@ -1,6 +1,6 @@
 # A German Court Just Ruled That AI Hallucinations Are Google's Problem — Not Yours
 
-**June 10, 2026** | By Nine Under Places
+**June 10, 2026** | By 9D Quantum
 
 ---
 

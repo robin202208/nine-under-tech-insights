@@ -36,4 +36,4 @@ Strata is not the first attempt to run big models at home, but it is the cleares
 
 ---
 
-*Published by [九地之下 Tech Insights](https://github.com/robin202208/nine-under-tech-insights) | Source: [Strata (GitHub)](https://github.com/Niko1221/Strata) & [Qwen3.8-Flash-Next model card](https://huggingface.co/Qwen/Qwen3.8-Flash-Next) | HN Discussion: [612 points, 285 comments](https://news.ycombinator.com/item?id=49953495)*
+*Published by [9D量子 Tech Insights](https://github.com/robin202208/nine-under-tech-insights) | Source: [Strata (GitHub)](https://github.com/Niko1221/Strata) & [Qwen3.8-Flash-Next model card](https://huggingface.co/Qwen/Qwen3.8-Flash-Next) | HN Discussion: [612 points, 285 comments](https://news.ycombinator.com/item?id=49953495)*

@@ -30,4 +30,4 @@ The recsys-ification of LLMs was predictable, but the speed is surprising. The w
 
 ---
 
-*Published by [九地之下 Tech Insights](https://github.com/robin202208/nine-under-tech-insights) | Source: [Ian Barber's Blog](https://ianbarber.blog/2026/06/19/llms-are-complicated-now/) | HN Discussion: [165 points, 57 comments](https://news.ycombinator.com/item?id=46738395)*
+*Published by [9D量子 Tech Insights](https://github.com/robin202208/nine-under-tech-insights) | Source: [Ian Barber's Blog](https://ianbarber.blog/2026/06/19/llms-are-complicated-now/) | HN Discussion: [165 points, 57 comments](https://news.ycombinator.com/item?id=46738395)*

@@ -32,4 +32,4 @@ And for anyone who assumes vendor documentation is enough: none of this is in a 
 
 ---
 
-*Published by [九地之下 Tech Insights](https://github.com/robin202208/nine-under-tech-insights) | Source: [Retrospectively Reverse-Engineering Apple's Neural Engine](https://eiln.github.io/posts/ane.html) (Eileen Yoon) | HN Discussion: [221 points, 31 comments](https://news.ycombinator.com/item?id=49670032)*
+*Published by [9D量子 Tech Insights](https://github.com/robin202208/nine-under-tech-insights) | Source: [Retrospectively Reverse-Engineering Apple's Neural Engine](https://eiln.github.io/posts/ane.html) (Eileen Yoon) | HN Discussion: [221 points, 31 comments](https://news.ycombinator.com/item?id=49670032)*

@@ -36,4 +36,4 @@ The deeper story is about access. When a 26B frontier model runs on a three-year
 
 ---
 
-*Published by [九地之下 Tech Insights](https://github.com/robin202208/nine-under-tech-insights) | Source: [TurboFieldfare on GitHub](https://github.com/drumih/turbo-fieldfare) | HN Discussion: [640 points, 223 comments](https://news.ycombinator.com/item?id=49098510)*
+*Published by [9D量子 Tech Insights](https://github.com/robin202208/nine-under-tech-insights) | Source: [TurboFieldfare on GitHub](https://github.com/drumih/turbo-fieldfare) | HN Discussion: [640 points, 223 comments](https://news.ycombinator.com/item?id=49098510)*

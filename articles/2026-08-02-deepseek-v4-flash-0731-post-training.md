@@ -24,4 +24,4 @@ For the industry, the takeaway is strategic: if post-training, harness design, a
 
 ---
 
-*Published by [九地之下 Tech Insights](https://github.com/robin202208/nine-under-tech-insights) | Source: [DeepSeek API Changelog](https://api-docs.deepseek.com/updates/) & [DeepSeek-V4-Flash-0731 on Hugging Face](https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-0731) | HN Discussion: [728 points](https://news.ycombinator.com/item?id=49119559)*
+*Published by [9D量子 Tech Insights](https://github.com/robin202208/nine-under-tech-insights) | Source: [DeepSeek API Changelog](https://api-docs.deepseek.com/updates/) & [DeepSeek-V4-Flash-0731 on Hugging Face](https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-0731) | HN Discussion: [728 points](https://news.ycombinator.com/item?id=49119559)*

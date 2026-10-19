@@ -38,8 +38,8 @@ For developers, three takeaways:
 
 ## Our Take
 
-At 九地之下, the System Orchestrator concept directly validates our approach with Aurora Ring. Health data lives on-device — heart rate, blood oxygen, activity patterns. The orchestrator model means the AI can silently track context across sensors and only surface insights when patterns change, rather than requiring explicit queries. Apple just made ambient, privacy-preserving AI the industry standard. We saw that coming — and built for it.
+At 9D量子, the System Orchestrator concept directly validates our approach with Aurora Ring. Health data lives on-device — heart rate, blood oxygen, activity patterns. The orchestrator model means the AI can silently track context across sensors and only surface insights when patterns change, rather than requiring explicit queries. Apple just made ambient, privacy-preserving AI the industry standard. We saw that coming — and built for it.
 
 ---
 
-*Published by [九地之下 Tech Insights](https://github.com/robin202208/nine-under-tech-insights)*
+*Published by [9D量子 Tech Insights](https://github.com/robin202208/nine-under-tech-insights)*

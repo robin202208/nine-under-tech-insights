@@ -30,4 +30,4 @@ For the field's self-understanding, it cuts against the "just next-token statist
 
 ---
 
-*Published by [九地之下 Tech Insights](https://github.com/robin202208/nine-under-tech-insights) | Source: [arXiv:2608.29530](https://arxiv.org/abs/2608.29530) | HN Discussion: [271 points, 101 comments](https://news.ycombinator.com/item?id=49531651)*
+*Published by [9D量子 Tech Insights](https://github.com/robin202208/nine-under-tech-insights) | Source: [arXiv:2608.29530](https://arxiv.org/abs/2608.29530) | HN Discussion: [271 points, 101 comments](https://news.ycombinator.com/item?id=49531651)*

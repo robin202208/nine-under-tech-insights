@@ -32,4 +32,4 @@ More broadly, the latent-versus-pixel debate is reopening as raw compute cost be
 
 ---
 
-*Published by [九地之下 Tech Insights](https://github.com/robin202208/nine-under-tech-insights) | Source: [Linum Field Notes](https://www.linum.ai/field-notes/pyramid-jit) | HN Discussion: [49 points, 17 comments](https://news.ycombinator.com/item?id=49983582)*
+*Published by [9D量子 Tech Insights](https://github.com/robin202208/nine-under-tech-insights) | Source: [Linum Field Notes](https://www.linum.ai/field-notes/pyramid-jit) | HN Discussion: [49 points, 17 comments](https://news.ycombinator.com/item?id=49983582)*

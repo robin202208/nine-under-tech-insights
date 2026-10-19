@@ -32,4 +32,4 @@ For vendors, the honest fix is unglamorous: client-side keys, opt-in snapshot sy
 
 ---
 
-*Published by [九地之下 Tech Insights](https://github.com/robin202208/nine-under-tech-insights) | Source: [Inside ZCode: Silently Uploading Your Entire Git History to the Cloud](https://blog.ferstar.org/en/posts/zcode-silent-workspace-snapshot-upload/) | HN Discussion: [251 points, 89 comments](https://news.ycombinator.com/item?id=49750694)*
+*Published by [9D量子 Tech Insights](https://github.com/robin202208/nine-under-tech-insights) | Source: [Inside ZCode: Silently Uploading Your Entire Git History to the Cloud](https://blog.ferstar.org/en/posts/zcode-silent-workspace-snapshot-upload/) | HN Discussion: [251 points, 89 comments](https://news.ycombinator.com/item?id=49750694)*

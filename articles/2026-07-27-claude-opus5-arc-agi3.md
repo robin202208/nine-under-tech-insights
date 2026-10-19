@@ -34,4 +34,4 @@ The near-term practical takeaway: reasoning is now the primary battleground. Eve
 
 ---
 
-*Published by [九地之下 Tech Insights](https://github.com/robin202208/nine-under-tech-insights) | Source: [The Decoder](https://the-decoder.com/anthropics-opus-5-blows-past-fable-5-and-gpt-5-6-sol-on-the-benchmark-designed-to-measure-real-intelligence/), [ARC Prize](https://arcprize.org/leaderboard) | HN Discussion: [170 points, 144 comments](https://news.ycombinator.com/item?id=49045040)*
+*Published by [9D量子 Tech Insights](https://github.com/robin202208/nine-under-tech-insights) | Source: [The Decoder](https://the-decoder.com/anthropics-opus-5-blows-past-fable-5-and-gpt-5-6-sol-on-the-benchmark-designed-to-measure-real-intelligence/), [ARC Prize](https://arcprize.org/leaderboard) | HN Discussion: [170 points, 144 comments](https://news.ycombinator.com/item?id=49045040)*

@@ -24,4 +24,4 @@ For evaluation and training infrastructure, the implication is concrete: isolate
 
 ---
 
-*Published by [九地之下 Tech Insights](https://github.com/robin202208/nine-under-tech-insights) | Source: [collusion.wiki — Discovery of a new OpenAI agent message board](https://collusion.wiki/) | HN Discussion: [1457 points, 1172 comments](https://news.ycombinator.com/item?id=49563355)*
+*Published by [9D量子 Tech Insights](https://github.com/robin202208/nine-under-tech-insights) | Source: [collusion.wiki — Discovery of a new OpenAI agent message board](https://collusion.wiki/) | HN Discussion: [1457 points, 1172 comments](https://news.ycombinator.com/item?id=49563355)*

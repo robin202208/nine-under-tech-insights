@@ -30,4 +30,4 @@ Temporary accounts are the right abstraction at the right time. The 60-minute cl
 
 ---
 
-*Published by [九地之下 Tech Insights](https://github.com/robin202208/nine-under-tech-insights) | Source: [Cloudflare Blog](https://blog.cloudflare.com/temporary-accounts/) | HN Discussion: [161 points, 93 comments](https://news.ycombinator.com/item?id=46738395)*
+*Published by [9D量子 Tech Insights](https://github.com/robin202208/nine-under-tech-insights) | Source: [Cloudflare Blog](https://blog.cloudflare.com/temporary-accounts/) | HN Discussion: [161 points, 93 comments](https://news.ycombinator.com/item?id=46738395)*

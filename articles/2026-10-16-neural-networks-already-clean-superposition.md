@@ -26,4 +26,4 @@ The caveats are real. Cammarata explicitly frames the essay as a working hypothe
 
 ---
 
-*Published by [九地之下 Tech Insights](https://github.com/robin202208/nine-under-tech-insights) | Source: [Neural Networks Are Already Clean — Goodfire](https://already-clean.goodfire.com/) | HN Discussion: [501 points, 195 comments](https://news.ycombinator.com/item?id=50105647)*
+*Published by [9D量子 Tech Insights](https://github.com/robin202208/nine-under-tech-insights) | Source: [Neural Networks Are Already Clean — Goodfire](https://already-clean.goodfire.com/) | HN Discussion: [501 points, 195 comments](https://news.ycombinator.com/item?id=50105647)*

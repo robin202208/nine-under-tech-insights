@@ -34,4 +34,4 @@ The broader lesson for defenders: AI-enabled attackers will move faster, at larg
 
 ---
 
-*Published by [九地之下 Tech Insights](https://github.com/robin202208/nine-under-tech-insights) | Source: [Trail of Bits Blog](https://blog.trailofbits.com/2026/08/26/vms-wont-contain-cyber-capable-agents/) | HN Discussion: [141 points, 114 comments](https://news.ycombinator.com/item?id=49450188)*
+*Published by [9D量子 Tech Insights](https://github.com/robin202208/nine-under-tech-insights) | Source: [Trail of Bits Blog](https://blog.trailofbits.com/2026/08/26/vms-wont-contain-cyber-capable-agents/) | HN Discussion: [141 points, 114 comments](https://news.ycombinator.com/item?id=49450188)*

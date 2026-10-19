@@ -38,4 +38,4 @@ For the field: if years of human benchmark climbing still transfer to fresh data
 
 ---
 
-*Published by [九地之下 Tech Insights](https://github.com/robin202208/nine-under-tech-insights) | Source: [Amazon Science](https://www.amazon.science/blog/why-dont-machine-learning-research-agents-overfit) & [arXiv:2606.11045](https://arxiv.org/abs/2606.11045) | HN Discussion: [101 points, 57 comments](https://news.ycombinator.com/item?id=49699648)*
+*Published by [9D量子 Tech Insights](https://github.com/robin202208/nine-under-tech-insights) | Source: [Amazon Science](https://www.amazon.science/blog/why-dont-machine-learning-research-agents-overfit) & [arXiv:2606.11045](https://arxiv.org/abs/2606.11045) | HN Discussion: [101 points, 57 comments](https://news.ycombinator.com/item?id=49699648)*

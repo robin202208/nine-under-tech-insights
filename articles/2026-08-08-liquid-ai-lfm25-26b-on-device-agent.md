@@ -24,4 +24,4 @@ The honest limits matter too. Liquid AI explicitly does not recommend the model 
 
 ---
 
-*Published by [九地之下 Tech Insights](https://github.com/robin202208/nine-under-tech-insights) | Source: [Liquid AI Blog](https://www.liquid.ai/blog/lfm2-5-2-6b) & [HuggingFace Model Card](https://huggingface.co/LiquidAI/LFM2.5-2.6B)*
+*Published by [9D量子 Tech Insights](https://github.com/robin202208/nine-under-tech-insights) | Source: [Liquid AI Blog](https://www.liquid.ai/blog/lfm2-5-2-6b) & [HuggingFace Model Card](https://huggingface.co/LiquidAI/LFM2.5-2.6B)*

@@ -26,4 +26,4 @@ For researchers, the chilling effect is real: doing secret frontier work inside 
 
 ---
 
-*Published by [九地之下 Tech Insights](https://github.com/robin202208/nine-under-tech-insights) | Source: [OpenAI — On the Navier–Stokes Millennium Prize Problem](https://openai.com/index/navier-stokes-solution/) & [Tristan Buckmaster's statement (PDF)](https://cims.nyu.edu/~tristanb/statement.pdf) & [TechCrunch](https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician/) | HN Discussion: [1,088 points, 948 comments](https://news.ycombinator.com/item?id=49613262)*
+*Published by [9D量子 Tech Insights](https://github.com/robin202208/nine-under-tech-insights) | Source: [OpenAI — On the Navier–Stokes Millennium Prize Problem](https://openai.com/index/navier-stokes-solution/) & [Tristan Buckmaster's statement (PDF)](https://cims.nyu.edu/~tristanb/statement.pdf) & [TechCrunch](https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician/) | HN Discussion: [1,088 points, 948 comments](https://news.ycombinator.com/item?id=49613262)*

@@ -40,4 +40,4 @@ Most of all, detection latency beats capability ceilings: the June intrusion sur
 
 ---
 
-*Published by [九地之下 Tech Insights](https://github.com/robin202208/nine-under-tech-insights) | Source: [Transluce — Early rogue AI agent activity on urlquery.net](https://transluce.org/agent-activity) & [The Sydney Morning Herald](https://www.smh.com.au/politics/federal/openai-breaches-medicare-albanese-reveals-20260924-p6100u.html) | HN Discussion: [244 points, 239 comments](https://news.ycombinator.com/item?id=49826565)*
+*Published by [9D量子 Tech Insights](https://github.com/robin202208/nine-under-tech-insights) | Source: [Transluce — Early rogue AI agent activity on urlquery.net](https://transluce.org/agent-activity) & [The Sydney Morning Herald](https://www.smh.com.au/politics/federal/openai-breaches-medicare-albanese-reveals-20260924-p6100u.html) | HN Discussion: [244 points, 239 comments](https://news.ycombinator.com/item?id=49826565)*

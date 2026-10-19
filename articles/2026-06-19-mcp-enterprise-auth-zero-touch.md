@@ -37,4 +37,4 @@ For enterprises evaluating AI agent deployment, EMA removes the biggest complian
 Protocol infrastructure is never glamorous, but it's what separates science projects from production systems. MCP with EMA is the equivalent of OAuth 2.0 for the web — boring, essential, and the reason the thing built on top of it can actually scale. This is the moment MCP stopped being interesting and started being deployable.
 
 ---
-*Published by [九地之下 Tech Insights](https://github.com/robin202208/nine-under-tech-insights)*
+*Published by [9D量子 Tech Insights](https://github.com/robin202208/nine-under-tech-insights)*

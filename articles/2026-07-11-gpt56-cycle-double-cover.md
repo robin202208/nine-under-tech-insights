@@ -32,4 +32,4 @@ Sam Altman had foreshadowed this moment days earlier, posting that he was "appro
 
 ---
 
-*Published by [九地之下 Tech Insights](https://github.com/robin202208/nine-under-tech-insights) | Source: [OpenAI](https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf) | HN Discussion: [337 points, 272 comments](https://news.ycombinator.com/item?id=48863490)*
+*Published by [9D量子 Tech Insights](https://github.com/robin202208/nine-under-tech-insights) | Source: [OpenAI](https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf) | HN Discussion: [337 points, 272 comments](https://news.ycombinator.com/item?id=48863490)*

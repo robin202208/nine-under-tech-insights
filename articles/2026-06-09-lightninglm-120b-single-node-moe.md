@@ -43,8 +43,8 @@ The paper's most valuable contribution may be what it doesn't claim as new. Ever
 
 LightningLM is the kind of paper that changes what people believe is possible. The "you need a cluster to train at scale" assumption has been so pervasive that it's rarely questioned. A working artifact — open weights, open tokenizer, open training code — that says otherwise is more persuasive than any argument.
 
-For 九地之下, this directly informs our AI infrastructure decisions. We build AI applications across agent systems, international Chinese education, and smart hardware — domains where training or fine-tuning domain-specific models could unlock capabilities that generic APIs can't match. The LightningLM recipe means we don't need to wait for the economics of cluster-scale training to come within reach. A single well-configured node, the right reversibility discipline, and state-preserving growth can get us substantially further than the conventional wisdom suggests.
+For 9D量子, this directly informs our AI infrastructure decisions. We build AI applications across agent systems, international Chinese education, and smart hardware — domains where training or fine-tuning domain-specific models could unlock capabilities that generic APIs can't match. The LightningLM recipe means we don't need to wait for the economics of cluster-scale training to come within reach. A single well-configured node, the right reversibility discipline, and state-preserving growth can get us substantially further than the conventional wisdom suggests.
 
 ---
 
-*Published by [九地之下 Tech Insights](https://github.com/robin202208/nine-under-tech-insights)*
+*Published by [9D量子 Tech Insights](https://github.com/robin202208/nine-under-tech-insights)*

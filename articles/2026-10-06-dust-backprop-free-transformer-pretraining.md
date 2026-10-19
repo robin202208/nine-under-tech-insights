@@ -26,4 +26,4 @@ What the paper does is shift what counts as plausible. If the compute-rich regim
 
 ---
 
-*Published by [九地之下 Tech Insights](https://github.com/robin202208/nine-under-tech-insights) | Source: [Q Labs Research — Dust](https://qlabs.sh/research/dust) | HN Discussion: [97 points, 17 comments](https://news.ycombinator.com/item?id=49970871)*
+*Published by [9D量子 Tech Insights](https://github.com/robin202208/nine-under-tech-insights) | Source: [Q Labs Research — Dust](https://qlabs.sh/research/dust) | HN Discussion: [97 points, 17 comments](https://news.ycombinator.com/item?id=49970871)*

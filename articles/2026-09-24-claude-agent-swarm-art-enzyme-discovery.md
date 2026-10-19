@@ -30,4 +30,4 @@ Several questions stay open. Scale is one: 210 million tokens produced 20 finali
 
 ---
 
-*Published by [九地之下 Tech Insights](https://github.com/robin202208/nine-under-tech-insights) | Source: [Anthropic — Claude discovers a novel enzyme system with CRISPR-like repeats](https://www.anthropic.com/news/claude-discovers-novel-enzyme-system) | HN Discussion: [488 points, 528 comments](https://news.ycombinator.com/item?id=49820134)*
+*Published by [9D量子 Tech Insights](https://github.com/robin202208/nine-under-tech-insights) | Source: [Anthropic — Claude discovers a novel enzyme system with CRISPR-like repeats](https://www.anthropic.com/news/claude-discovers-novel-enzyme-system) | HN Discussion: [488 points, 528 comments](https://news.ycombinator.com/item?id=49820134)*

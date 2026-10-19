@@ -24,4 +24,4 @@ The strategic signal is broader: when a "virtual C-suite" can be assembled from 
 
 ---
 
-*Published by [九地之下 Tech Insights](https://github.com/robin202208/nine-under-tech-insights) | Source: [OpenExecutive GitHub Repository](https://github.com/SenteLabsAI/OpenExecutive) | HN Discussion: [938 points, 647 comments](https://news.ycombinator.com/item?id=49458418)*
+*Published by [9D量子 Tech Insights](https://github.com/robin202208/nine-under-tech-insights) | Source: [OpenExecutive GitHub Repository](https://github.com/SenteLabsAI/OpenExecutive) | HN Discussion: [938 points, 647 comments](https://news.ycombinator.com/item?id=49458418)*

@@ -55,4 +55,4 @@ The report's own admission is striking: "The doing — writing the code, running
 Anthropic is saying out loud what every frontier lab has been seeing internally: AI systems are now the primary force driving AI progress, and the feedback loop is tightening. The call for a verifiable global pause mechanism is the right instinct, but the technical challenge of building a verification regime that works on general-purpose compute — where training runs are easy to hide — is immense. The window for building coordination infrastructure is measured in months, not years, and the Amdahl's Law bottleneck for society isn't compute or model capability — it's institutional adaptation speed.
 
 ---
-*Published by [九地之下 Tech Insights](https://github.com/robin202208/nine-under-tech-insights)*
+*Published by [9D量子 Tech Insights](https://github.com/robin202208/nine-under-tech-insights)*

@@ -24,8 +24,8 @@ Until RTK ships SWE-bench-verified accuracy benchmarks alongside its cost graphs
 
 ## Our Take
 
-The RTK debate is healthy for the agent ecosystem. It forces us to ask: are we optimizing the right thing? Token efficiency matters, but not if it comes at the cost of semantic fidelity. At 九地之下, we treat agent context as sacred—compression belongs at the model layer, not as an opaque middleware between the shell and the agent.
+The RTK debate is healthy for the agent ecosystem. It forces us to ask: are we optimizing the right thing? Token efficiency matters, but not if it comes at the cost of semantic fidelity. At 9D量子, we treat agent context as sacred—compression belongs at the model layer, not as an opaque middleware between the shell and the agent.
 
 ---
 
-*Published by [九地之下 Tech Insights](https://github.com/robin202208/nine-under-tech-insights)*
+*Published by [9D量子 Tech Insights](https://github.com/robin202208/nine-under-tech-insights)*

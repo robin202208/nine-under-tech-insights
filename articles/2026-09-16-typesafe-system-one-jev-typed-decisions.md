@@ -34,4 +34,4 @@ The honest reading: this does not prove strings are dead. It makes "no strings" 
 
 ---
 
-*Published by [九地之下 Tech Insights](https://github.com/robin202208/nine-under-tech-insights) | Source: [TypeSafe AI](https://typesafe.ai/blog/introducing-system-one-models-and-jev) | HN Discussion: [719 points, 241 comments](https://news.ycombinator.com/item?id=49717558)*
+*Published by [9D量子 Tech Insights](https://github.com/robin202208/nine-under-tech-insights) | Source: [TypeSafe AI](https://typesafe.ai/blog/introducing-system-one-models-and-jev) | HN Discussion: [719 points, 241 comments](https://news.ycombinator.com/item?id=49717558)*

@@ -30,4 +30,4 @@ One frontier remains open. Ataraxos cannot yet explain why it makes the moves it
 
 ---
 
-*Published by [九地之下 Tech Insights](https://github.com/robin202208/nine-under-tech-insights) | Source: [Ars Technica](https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-bu) & [Nature (DOI: 10.1038/s41586-026-11036-y)](https://doi.org/10.1038/s41586-026-11036-y) | HN Discussion: [176 points, 85 comments](https://news.ycombinator.com/item?id=49933740)*
+*Published by [9D量子 Tech Insights](https://github.com/robin202208/nine-under-tech-insights) | Source: [Ars Technica](https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-bu) & [Nature (DOI: 10.1038/s41586-026-11036-y)](https://doi.org/10.1038/s41586-026-11036-y) | HN Discussion: [176 points, 85 comments](https://news.ycombinator.com/item?id=49933740)*

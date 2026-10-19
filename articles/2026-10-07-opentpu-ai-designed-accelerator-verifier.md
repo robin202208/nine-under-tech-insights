@@ -26,4 +26,4 @@ For the hardware world, openTPU is a readable, Apache-2.0, full-stack counterpoi
 
 ---
 
-*Published by [九地之下 Tech Insights](https://github.com/robin202208/nine-under-tech-insights) | Source: [openTPU](https://github.com/FeSens/openTPU) & [auto-arch-tournament](https://github.com/FeSens/auto-arch-tournament) | HN Discussion: [232 points, 295 comments](https://news.ycombinator.com/item?id=49980715)*
+*Published by [9D量子 Tech Insights](https://github.com/robin202208/nine-under-tech-insights) | Source: [openTPU](https://github.com/FeSens/openTPU) & [auto-arch-tournament](https://github.com/FeSens/auto-arch-tournament) | HN Discussion: [232 points, 295 comments](https://news.ycombinator.com/item?id=49980715)*

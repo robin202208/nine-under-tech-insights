@@ -34,4 +34,4 @@ The question is what lies on the other side.
 
 ---
 
-*Published by [九地之下 Tech Insights](https://github.com/robin202208/nine-under-tech-insights) | Sources: [Taipei Times](https://www.taipeitimes.com/News/world/archives/2026/07/24/2003861308), [SCMP](https://www.scmp.com/tech/article/3361482), [Straits Times](https://www.straitstimes.com/world/ai-catches-up-with-humans-to-score-100-at-top-maths-contest), [China Daily](https://www.chinadaily.com.cn/a/202607/22/WS6a6085aaa310986e2b466b54.html)*
+*Published by [9D量子 Tech Insights](https://github.com/robin202208/nine-under-tech-insights) | Sources: [Taipei Times](https://www.taipeitimes.com/News/world/archives/2026/07/24/2003861308), [SCMP](https://www.scmp.com/tech/article/3361482), [Straits Times](https://www.straitstimes.com/world/ai-catches-up-with-humans-to-score-100-at-top-maths-contest), [China Daily](https://www.chinadaily.com.cn/a/202607/22/WS6a6085aaa310986e2b466b54.html)*

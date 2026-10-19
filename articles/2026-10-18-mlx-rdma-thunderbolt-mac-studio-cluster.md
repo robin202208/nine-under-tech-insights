@@ -26,4 +26,4 @@ The caveats are real. Every published number is batch-1, single-stream; Apple re
 
 ---
 
-*Published by [九地之下 Tech Insights](https://github.com/robin202208/nine-under-tech-insights) | Source: [Apple Machine Learning Research](https://machinelearning.apple.com/research/mlx-distributed-inference) | HN Discussion: [362 points, 195 comments](https://news.ycombinator.com/item?id=50118320)*
+*Published by [9D量子 Tech Insights](https://github.com/robin202208/nine-under-tech-insights) | Source: [Apple Machine Learning Research](https://machinelearning.apple.com/research/mlx-distributed-inference) | HN Discussion: [362 points, 195 comments](https://news.ycombinator.com/item?id=50118320)*

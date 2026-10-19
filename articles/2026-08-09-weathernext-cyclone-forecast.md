@@ -28,4 +28,4 @@ For the AI community, WeatherNext is a reminder that the highest-value applicati
 
 ---
 
-*Published by [九地之下 Tech Insights](https://github.com/robin202208/nine-under-tech-insights) | Source: [Google DeepMind Blog](https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/) & [Nature Paper](https://www.nature.com/articles/s41586-026-10953-2) | HN Discussion: [381 points, 115 comments](https://news.ycombinator.com/item?id=49220126)*
+*Published by [9D量子 Tech Insights](https://github.com/robin202208/nine-under-tech-insights) | Source: [Google DeepMind Blog](https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/) & [Nature Paper](https://www.nature.com/articles/s41586-026-10953-2) | HN Discussion: [381 points, 115 comments](https://news.ycombinator.com/item?id=49220126)*

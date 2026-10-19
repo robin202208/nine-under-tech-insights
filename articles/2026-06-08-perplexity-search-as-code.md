@@ -53,4 +53,4 @@ The broader pattern — **code as the operational layer for AI** — will reshap
 
 ---
 
-*Published by [九地之下 Tech Insights](https://github.com/robin202208/nine-under-tech-insights)*
+*Published by [9D量子 Tech Insights](https://github.com/robin202208/nine-under-tech-insights)*

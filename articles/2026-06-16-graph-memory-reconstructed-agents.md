@@ -44,7 +44,7 @@ Agent memory is the bottleneck nobody likes to talk about. We have fantastic mod
 
 The practical implication is that agent frameworks need to stop treating memory as an external database with an API. Memory should be a native reasoning primitive — a graph the agent walks, not a database it queries. This means the next generation of agent architecture needs memory systems that expose iterative, evidence-guided exploration rather than one-shot retrieval.
 
-For 九地之下, building agent systems that operate over long time horizons (Aurora Ring's health monitoring, multi-session user context), this paper reinforces what we've learned the hard way: retrieval-first memory breaks at scale. The people who build reconstruction-first memory will build the agents that actually remember.
+For 9D量子, building agent systems that operate over long time horizons (Aurora Ring's health monitoring, multi-session user context), this paper reinforces what we've learned the hard way: retrieval-first memory breaks at scale. The people who build reconstruction-first memory will build the agents that actually remember.
 
 ---
 

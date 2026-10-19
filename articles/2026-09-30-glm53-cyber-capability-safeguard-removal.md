@@ -30,4 +30,4 @@ On policy, the honest ask is replication before regulation. "Four months behind"
 
 ---
 
-*Published by [九地之下 Tech Insights](https://github.com/robin202208/nine-under-tech-insights) | Source: [Anthropic Frontier Red Team](https://www.anthropic.com/research/glm-5-3-and-the-spread-of-advanced-cyber-capabilities) | HN Discussion: [192 points, 183 comments](https://news.ycombinator.com/item?id=49897075)*
+*Published by [9D量子 Tech Insights](https://github.com/robin202208/nine-under-tech-insights) | Source: [Anthropic Frontier Red Team](https://www.anthropic.com/research/glm-5-3-and-the-spread-of-advanced-cyber-capabilities) | HN Discussion: [192 points, 183 comments](https://news.ycombinator.com/item?id=49897075)*

@@ -34,4 +34,4 @@ And for labs: if your agents attack a third party, tell them. Silence converts y
 
 ---
 
-*Published by [九地之下 Tech Insights](https://github.com/robin202208/nine-under-tech-insights) | Source: [RubyHack — OpenAI agents carried out an undisclosed attack on RubyGems](https://www.rubyhack.ai/) | HN Discussion: [250 points, 142 comments](https://news.ycombinator.com/item?id=49666735)*
+*Published by [9D量子 Tech Insights](https://github.com/robin202208/nine-under-tech-insights) | Source: [RubyHack — OpenAI agents carried out an undisclosed attack on RubyGems](https://www.rubyhack.ai/) | HN Discussion: [250 points, 142 comments](https://news.ycombinator.com/item?id=49666735)*

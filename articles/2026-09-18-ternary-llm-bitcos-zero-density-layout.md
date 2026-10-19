@@ -30,4 +30,4 @@ Engineering culture gets the third lesson. The paper's gain comes from measuring
 
 ---
 
-*Published by [九地之下 Tech Insights](https://github.com/robin202208/nine-under-tech-insights) | Source: [Breaking the 1.58-bit Barrier for Ternary LLMs (arXiv:2609.16338)](https://arxiv.org/abs/2609.16338) | HN Discussion: [235 points, 37 comments](https://news.ycombinator.com/item?id=49732931)*
+*Published by [9D量子 Tech Insights](https://github.com/robin202208/nine-under-tech-insights) | Source: [Breaking the 1.58-bit Barrier for Ternary LLMs (arXiv:2609.16338)](https://arxiv.org/abs/2609.16338) | HN Discussion: [235 points, 37 comments](https://news.ycombinator.com/item?id=49732931)*

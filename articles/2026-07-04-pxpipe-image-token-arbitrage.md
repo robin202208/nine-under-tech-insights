@@ -34,4 +34,4 @@ For developers, the 30-second setup (`npx pxpipe-proxy`) and the clear safety gu
 
 ---
 
-*Published by [Nine Under Tech Insights](https://github.com/robin202208/nine-under-tech-insights) | Source: [pxpipe on GitHub](https://github.com/teamchong/pxpipe) | HN Discussion: [232 points, 87 comments](https://news.ycombinator.com/item?id=48776464)*
+*Published by [9D Quantum Tech Insights](https://github.com/robin202208/nine-under-tech-insights) | Source: [pxpipe on GitHub](https://github.com/teamchong/pxpipe) | HN Discussion: [232 points, 87 comments](https://news.ycombinator.com/item?id=48776464)*
