@@ -2,6 +2,8 @@
 
 > UnderNinePlaces Tech Insights — AI × Smart Hardware × Deep Tech
 
+- [2026-10-21 — Citation Laundering: How 50,000 Fake Statistics Became Evidence LLMs Cite](articles/2026-10-21-citation-laundering-fake-statistics-llm-grounding.md)
+
 - [2026-10-20 — Timestral: 209M Parameters, Three Leaderboards, No GPU](articles/2026-10-20-timestral-time-series-foundation-models.md)
 
 - [2026-10-19 — The Agent That Thinks in Vectors and Only Speaks to Use a Tool](articles/2026-10-19-hybrid-agent-latent-thinking-tool-use.md)
@@ -208,6 +210,8 @@
 ---
 
 ## 往期文章
+
+- [2026-10-21 — Citation Laundering: How 50,000 Fake Statistics Became Evidence LLMs Cite](articles/2026-10-21-citation-laundering-fake-statistics-llm-grounding.md)
 
 - [2026-10-20 — Timestral: 209M Parameters, Three Leaderboards, No GPU](articles/2026-10-20-timestral-time-series-foundation-models.md)
 
