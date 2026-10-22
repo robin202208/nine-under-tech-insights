@@ -2,6 +2,8 @@
 
 > UnderNinePlaces Tech Insights — AI × Smart Hardware × Deep Tech
 
+- [2026-10-22 — PyTorch Finally Speaks TPU Natively — and It Cost More Than a Kernel Port](articles/2026-10-22-torchtpu-native-pytorch-backend-tpu.md)
+
 - [2026-10-21 — Citation Laundering: How 50,000 Fake Statistics Became Evidence LLMs Cite](articles/2026-10-21-citation-laundering-fake-statistics-llm-grounding.md)
 
 - [2026-10-20 — Timestral: 209M Parameters, Three Leaderboards, No GPU](articles/2026-10-20-timestral-time-series-foundation-models.md)
@@ -210,6 +212,8 @@
 ---
 
 ## 往期文章
+
+- [2026-10-22 — PyTorch Finally Speaks TPU Natively — and It Cost More Than a Kernel Port](articles/2026-10-22-torchtpu-native-pytorch-backend-tpu.md)
 
 - [2026-10-21 — Citation Laundering: How 50,000 Fake Statistics Became Evidence LLMs Cite](articles/2026-10-21-citation-laundering-fake-statistics-llm-grounding.md)
 
