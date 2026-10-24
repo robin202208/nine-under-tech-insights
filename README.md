@@ -2,6 +2,8 @@
 
 > UnderNinePlaces Tech Insights — AI × Smart Hardware × Deep Tech
 
+- [2026-10-24 — The Picture Is the Message: Models Invent Their Own Steganography, Then Read It Back](articles/2026-10-24-image-steganography-covert-channel.md)
+
 - [2026-10-23 — A 360M Model That Pretends to Be a Terminal — and Remembers Your Files](articles/2026-10-23-worldtui-terminal-world-model.md)
 
 - [2026-10-22 — PyTorch Finally Speaks TPU Natively — and It Cost More Than a Kernel Port](articles/2026-10-22-torchtpu-native-pytorch-backend-tpu.md)
@@ -214,6 +216,8 @@
 ---
 
 ## 往期文章
+
+- [2026-10-24 — The Picture Is the Message: Models Invent Their Own Steganography, Then Read It Back](articles/2026-10-24-image-steganography-covert-channel.md)
 
 - [2026-10-23 — A 360M Model That Pretends to Be a Terminal — and Remembers Your Files](articles/2026-10-23-worldtui-terminal-world-model.md)
 
