@@ -2,6 +2,8 @@
 
 > UnderNinePlaces Tech Insights — AI × Smart Hardware × Deep Tech
 
+- [2026-10-27 — A Reasoning Trace Is Not a Security Boundary](articles/2026-10-27-reasoning-trace-not-security-boundary.md)
+
 - [2026-10-26 — 62% Against 42%: A 2015 CNN Reads Skin Better Than Two Frontier Models](articles/2026-10-26-2015-cnn-beats-frontier-vlms-skin-cancer.md)
 
 - [2026-10-25 — The Density Tax: Why Frontier Models Write Sentences That Cost More to Read](articles/2026-10-25-why-ai-text-costs-more-to-read.md)
@@ -220,6 +222,8 @@
 ---
 
 ## 往期文章
+
+- [2026-10-27 — A Reasoning Trace Is Not a Security Boundary](articles/2026-10-27-reasoning-trace-not-security-boundary.md)
 
 - [2026-10-26 — 62% Against 42%: A 2015 CNN Reads Skin Better Than Two Frontier Models](articles/2026-10-26-2015-cnn-beats-frontier-vlms-skin-cancer.md)
 
