@@ -2,6 +2,8 @@
 
 > UnderNinePlaces Tech Insights — AI × Smart Hardware × Deep Tech
 
+- [2026-10-28 — Two Labs, One Afternoon: Frontier Models Refuted the Exponential Time Hypothesis](articles/2026-10-28-eth-refuted-two-labs-same-day.md)
+
 - [2026-10-27 — A Reasoning Trace Is Not a Security Boundary](articles/2026-10-27-reasoning-trace-not-security-boundary.md)
 
 - [2026-10-26 — 62% Against 42%: A 2015 CNN Reads Skin Better Than Two Frontier Models](articles/2026-10-26-2015-cnn-beats-frontier-vlms-skin-cancer.md)
@@ -222,6 +224,8 @@
 ---
 
 ## 往期文章
+
+- [2026-10-28 — Two Labs, One Afternoon: Frontier Models Refuted the Exponential Time Hypothesis](articles/2026-10-28-eth-refuted-two-labs-same-day.md)
 
 - [2026-10-27 — A Reasoning Trace Is Not a Security Boundary](articles/2026-10-27-reasoning-trace-not-security-boundary.md)
 
