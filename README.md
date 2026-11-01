@@ -2,6 +2,8 @@
 
 > UnderNinePlaces Tech Insights — AI × Smart Hardware × Deep Tech
 
+- [2026-11-01 — One Click on a Shared Chat: A Math Keyboard and a YouTube Allowlist Handed Over the Account](articles/2026-11-01-chatgpt-share-page-same-origin-xss.md)
+
 - [2026-10-31 — The Mirror Was the Weakest Link: A Backdoored Claude Code Extension and the Provenance Gap](articles/2026-10-31-mirror-marketplace-extension-provenance.md)
 
 - [2026-10-28 — Two Labs, One Afternoon: Frontier Models Refuted the Exponential Time Hypothesis](articles/2026-10-28-eth-refuted-two-labs-same-day.md)
@@ -226,6 +228,8 @@
 ---
 
 ## 往期文章
+
+- [2026-11-01 — One Click on a Shared Chat: A Math Keyboard and a YouTube Allowlist Handed Over the Account](articles/2026-11-01-chatgpt-share-page-same-origin-xss.md)
 
 - [2026-10-31 — The Mirror Was the Weakest Link: A Backdoored Claude Code Extension and the Provenance Gap](articles/2026-10-31-mirror-marketplace-extension-provenance.md)
 
