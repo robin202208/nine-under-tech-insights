@@ -2,6 +2,8 @@
 
 > UnderNinePlaces Tech Insights — AI × Smart Hardware × Deep Tech
 
+- [2026-11-03 — An LLM Read 131,072 Weights and Unstuck a Model That Could Not Do Math](articles/2026-11-03-weight-space-programming.md)
+
 - [2026-11-02 — The Framework Tax: 55 AI-Built Apps Show Stack Choice Is Now an Inference Bill](articles/2026-11-02-ai-cost-javascript-frameworks-agent-benchmark.md)
 
 - [2026-11-01 — One Click on a Shared Chat: A Math Keyboard and a YouTube Allowlist Handed Over the Account](articles/2026-11-01-chatgpt-share-page-same-origin-xss.md)
@@ -230,6 +232,8 @@
 ---
 
 ## 往期文章
+
+- [2026-11-03 — An LLM Read 131,072 Weights and Unstuck a Model That Could Not Do Math](articles/2026-11-03-weight-space-programming.md)
 
 - [2026-11-02 — The Framework Tax: 55 AI-Built Apps Show Stack Choice Is Now an Inference Bill](articles/2026-11-02-ai-cost-javascript-frameworks-agent-benchmark.md)
 
