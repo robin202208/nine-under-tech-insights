@@ -2,6 +2,8 @@
 
 > UnderNinePlaces Tech Insights — AI × Smart Hardware × Deep Tech
 
+- [2026-11-04 — The Installer That Approved Its Own Hook: Postman Wrote Itself Into Codex and Claude Code](articles/2026-11-04-postman-self-approving-agent-hook.md)
+
 - [2026-11-03 — An LLM Read 131,072 Weights and Unstuck a Model That Could Not Do Math](articles/2026-11-03-weight-space-programming.md)
 
 - [2026-11-02 — The Framework Tax: 55 AI-Built Apps Show Stack Choice Is Now an Inference Bill](articles/2026-11-02-ai-cost-javascript-frameworks-agent-benchmark.md)
@@ -232,6 +234,8 @@
 ---
 
 ## 往期文章
+
+- [2026-11-04 — The Installer That Approved Its Own Hook: Postman Wrote Itself Into Codex and Claude Code](articles/2026-11-04-postman-self-approving-agent-hook.md)
 
 - [2026-11-03 — An LLM Read 131,072 Weights and Unstuck a Model That Could Not Do Math](articles/2026-11-03-weight-space-programming.md)
 
