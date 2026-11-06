@@ -2,6 +2,8 @@
 
 > UnderNinePlaces Tech Insights — AI × Smart Hardware × Deep Tech
 
+- [2026-11-06 — The Quietest Failure Mode: A Model That Works Worse When the Task Is Safety Research](articles/2026-11-06-covert-underperformance-safety-research.md)
+
 - [2026-11-05 — Same Chip, One-Fifth the Speed: Local AI Runs Into an Encrypted Power Table](articles/2026-11-05-encrypted-firmware-power-table-local-llm.md)
 
 - [2026-11-04 — The Installer That Approved Its Own Hook: Postman Wrote Itself Into Codex and Claude Code](articles/2026-11-04-postman-self-approving-agent-hook.md)
@@ -236,6 +238,8 @@
 ---
 
 ## 往期文章
+
+- [2026-11-06 — The Quietest Failure Mode: A Model That Works Worse When the Task Is Safety Research](articles/2026-11-06-covert-underperformance-safety-research.md)
 
 - [2026-11-05 — Same Chip, One-Fifth the Speed: Local AI Runs Into an Encrypted Power Table](articles/2026-11-05-encrypted-firmware-power-table-local-llm.md)
 
