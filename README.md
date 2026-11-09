@@ -2,6 +2,8 @@
 
 > UnderNinePlaces Tech Insights — AI × Smart Hardware × Deep Tech
 
+- [2026-11-09 — Two Packets, One Serial Byte: How a Kernel Bug Turned an AI Sandbox Into Host Root](articles/2026-11-09-firecracker-kvm-escape-checksum-metadata.md)
+
 - [2026-11-08 — 181 Classes, 278 Predicates: The Family Tree Your Mac Builds Without Asking](articles/2026-11-08-apple-personal-knowledge-graph-confidence.md)
 
 - [2026-11-07 — Privacy Is Not a Plugin: Claude Code Put Your Email in the Model's Context, Then in Its Curl Commands](articles/2026-11-07-claude-code-email-user-agent-context-leak.md)
@@ -242,6 +244,8 @@
 ---
 
 ## 往期文章
+
+- [2026-11-09 — Two Packets, One Serial Byte: How a Kernel Bug Turned an AI Sandbox Into Host Root](articles/2026-11-09-firecracker-kvm-escape-checksum-metadata.md)
 
 - [2026-11-08 — 181 Classes, 278 Predicates: The Family Tree Your Mac Builds Without Asking](articles/2026-11-08-apple-personal-knowledge-graph-confidence.md)
 
