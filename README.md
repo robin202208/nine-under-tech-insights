@@ -2,6 +2,8 @@
 
 > UnderNinePlaces Tech Insights — AI × Smart Hardware × Deep Tech
 
+- [2026-11-11 — 44x Cheaper, Same Answer: Amazon Turned Ticket Labeling Back Into a Classification Problem](articles/2026-11-11-decision-model-retires-sonnet-ticket-labeling.md)
+
 - [2026-11-10 — Twelve Steps Instead of a Thousand: Next-Concept Modeling Rewrites Parallel Text Generation](articles/2026-11-10-next-concept-modeling-hierarchical-text-codes.md)
 
 - [2026-11-09 — Two Packets, One Serial Byte: How a Kernel Bug Turned an AI Sandbox Into Host Root](articles/2026-11-09-firecracker-kvm-escape-checksum-metadata.md)
@@ -246,6 +248,8 @@
 ---
 
 ## 往期文章
+
+- [2026-11-11 — 44x Cheaper, Same Answer: Amazon Turned Ticket Labeling Back Into a Classification Problem](articles/2026-11-11-decision-model-retires-sonnet-ticket-labeling.md)
 
 - [2026-11-10 — Twelve Steps Instead of a Thousand: Next-Concept Modeling Rewrites Parallel Text Generation](articles/2026-11-10-next-concept-modeling-hierarchical-text-codes.md)
 
