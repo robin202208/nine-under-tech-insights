@@ -2,6 +2,8 @@
 
 > UnderNinePlaces Tech Insights — AI × Smart Hardware × Deep Tech
 
+- [2026-11-14 — Forty-Eight Agents Mapped 1,200 km² of Jungle — and Still Couldn't Find the Paper](articles/2026-11-14-agent-lidar-prior-art-retrieval.md)
+
 - [2026-11-13 — Every Checkpoint Remembers the Chip That Made It: Recovering a GPU Fingerprint From Published Weights](articles/2026-11-13-gpu-fingerprint-checkpoint-forensics.md)
 
 - [2026-11-11 — 44x Cheaper, Same Answer: Amazon Turned Ticket Labeling Back Into a Classification Problem](articles/2026-11-11-decision-model-retires-sonnet-ticket-labeling.md)
@@ -250,6 +252,8 @@
 ---
 
 ## 往期文章
+
+- [2026-11-14 — Forty-Eight Agents Mapped 1,200 km² of Jungle — and Still Couldn't Find the Paper](articles/2026-11-14-agent-lidar-prior-art-retrieval.md)
 
 - [2026-11-13 — Every Checkpoint Remembers the Chip That Made It: Recovering a GPU Fingerprint From Published Weights](articles/2026-11-13-gpu-fingerprint-checkpoint-forensics.md)
 
