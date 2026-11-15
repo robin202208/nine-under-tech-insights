@@ -2,6 +2,8 @@
 
 > UnderNinePlaces Tech Insights — AI × Smart Hardware × Deep Tech
 
+- [2026-11-15 — One Missing Policy, 159,041 Apps: AI-Built Sites Served Passports by Default](articles/2026-11-15-lovable-supabase-rls-default.md)
+
 - [2026-11-14 — Forty-Eight Agents Mapped 1,200 km² of Jungle — and Still Couldn't Find the Paper](articles/2026-11-14-agent-lidar-prior-art-retrieval.md)
 
 - [2026-11-13 — Every Checkpoint Remembers the Chip That Made It: Recovering a GPU Fingerprint From Published Weights](articles/2026-11-13-gpu-fingerprint-checkpoint-forensics.md)
@@ -252,6 +254,8 @@
 ---
 
 ## 往期文章
+
+- [2026-11-15 — One Missing Policy, 159,041 Apps: AI-Built Sites Served Passports by Default](articles/2026-11-15-lovable-supabase-rls-default.md)
 
 - [2026-11-14 — Forty-Eight Agents Mapped 1,200 km² of Jungle — and Still Couldn't Find the Paper](articles/2026-11-14-agent-lidar-prior-art-retrieval.md)
 
