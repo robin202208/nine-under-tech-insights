@@ -2,6 +2,8 @@
 
 > UnderNinePlaces Tech Insights — AI × Smart Hardware × Deep Tech
 
+- [2026-11-16 — DeepSeek-V3 in 190 Lines: What Fits on a Laptop, and What Doesn't](articles/2026-11-16-deepseek-v3-190-lines-jax.md)
+
 - [2026-11-15 — One Missing Policy, 159,041 Apps: AI-Built Sites Served Passports by Default](articles/2026-11-15-lovable-supabase-rls-default.md)
 
 - [2026-11-14 — Forty-Eight Agents Mapped 1,200 km² of Jungle — and Still Couldn't Find the Paper](articles/2026-11-14-agent-lidar-prior-art-retrieval.md)
@@ -254,6 +256,8 @@
 ---
 
 ## 往期文章
+
+- [2026-11-16 — DeepSeek-V3 in 190 Lines: What Fits on a Laptop, and What Doesn't](articles/2026-11-16-deepseek-v3-190-lines-jax.md)
 
 - [2026-11-15 — One Missing Policy, 159,041 Apps: AI-Built Sites Served Passports by Default](articles/2026-11-15-lovable-supabase-rls-default.md)
 
