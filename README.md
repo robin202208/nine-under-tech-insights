@@ -2,6 +2,8 @@
 
 > UnderNinePlaces Tech Insights — AI × Smart Hardware × Deep Tech
 
+- [2026-11-18 — Sixty-Five Bytes to Root: The Base64 Tail Case That Broke Java's Memory-Safety Promise](articles/2026-11-18-java4shell-base64-intrinsic-oob.md)
+
 - [2026-11-17 — One Bit per Agent: Windows 11 Is Uploading Which Coding Agent You Run](articles/2026-11-17-windows-coding-agent-telemetry-bitset.md)
 
 - [2026-11-16 — DeepSeek-V3 in 190 Lines: What Fits on a Laptop, and What Doesn't](articles/2026-11-16-deepseek-v3-190-lines-jax.md)
@@ -258,6 +260,8 @@
 ---
 
 ## 往期文章
+
+- [2026-11-18 — Sixty-Five Bytes to Root: The Base64 Tail Case That Broke Java's Memory-Safety Promise](articles/2026-11-18-java4shell-base64-intrinsic-oob.md)
 
 - [2026-11-17 — One Bit per Agent: Windows 11 Is Uploading Which Coding Agent You Run](articles/2026-11-17-windows-coding-agent-telemetry-bitset.md)
 
