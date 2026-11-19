@@ -2,6 +2,8 @@
 
 > UnderNinePlaces Tech Insights — AI × Smart Hardware × Deep Tech
 
+- [2026-11-19 — 1.8 Million Parameters, 345× Less Compute: Reasoning as Gradient Descent Down a Learned Energy Landscape](articles/2026-11-19-energy-based-reasoners-gradient-descent.md)
+
 - [2026-11-18 — Sixty-Five Bytes to Root: The Base64 Tail Case That Broke Java's Memory-Safety Promise](articles/2026-11-18-java4shell-base64-intrinsic-oob.md)
 
 - [2026-11-17 — One Bit per Agent: Windows 11 Is Uploading Which Coding Agent You Run](articles/2026-11-17-windows-coding-agent-telemetry-bitset.md)
@@ -260,6 +262,8 @@
 ---
 
 ## 往期文章
+
+- [2026-11-19 — 1.8 Million Parameters, 345× Less Compute: Reasoning as Gradient Descent Down a Learned Energy Landscape](articles/2026-11-19-energy-based-reasoners-gradient-descent.md)
 
 - [2026-11-18 — Sixty-Five Bytes to Root: The Base64 Tail Case That Broke Java's Memory-Safety Promise](articles/2026-11-18-java4shell-base64-intrinsic-oob.md)
 
