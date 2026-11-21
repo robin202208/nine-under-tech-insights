@@ -2,6 +2,8 @@
 
 > UnderNinePlaces Tech Insights — AI × Smart Hardware × Deep Tech
 
+- [2026-11-21 — 17,374,215 Lines: The Riemann Hypothesis, Verified but Unread](articles/2026-11-21-riemann-lean-17-million-lines.md)
+
 - [2026-11-20 — 3,300 Bytes Per Socket: The Kernel Struct That Caps You at 2.5 Million Servers](articles/2026-11-20-smoltcp-dpdk-afxdp-15m-webservers.md)
 
 - [2026-11-19 — 1.8 Million Parameters, 345× Less Compute: Reasoning as Gradient Descent Down a Learned Energy Landscape](articles/2026-11-19-energy-based-reasoners-gradient-descent.md)
@@ -264,6 +266,8 @@
 ---
 
 ## 往期文章
+
+- [2026-11-21 — 17,374,215 Lines: The Riemann Hypothesis, Verified but Unread](articles/2026-11-21-riemann-lean-17-million-lines.md)
 
 - [2026-11-20 — 3,300 Bytes Per Socket: The Kernel Struct That Caps You at 2.5 Million Servers](articles/2026-11-20-smoltcp-dpdk-afxdp-15m-webservers.md)
 
