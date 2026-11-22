@@ -2,6 +2,8 @@
 
 > UnderNinePlaces Tech Insights — AI × Smart Hardware × Deep Tech
 
+- [2026-11-22 — 48 Layer Applications From 24 Stored Layers: Reasoning Without the Written Chain](articles/2026-11-22-loop-transformer-reasoning-without-cot.md)
+
 - [2026-11-21 — 17,374,215 Lines: The Riemann Hypothesis, Verified but Unread](articles/2026-11-21-riemann-lean-17-million-lines.md)
 
 - [2026-11-20 — 3,300 Bytes Per Socket: The Kernel Struct That Caps You at 2.5 Million Servers](articles/2026-11-20-smoltcp-dpdk-afxdp-15m-webservers.md)
@@ -266,6 +268,8 @@
 ---
 
 ## 往期文章
+
+- [2026-11-22 — 48 Layer Applications From 24 Stored Layers: Reasoning Without the Written Chain](articles/2026-11-22-loop-transformer-reasoning-without-cot.md)
 
 - [2026-11-21 — 17,374,215 Lines: The Riemann Hypothesis, Verified but Unread](articles/2026-11-21-riemann-lean-17-million-lines.md)
 
