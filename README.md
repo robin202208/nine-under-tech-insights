@@ -2,6 +2,8 @@
 
 > UnderNinePlaces Tech Insights — AI × Smart Hardware × Deep Tech
 
+- [2026-11-24 — Three Bits, 150 Tool Calls: A Quantizer That Only Counts the Tokens the Model Writes](articles/2026-11-24-nariq-trellis-quantization-agentic.md)
+
 - [2026-11-23 — 2,000,000 Canary Prompts: Mapping Where AI Inference Data Really Goes](articles/2026-11-23-inference-supply-chain-canary-prompts.md)
 
 - [2026-11-22 — 48 Layer Applications From 24 Stored Layers: Reasoning Without the Written Chain](articles/2026-11-22-loop-transformer-reasoning-without-cot.md)
@@ -270,6 +272,8 @@
 ---
 
 ## 往期文章
+
+- [2026-11-24 — Three Bits, 150 Tool Calls: A Quantizer That Only Counts the Tokens the Model Writes](articles/2026-11-24-nariq-trellis-quantization-agentic.md)
 
 - [2026-11-23 — 2,000,000 Canary Prompts: Mapping Where AI Inference Data Really Goes](articles/2026-11-23-inference-supply-chain-canary-prompts.md)
 
