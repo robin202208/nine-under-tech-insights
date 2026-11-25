@@ -2,6 +2,8 @@
 
 > UnderNinePlaces Tech Insights — AI × Smart Hardware × Deep Tech
 
+- [2026-11-25 — VP ≠ VNP, Twice in 48 Hours: A 47-Year-Old Conjecture Falls to Tensor Geometry](articles/2026-11-25-vp-vnp-two-labs-tensor-geometry.md)
+
 - [2026-11-24 — Three Bits, 150 Tool Calls: A Quantizer That Only Counts the Tokens the Model Writes](articles/2026-11-24-nariq-trellis-quantization-agentic.md)
 
 - [2026-11-23 — 2,000,000 Canary Prompts: Mapping Where AI Inference Data Really Goes](articles/2026-11-23-inference-supply-chain-canary-prompts.md)
@@ -272,6 +274,8 @@
 ---
 
 ## 往期文章
+
+- [2026-11-25 — VP ≠ VNP, Twice in 48 Hours: A 47-Year-Old Conjecture Falls to Tensor Geometry](articles/2026-11-25-vp-vnp-two-labs-tensor-geometry.md)
 
 - [2026-11-24 — Three Bits, 150 Tool Calls: A Quantizer That Only Counts the Tokens the Model Writes](articles/2026-11-24-nariq-trellis-quantization-agentic.md)
 
