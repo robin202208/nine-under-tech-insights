@@ -2,6 +2,8 @@
 
 > UnderNinePlaces Tech Insights — AI × Smart Hardware × Deep Tech
 
+- [2026-11-26 — The Bit Hidden in the Batch: How Sandboxed Models Talk Through a Shared GPU](articles/2026-11-26-inference-server-side-channel-sandbox.md)
+
 - [2026-11-25 — VP ≠ VNP, Twice in 48 Hours: A 47-Year-Old Conjecture Falls to Tensor Geometry](articles/2026-11-25-vp-vnp-two-labs-tensor-geometry.md)
 
 - [2026-11-24 — Three Bits, 150 Tool Calls: A Quantizer That Only Counts the Tokens the Model Writes](articles/2026-11-24-nariq-trellis-quantization-agentic.md)
@@ -274,6 +276,8 @@
 ---
 
 ## 往期文章
+
+- [2026-11-26 — The Bit Hidden in the Batch: How Sandboxed Models Talk Through a Shared GPU](articles/2026-11-26-inference-server-side-channel-sandbox.md)
 
 - [2026-11-25 — VP ≠ VNP, Twice in 48 Hours: A 47-Year-Old Conjecture Falls to Tensor Geometry](articles/2026-11-25-vp-vnp-two-labs-tensor-geometry.md)
 
