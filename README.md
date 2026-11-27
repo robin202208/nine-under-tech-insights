@@ -2,6 +2,8 @@
 
 > UnderNinePlaces Tech Insights — AI × Smart Hardware × Deep Tech
 
+- [2026-11-27 — 23 or 30 Tools: The Catalog Google Now Requires Every Agent to Trust](articles/2026-11-27-google-workspace-mcp-mandate-catalog.md)
+
 - [2026-11-26 — The Bit Hidden in the Batch: How Sandboxed Models Talk Through a Shared GPU](articles/2026-11-26-inference-server-side-channel-sandbox.md)
 
 - [2026-11-25 — VP ≠ VNP, Twice in 48 Hours: A 47-Year-Old Conjecture Falls to Tensor Geometry](articles/2026-11-25-vp-vnp-two-labs-tensor-geometry.md)
@@ -276,6 +278,8 @@
 ---
 
 ## 往期文章
+
+- [2026-11-27 — 23 or 30 Tools: The Catalog Google Now Requires Every Agent to Trust](articles/2026-11-27-google-workspace-mcp-mandate-catalog.md)
 
 - [2026-11-26 — The Bit Hidden in the Batch: How Sandboxed Models Talk Through a Shared GPU](articles/2026-11-26-inference-server-side-channel-sandbox.md)
 
